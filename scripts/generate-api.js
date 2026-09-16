@@ -13,7 +13,7 @@
  *   api/{lang}/exercises.json
  *   api/{lang}/exercises/{muscle}/{slug}.json
  *
- * Idiomas soportados: en, es
+ * Idiomas soportados: en, es, tr
  *
  * Cada ejercicio expone (mismo esquema en cualquier idioma):
  *   { id, slug, name, muscle, bodyPart, equipment, category,
@@ -21,7 +21,7 @@
  *
  * Los overrides en overrides/<muscle>/<slug>.json pueden contener:
  *   - claves planas (nameEs, instructions, ...) -> compat con la versión anterior
- *   - claves por idioma:  { en: { name, instructions }, es: { name, instructions } }
+ *   - claves por idioma:  { en: { name, instructions }, es: { name, instructions }, tr: {...} }
  */
 
 const fs = require("fs");
@@ -34,6 +34,7 @@ const {
 	generateInstructionsEs,
 	generateInstructionsEn,
 } = require("./translate");
+const { translateSlugTr, generateInstructionsTr } = require("./translate-tr");
 
 const ROOT = path.resolve(__dirname, "..");
 const OUT = path.join(ROOT, "api");
@@ -81,7 +82,7 @@ const BASE_URL = (
 	`https://cdn.jsdelivr.net/gh/${REPO_SLUG}@${REF}`
 ).replace(/\/+$/, "");
 
-const LANGS = ["en", "es"];
+const LANGS = ["en", "es", "tr"];
 
 const IGNORE = new Set([
 	"api",
@@ -98,6 +99,20 @@ function titleCase(slug) {
 		.replace(/-/g, " ")
 		.replace(/\b\w/g, (c) => c.toUpperCase())
 		.replace(/\bV (\d+)\b/g, "v$1");
+}
+
+/** Nombre del ejercicio según idioma. */
+function nameFor(lang, slug) {
+	if (lang === "es") return translateSlug(slug);
+	if (lang === "tr") return translateSlugTr(slug);
+	return titleCase(slug);
+}
+
+/** Instrucciones generadas según idioma. */
+function instructionsFor(lang, params) {
+	if (lang === "es") return generateInstructionsEs(params);
+	if (lang === "tr") return generateInstructionsTr(params);
+	return generateInstructionsEn(params);
 }
 
 function isMuscleDir(name) {
@@ -136,7 +151,7 @@ function isEmpty(value) {
  * Devuelve el override aplicable a un idioma concreto.
  * Soporta dos formatos:
  *   - { nameEs: "...", instructions: [...] }   (legacy plano)
- *   - { en: { name, instructions }, es: {...}, secondaryMuscles: [] }
+ *   - { en: { name, instructions }, es: {...}, tr: {...}, secondaryMuscles: [] }
  */
 function pickLangOverride(override, lang) {
 	if (!override) return {};
@@ -206,22 +221,13 @@ function buildExercise(lang, muscle, slug, file, override) {
 	const bodyPart = inferBodyPart(muscle);
 	const equipment = inferEquipment(slug);
 	const category = inferCategory(muscle, slug);
-	const nameInferred =
-		lang === "es" ? translateSlug(slug) : titleCase(slug);
-	const instructionsInferred =
-		lang === "es"
-			? generateInstructionsEs({
-					name: nameInferred,
-					muscle,
-					equipment,
-					category,
-			  })
-			: generateInstructionsEn({
-					name: nameInferred,
-					muscle,
-					equipment,
-					category,
-			  });
+	const nameInferred = nameFor(lang, slug);
+	const instructionsInferred = instructionsFor(lang, {
+		name: nameInferred,
+		muscle,
+		equipment,
+		category,
+	});
 
 	const base = {
 		id: `${muscle}/${slug}`,
