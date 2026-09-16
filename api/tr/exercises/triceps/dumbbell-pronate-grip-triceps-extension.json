@@ -1,0 +1,22 @@
+{
+  "id": "triceps/dumbbell-pronate-grip-triceps-extension",
+  "slug": "dumbbell-pronate-grip-triceps-extension",
+  "name": "Dambılla Pronate Triceps Ekstansiyonu",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/dumbbell-pronate-grip-triceps-extension.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-pronate-grip-triceps-extension.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-pronate-grip-triceps-extension.thumb.webp"
+}

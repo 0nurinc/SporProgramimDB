@@ -1,0 +1,20 @@
+{
+  "id": "abs/3-4-sit-up",
+  "slug": "3-4-sit-up",
+  "name": "Mekik",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/3-4-sit-up.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/3-4-sit-up.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/3-4-sit-up.thumb.webp"
+}

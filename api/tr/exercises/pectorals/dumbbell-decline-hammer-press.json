@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/dumbbell-decline-hammer-press",
+  "slug": "dumbbell-decline-hammer-press",
+  "name": "Dambılla Ters Eğimli Çekiç Baskı",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/dumbbell-decline-hammer-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-decline-hammer-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-decline-hammer-press.thumb.webp"
+}

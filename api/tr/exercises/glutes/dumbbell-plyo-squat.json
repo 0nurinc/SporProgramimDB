@@ -1,0 +1,22 @@
+{
+  "id": "glutes/dumbbell-plyo-squat",
+  "slug": "dumbbell-plyo-squat",
+  "name": "Dambılla Plyo Çömelme",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "dumbbell",
+  "category": "plyometrics",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+    "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+    "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+  ],
+  "file": "glutes/dumbbell-plyo-squat.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-plyo-squat.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-plyo-squat.thumb.webp"
+}

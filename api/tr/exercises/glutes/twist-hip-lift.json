@@ -1,0 +1,20 @@
+{
+  "id": "glutes/twist-hip-lift",
+  "slug": "twist-hip-lift",
+  "name": "Kalça Lift Bükülme",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/twist-hip-lift.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/twist-hip-lift.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/twist-hip-lift.thumb.webp"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "abs/lean-planche",
+  "slug": "lean-planche",
+  "name": "Lean Planş",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "traps"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/lean-planche.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lean-planche.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lean-planche.thumb.webp"
+}

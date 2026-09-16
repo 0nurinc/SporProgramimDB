@@ -1,0 +1,25 @@
+{
+  "id": "upper-back/resistance-band-seated-straight-back-row",
+  "slug": "resistance-band-seated-straight-back-row",
+  "name": "Oturarak Direnç Bandıyla Sırt Düz Çekme",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts",
+    "lats"
+  ],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce üst sırtı kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "upper-back/resistance-band-seated-straight-back-row.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/resistance-band-seated-straight-back-row.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/resistance-band-seated-straight-back-row.thumb.webp"
+}

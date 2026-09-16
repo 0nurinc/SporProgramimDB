@@ -1,0 +1,25 @@
+{
+  "id": "lats/barbell-pullover-to-press",
+  "slug": "barbell-pullover-to-press",
+  "name": "Halterle Pullover Baskı",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts",
+    "pectorals",
+    "abs"
+  ],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce sırt kanatlarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "lats/barbell-pullover-to-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/barbell-pullover-to-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/barbell-pullover-to-press.thumb.webp"
+}

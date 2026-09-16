@@ -1,0 +1,20 @@
+{
+  "id": "abs/twisted-leg-raise",
+  "slug": "twisted-leg-raise",
+  "name": "Twisted Bacak Kaldırma",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/twisted-leg-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/twisted-leg-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/twisted-leg-raise.thumb.webp"
+}

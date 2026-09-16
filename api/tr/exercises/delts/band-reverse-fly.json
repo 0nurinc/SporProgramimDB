@@ -1,0 +1,23 @@
+{
+  "id": "delts/band-reverse-fly",
+  "slug": "band-reverse-fly",
+  "name": "Lastik Bantla Ters Açma",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps",
+    "upper-back"
+  ],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/band-reverse-fly.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/band-reverse-fly.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/band-reverse-fly.thumb.webp"
+}

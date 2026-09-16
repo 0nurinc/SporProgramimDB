@@ -1,0 +1,3633 @@
+{
+  "bodyPart": "chest",
+  "count": 163,
+  "exercises": [
+    {
+      "id": "pectorals/archer-push-up",
+      "slug": "archer-push-up",
+      "name": "Okçu Şınavı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/archer-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/archer-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/archer-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/assisted-chest-dip-kneeling",
+      "slug": "assisted-chest-dip-kneeling",
+      "name": "Diz Çökerek Destekli Göğüs Paralelde İniş-Çıkış",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/assisted-chest-dip-kneeling.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/assisted-chest-dip-kneeling.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/assisted-chest-dip-kneeling.thumb.webp"
+    },
+    {
+      "id": "pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball",
+      "slug": "assisted-seated-pectoralis-major-stretch-with-stability-ball",
+      "name": "Oturarak Pilates Topunda Destekli Pectoralis Major Esneme",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Göğüs kasını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/assisted-wide-grip-chest-dip-kneeling",
+      "slug": "assisted-wide-grip-chest-dip-kneeling",
+      "name": "Diz Çökerek Geniş Tutuşla Destekli Göğüs Paralelde İniş-Çıkış",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/assisted-wide-grip-chest-dip-kneeling.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/assisted-wide-grip-chest-dip-kneeling.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/assisted-wide-grip-chest-dip-kneeling.thumb.webp"
+    },
+    {
+      "id": "pectorals/band-bench-press",
+      "slug": "band-bench-press",
+      "name": "Lastik Bantla Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/band-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/band-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/band-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/band-one-arm-twisting-chest-press",
+      "slug": "band-one-arm-twisting-chest-press",
+      "name": "Lastik Bantla Tek Kolla Dönerek Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/band-one-arm-twisting-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/band-one-arm-twisting-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/band-one-arm-twisting-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-bench-press",
+      "slug": "barbell-bench-press",
+      "name": "Halterle Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/barbell-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-decline-bench-press",
+      "slug": "barbell-decline-bench-press",
+      "name": "Halterle Ters Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/barbell-decline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-decline-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-decline-pullover",
+      "slug": "barbell-decline-pullover",
+      "name": "Halterle Ters Eğimli Pullover",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/barbell-decline-pullover.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-decline-pullover.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-decline-pullover.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-decline-wide-grip-press",
+      "slug": "barbell-decline-wide-grip-press",
+      "name": "Geniş Tutuşla Halterle Ters Eğimli Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/barbell-decline-wide-grip-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-decline-wide-grip-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-decline-wide-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-front-raise-and-pullover",
+      "slug": "barbell-front-raise-and-pullover",
+      "name": "Halterle Pullover Ön Kaldırma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/barbell-front-raise-and-pullover.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-front-raise-and-pullover.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-front-raise-and-pullover.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-guillotine-bench-press",
+      "slug": "barbell-guillotine-bench-press",
+      "name": "Halterle Guillotine Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/barbell-guillotine-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-guillotine-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-guillotine-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-incline-bench-press",
+      "slug": "barbell-incline-bench-press",
+      "name": "Halterle Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/barbell-incline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-incline-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-reverse-grip-decline-bench-press",
+      "slug": "barbell-reverse-grip-decline-bench-press",
+      "name": "Ters Tutuşla Halterle Ters Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/barbell-reverse-grip-decline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-reverse-grip-decline-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-reverse-grip-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-reverse-grip-incline-bench-press",
+      "slug": "barbell-reverse-grip-incline-bench-press",
+      "name": "Ters Tutuşla Halterle Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/barbell-reverse-grip-incline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-reverse-grip-incline-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-reverse-grip-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-wide-bench-press",
+      "slug": "barbell-wide-bench-press",
+      "name": "Halterle Geniş Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/barbell-wide-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-wide-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-wide-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-wide-reverse-grip-bench-press",
+      "slug": "barbell-wide-reverse-grip-bench-press",
+      "name": "Ters Tutuşla Halterle Geniş Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/barbell-wide-reverse-grip-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-wide-reverse-grip-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/barbell-wide-reverse-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/behind-head-chest-stretch",
+      "slug": "behind-head-chest-stretch",
+      "name": "Arkada Baş Göğüs Esneme",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Göğüs kasını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "pectorals/behind-head-chest-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/behind-head-chest-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/behind-head-chest-stretch.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-bench-press",
+      "slug": "cable-bench-press",
+      "name": "Makarada Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-cross-over-variation",
+      "slug": "cable-cross-over-variation",
+      "name": "Makarada Çapraz Üzerinde Variation",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-cross-over-variation.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-cross-over-variation.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-cross-over-variation.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-decline-fly",
+      "slug": "cable-decline-fly",
+      "name": "Makarada Ters Eğimli Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-decline-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-decline-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-decline-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-decline-one-arm-press",
+      "slug": "cable-decline-one-arm-press",
+      "name": "Makarada Ters Eğimli Tek Kolla Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-decline-one-arm-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-decline-one-arm-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-decline-one-arm-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-decline-press",
+      "slug": "cable-decline-press",
+      "name": "Makarada Ters Eğimli Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-decline-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-decline-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-decline-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-incline-bench-press",
+      "slug": "cable-incline-bench-press",
+      "name": "Makarada Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-incline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-incline-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-incline-fly-on-stability-ball",
+      "slug": "cable-incline-fly-on-stability-ball",
+      "name": "Makarada Pilates Topunda Eğimli Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-incline-fly-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-incline-fly-on-stability-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-incline-fly-on-stability-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-incline-fly",
+      "slug": "cable-incline-fly",
+      "name": "Makarada Eğimli Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-incline-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-incline-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-incline-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-low-fly",
+      "slug": "cable-low-fly",
+      "name": "Makarada Alçak Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-low-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-low-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-low-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-lying-fly",
+      "slug": "cable-lying-fly",
+      "name": "Yatarak Makarada Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-lying-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-lying-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-lying-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-middle-fly",
+      "slug": "cable-middle-fly",
+      "name": "Makarada Middle Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-middle-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-middle-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-middle-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-decline-chest-fly",
+      "slug": "cable-one-arm-decline-chest-fly",
+      "name": "Makarada Ters Eğimli Tek Kolla Göğüs Açması",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-one-arm-decline-chest-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-decline-chest-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-decline-chest-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-fly-on-exercise-ball",
+      "slug": "cable-one-arm-fly-on-exercise-ball",
+      "name": "Makarada Pilates Topunda Tek Kolla Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-one-arm-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-incline-fly-on-exercise-ball",
+      "slug": "cable-one-arm-incline-fly-on-exercise-ball",
+      "name": "Makarada Pilates Topunda Eğimli Tek Kolla Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-one-arm-incline-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-incline-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-incline-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-incline-press-on-exercise-ball",
+      "slug": "cable-one-arm-incline-press-on-exercise-ball",
+      "name": "Makarada Pilates Topunda Eğimli Tek Kolla Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-one-arm-incline-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-incline-press-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-incline-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-incline-press",
+      "slug": "cable-one-arm-incline-press",
+      "name": "Makarada Eğimli Tek Kolla Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-one-arm-incline-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-incline-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-incline-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-lateral-bent-over",
+      "slug": "cable-one-arm-lateral-bent-over",
+      "name": "Makarada Tek Kolla Öne Eğilerek Lateral",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-one-arm-lateral-bent-over.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-lateral-bent-over.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-lateral-bent-over.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-press-on-exercise-ball",
+      "slug": "cable-one-arm-press-on-exercise-ball",
+      "name": "Makarada Pilates Topunda Tek Kolla Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-one-arm-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-press-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-one-arm-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-press-on-exercise-ball",
+      "slug": "cable-press-on-exercise-ball",
+      "name": "Makarada Pilates Topunda Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-press-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-seated-chest-press",
+      "slug": "cable-seated-chest-press",
+      "name": "Oturarak Makarada Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-seated-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-seated-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-seated-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-standing-fly",
+      "slug": "cable-standing-fly",
+      "name": "Ayakta Makarada Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-standing-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-standing-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-standing-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-standing-up-straight-crossovers",
+      "slug": "cable-standing-up-straight-crossovers",
+      "name": "Ayakta Makarada Up Düz Crossovers",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-standing-up-straight-crossovers.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-standing-up-straight-crossovers.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-standing-up-straight-crossovers.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-upper-chest-crossovers",
+      "slug": "cable-upper-chest-crossovers",
+      "name": "Makarada Üst Göğüs Crossovers",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/cable-upper-chest-crossovers.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-upper-chest-crossovers.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-upper-chest-crossovers.thumb.webp"
+    },
+    {
+      "id": "pectorals/chest-and-front-of-shoulder-stretch",
+      "slug": "chest-and-front-of-shoulder-stretch",
+      "name": "Ön Göğüs Omuz Esneme",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Göğüs kasını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "pectorals/chest-and-front-of-shoulder-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-and-front-of-shoulder-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-and-front-of-shoulder-stretch.thumb.webp"
+    },
+    {
+      "id": "pectorals/chest-dip-on-dip-pull-up-cage",
+      "slug": "chest-dip-on-dip-pull-up-cage",
+      "name": "Göğüs Dip Cage Barfiks",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/chest-dip-on-dip-pull-up-cage.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-dip-on-dip-pull-up-cage.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-dip-on-dip-pull-up-cage.thumb.webp"
+    },
+    {
+      "id": "pectorals/chest-dip-on-straight-bar",
+      "slug": "chest-dip-on-straight-bar",
+      "name": "Düz Barla Göğüs Paralelde İniş-Çıkış",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/chest-dip-on-straight-bar.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-dip-on-straight-bar.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-dip-on-straight-bar.thumb.webp"
+    },
+    {
+      "id": "pectorals/chest-dip",
+      "slug": "chest-dip",
+      "name": "Göğüs Paralelde İniş-Çıkış",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/chest-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-dip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-dip.thumb.webp"
+    },
+    {
+      "id": "pectorals/chest-stretch-with-exercise-ball",
+      "slug": "chest-stretch-with-exercise-ball",
+      "name": "Pilates Topunda Göğüs Esneme",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Göğüs kasını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "pectorals/chest-stretch-with-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-stretch-with-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-stretch-with-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/chest-tap-push-up-male",
+      "slug": "chest-tap-push-up-male",
+      "name": "Göğüs Tap Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/chest-tap-push-up-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-tap-push-up-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-tap-push-up-male.thumb.webp"
+    },
+    {
+      "id": "pectorals/clap-push-up",
+      "slug": "clap-push-up",
+      "name": "Alkışlı Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/clap-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/clap-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/clap-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/clock-push-up",
+      "slug": "clock-push-up",
+      "name": "Clock Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/clock-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/clock-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/clock-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/decline-push-up",
+      "slug": "decline-push-up",
+      "name": "Ters Eğimli Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/decline-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/decline-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/decline-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/deep-push-up",
+      "slug": "deep-push-up",
+      "name": "Deep Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/deep-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/deep-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/deep-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/drop-push-up",
+      "slug": "drop-push-up",
+      "name": "Drop Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/drop-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/drop-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/drop-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-around-pullover",
+      "slug": "dumbbell-around-pullover",
+      "name": "Dambılla Around Pullover",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-around-pullover.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-around-pullover.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-around-pullover.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-bench-press",
+      "slug": "dumbbell-bench-press",
+      "name": "Dambılla Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-bench-press",
+      "slug": "dumbbell-decline-bench-press",
+      "name": "Dambılla Ters Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-decline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-decline-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-fly",
+      "slug": "dumbbell-decline-fly",
+      "name": "Dambılla Ters Eğimli Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-decline-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-decline-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-decline-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-hammer-press",
+      "slug": "dumbbell-decline-hammer-press",
+      "name": "Dambılla Ters Eğimli Çekiç Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-decline-hammer-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-decline-hammer-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-decline-hammer-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-one-arm-fly",
+      "slug": "dumbbell-decline-one-arm-fly",
+      "name": "Dambılla Ters Eğimli Tek Kolla Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-decline-one-arm-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-decline-one-arm-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-decline-one-arm-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-twist-fly",
+      "slug": "dumbbell-decline-twist-fly",
+      "name": "Dambılla Ters Eğimli Twist Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-decline-twist-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-decline-twist-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-decline-twist-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-fly-on-exercise-ball",
+      "slug": "dumbbell-fly-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-fly",
+      "slug": "dumbbell-fly",
+      "name": "Dambılla Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-alternate-press",
+      "slug": "dumbbell-incline-alternate-press",
+      "name": "Dambılla Eğimli Sırayla Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-incline-alternate-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-alternate-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-alternate-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-bench-press",
+      "slug": "dumbbell-incline-bench-press",
+      "name": "Dambılla Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-incline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-breeding",
+      "slug": "dumbbell-incline-breeding",
+      "name": "Dambılla Eğimli Breeding",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-incline-breeding.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-breeding.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-breeding.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-fly-on-exercise-ball",
+      "slug": "dumbbell-incline-fly-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Eğimli Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-incline-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-fly",
+      "slug": "dumbbell-incline-fly",
+      "name": "Dambılla Eğimli Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-incline-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-hammer-press",
+      "slug": "dumbbell-incline-hammer-press",
+      "name": "Dambılla Eğimli Çekiç Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-incline-hammer-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-hammer-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-hammer-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-one-arm-fly-on-exercise-ball",
+      "slug": "dumbbell-incline-one-arm-fly-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Eğimli Tek Kolla Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-incline-one-arm-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-one-arm-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-one-arm-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-one-arm-fly",
+      "slug": "dumbbell-incline-one-arm-fly",
+      "name": "Dambılla Eğimli Tek Kolla Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-incline-one-arm-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-one-arm-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-one-arm-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-one-arm-press-on-exercise-ball",
+      "slug": "dumbbell-incline-one-arm-press-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Eğimli Tek Kolla Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-incline-one-arm-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-one-arm-press-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-one-arm-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-one-arm-press",
+      "slug": "dumbbell-incline-one-arm-press",
+      "name": "Dambılla Eğimli Tek Kolla Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-incline-one-arm-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-one-arm-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-one-arm-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-palm-in-press",
+      "slug": "dumbbell-incline-palm-in-press",
+      "name": "Dambılla Eğimli Palm Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-incline-palm-in-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-palm-in-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-palm-in-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-press-on-exercise-ball",
+      "slug": "dumbbell-incline-press-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Eğimli Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-incline-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-press-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-twisted-flyes",
+      "slug": "dumbbell-incline-twisted-flyes",
+      "name": "Dambılla Eğimli Twisted Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-incline-twisted-flyes.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-twisted-flyes.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-incline-twisted-flyes.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-lying-hammer-press",
+      "slug": "dumbbell-lying-hammer-press",
+      "name": "Yatarak Dambılla Çekiç Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-lying-hammer-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-lying-hammer-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-lying-hammer-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-lying-one-arm-press-v-2",
+      "slug": "dumbbell-lying-one-arm-press-v-2",
+      "name": "Yatarak Dambılla Tek Kolla Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-lying-one-arm-press-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-lying-one-arm-press-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-lying-one-arm-press-v-2.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-lying-one-arm-press",
+      "slug": "dumbbell-lying-one-arm-press",
+      "name": "Yatarak Dambılla Tek Kolla Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-lying-one-arm-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-lying-one-arm-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-lying-one-arm-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-lying-pullover-on-exercise-ball",
+      "slug": "dumbbell-lying-pullover-on-exercise-ball",
+      "name": "Yatarak Dambılla Pilates Topunda Pullover",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-lying-pullover-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-lying-pullover-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-lying-pullover-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-bench-fly",
+      "slug": "dumbbell-one-arm-bench-fly",
+      "name": "Dambılla Tek Kolla Bankta Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-one-arm-bench-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-bench-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-bench-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-chest-fly-on-exercise-ball",
+      "slug": "dumbbell-one-arm-chest-fly-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Tek Kolla Göğüs Açması",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-one-arm-chest-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-chest-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-chest-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-decline-chest-press",
+      "slug": "dumbbell-one-arm-decline-chest-press",
+      "name": "Dambılla Ters Eğimli Tek Kolla Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-one-arm-decline-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-decline-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-decline-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-fly-on-exercise-ball",
+      "slug": "dumbbell-one-arm-fly-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Tek Kolla Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-one-arm-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-incline-chest-press",
+      "slug": "dumbbell-one-arm-incline-chest-press",
+      "name": "Dambılla Eğimli Tek Kolla Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-one-arm-incline-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-incline-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-incline-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-press-on-exercise-ball",
+      "slug": "dumbbell-one-arm-press-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Tek Kolla Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-one-arm-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-press-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-pullover-on-exercise-ball",
+      "slug": "dumbbell-one-arm-pullover-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Tek Kolla Pullover",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-one-arm-pullover-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-pullover-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-pullover-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-reverse-grip-press",
+      "slug": "dumbbell-one-arm-reverse-grip-press",
+      "name": "Ters Tutuşla Dambılla Tek Kolla Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-one-arm-reverse-grip-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-reverse-grip-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-leg-fly-on-exercise-ball",
+      "slug": "dumbbell-one-leg-fly-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Tek Bacakla Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-one-leg-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-leg-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-leg-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-press-on-exercise-ball",
+      "slug": "dumbbell-press-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-press-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-pullover-hip-extension-on-exercise-ball",
+      "slug": "dumbbell-pullover-hip-extension-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Kalça Extension Pullover",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-pullover-hip-extension-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-pullover-hip-extension-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-pullover-hip-extension-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-pullover-on-exercise-ball",
+      "slug": "dumbbell-pullover-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Pullover",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-pullover-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-pullover-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-pullover-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-pullover",
+      "slug": "dumbbell-pullover",
+      "name": "Dambılla Pullover",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-pullover.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-pullover.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-pullover.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-reverse-bench-press",
+      "slug": "dumbbell-reverse-bench-press",
+      "name": "Dambılla Ters Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-reverse-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-reverse-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-reverse-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-straight-arm-pullover",
+      "slug": "dumbbell-straight-arm-pullover",
+      "name": "Dambılla Kol Düz Pullover",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/dumbbell-straight-arm-pullover.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-straight-arm-pullover.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-straight-arm-pullover.thumb.webp"
+    },
+    {
+      "id": "pectorals/dynamic-chest-stretch-male",
+      "slug": "dynamic-chest-stretch-male",
+      "name": "Dynamic Göğüs Esneme",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Göğüs kasını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "pectorals/dynamic-chest-stretch-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dynamic-chest-stretch-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dynamic-chest-stretch-male.thumb.webp"
+    },
+    {
+      "id": "pectorals/exercise-ball-pike-push-up",
+      "slug": "exercise-ball-pike-push-up",
+      "name": "Pilates Topunda Pike Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "abs",
+        "traps"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/exercise-ball-pike-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/exercise-ball-pike-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/exercise-ball-pike-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/floor-fly-with-barbell",
+      "slug": "floor-fly-with-barbell",
+      "name": "Halterle Yerde Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/floor-fly-with-barbell.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/floor-fly-with-barbell.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/floor-fly-with-barbell.thumb.webp"
+    },
+    {
+      "id": "pectorals/full-planche-push-up",
+      "slug": "full-planche-push-up",
+      "name": "Full-planche Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "abs",
+        "traps"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/full-planche-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/full-planche-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/full-planche-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/hands-bike",
+      "slug": "hands-bike",
+      "name": "Eller Bike",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/hands-bike.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/hands-bike.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/hands-bike.thumb.webp"
+    },
+    {
+      "id": "pectorals/hyght-dumbbell-fly",
+      "slug": "hyght-dumbbell-fly",
+      "name": "Dambılla Hyght Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/hyght-dumbbell-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/hyght-dumbbell-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/hyght-dumbbell-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/incline-push-up-depth-jump",
+      "slug": "incline-push-up-depth-jump",
+      "name": "Depth Jump Eğimli Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "pectorals/incline-push-up-depth-jump.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/incline-push-up-depth-jump.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/incline-push-up-depth-jump.thumb.webp"
+    },
+    {
+      "id": "pectorals/incline-push-up-on-box",
+      "slug": "incline-push-up-on-box",
+      "name": "Kutuda Eğimli Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/incline-push-up-on-box.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/incline-push-up-on-box.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/incline-push-up-on-box.thumb.webp"
+    },
+    {
+      "id": "pectorals/incline-push-up",
+      "slug": "incline-push-up",
+      "name": "Eğimli Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/incline-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/incline-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/incline-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/incline-reverse-grip-push-up",
+      "slug": "incline-reverse-grip-push-up",
+      "name": "Ters Tutuşla Eğimli Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/incline-reverse-grip-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/incline-reverse-grip-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/incline-reverse-grip-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/isometric-chest-squeeze",
+      "slug": "isometric-chest-squeeze",
+      "name": "Isometric Göğüs Squeeze",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/isometric-chest-squeeze.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/isometric-chest-squeeze.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/isometric-chest-squeeze.thumb.webp"
+    },
+    {
+      "id": "pectorals/isometric-wipers",
+      "slug": "isometric-wipers",
+      "name": "Isometric Wipers",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/isometric-wipers.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/isometric-wipers.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/isometric-wipers.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-alternating-press-on-floor",
+      "slug": "kettlebell-alternating-press-on-floor",
+      "name": "Kettlebell'le Sırayla Yerde Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/kettlebell-alternating-press-on-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-alternating-press-on-floor.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-alternating-press-on-floor.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-extended-range-one-arm-press-on-floor",
+      "slug": "kettlebell-extended-range-one-arm-press-on-floor",
+      "name": "Kettlebell'le Tek Kolla Extended Aralık Yerde Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-extended-range-one-arm-press-on-floor.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-one-arm-floor-press",
+      "slug": "kettlebell-one-arm-floor-press",
+      "name": "Kettlebell'le Tek Kolla Yerde Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/kettlebell-one-arm-floor-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-one-arm-floor-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-one-arm-floor-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-plyo-push-up",
+      "slug": "kettlebell-plyo-push-up",
+      "name": "Kettlebell'le Pliometrik Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "pectorals/kettlebell-plyo-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-plyo-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-plyo-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/kneeling-push-up-male",
+      "slug": "kneeling-push-up-male",
+      "name": "Diz Çökerek Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/kneeling-push-up-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kneeling-push-up-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kneeling-push-up-male.thumb.webp"
+    },
+    {
+      "id": "pectorals/korean-dips",
+      "slug": "korean-dips",
+      "name": "Kore Paralelde İniş-Çıkış",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/korean-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/korean-dips.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/korean-dips.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-chest-press-0577",
+      "slug": "lever-chest-press-0577",
+      "name": "Makinede Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-chest-press-0577.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-chest-press-0577.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-chest-press-0577.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-chest-press",
+      "slug": "lever-chest-press",
+      "name": "Makinede Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-decline-chest-press",
+      "slug": "lever-decline-chest-press",
+      "name": "Makinede Ters Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-decline-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-decline-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-decline-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-incline-chest-press-v-2",
+      "slug": "lever-incline-chest-press-v-2",
+      "name": "Makinede Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-incline-chest-press-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-incline-chest-press-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-incline-chest-press-v-2.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-incline-chest-press",
+      "slug": "lever-incline-chest-press",
+      "name": "Makinede Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-incline-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-incline-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-incline-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-seated-fly",
+      "slug": "lever-seated-fly",
+      "name": "Oturarak Makinede Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-seated-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-seated-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-seated-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-standing-chest-press",
+      "slug": "lever-standing-chest-press",
+      "name": "Ayakta Makinede Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-standing-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-standing-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-standing-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/machine-inner-chest-press",
+      "slug": "machine-inner-chest-press",
+      "name": "Makinede İç Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/machine-inner-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/machine-inner-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/machine-inner-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-pass",
+      "slug": "medicine-ball-chest-pass",
+      "name": "Sağlık Topuyla Göğüs Pass",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/medicine-ball-chest-pass.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/medicine-ball-chest-pass.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/medicine-ball-chest-pass.thumb.webp"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-push-from-3-point-stance",
+      "slug": "medicine-ball-chest-push-from-3-point-stance",
+      "name": "Sağlık Topuyla Göğüs Push Point",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/medicine-ball-chest-push-from-3-point-stance.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/medicine-ball-chest-push-from-3-point-stance.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/medicine-ball-chest-push-from-3-point-stance.thumb.webp"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-push-multiple-response",
+      "slug": "medicine-ball-chest-push-multiple-response",
+      "name": "Sağlık Topuyla Göğüs Push Multiple Response",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/medicine-ball-chest-push-multiple-response.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/medicine-ball-chest-push-multiple-response.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/medicine-ball-chest-push-multiple-response.thumb.webp"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-push-single-response",
+      "slug": "medicine-ball-chest-push-single-response",
+      "name": "Sağlık Topuyla Göğüs Push Tek Response",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/medicine-ball-chest-push-single-response.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/medicine-ball-chest-push-single-response.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/medicine-ball-chest-push-single-response.thumb.webp"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-push-with-run-release",
+      "slug": "medicine-ball-chest-push-with-run-release",
+      "name": "Sağlık Topuyla Göğüs Push Koşu Release",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/medicine-ball-chest-push-with-run-release.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/medicine-ball-chest-push-with-run-release.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/medicine-ball-chest-push-with-run-release.thumb.webp"
+    },
+    {
+      "id": "pectorals/modified-hindu-push-up-male",
+      "slug": "modified-hindu-push-up-male",
+      "name": "Modified Hindu Şınavı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/modified-hindu-push-up-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/modified-hindu-push-up-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/modified-hindu-push-up-male.thumb.webp"
+    },
+    {
+      "id": "pectorals/plyo-push-up",
+      "slug": "plyo-push-up",
+      "name": "Pliometrik Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "pectorals/plyo-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/plyo-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/plyo-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-and-pull-bodyweight",
+      "slug": "push-and-pull-bodyweight",
+      "name": "Vücut Ağırlığıyla Push Pull",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/push-and-pull-bodyweight.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-and-pull-bodyweight.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-and-pull-bodyweight.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-bosu-ball",
+      "slug": "push-up-bosu-ball",
+      "name": "Bosu Topunda Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/push-up-bosu-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-bosu-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-bosu-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-medicine-ball",
+      "slug": "push-up-medicine-ball",
+      "name": "Sağlık Topuyla Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/push-up-medicine-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-medicine-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-medicine-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-on-bosu-ball",
+      "slug": "push-up-on-bosu-ball",
+      "name": "Bosu Topunda Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/push-up-on-bosu-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-on-bosu-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-on-bosu-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-on-stability-ball-0656",
+      "slug": "push-up-on-stability-ball-0656",
+      "name": "Pilates Topunda Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/push-up-on-stability-ball-0656.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-on-stability-ball-0656.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-on-stability-ball-0656.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-on-stability-ball",
+      "slug": "push-up-on-stability-ball",
+      "name": "Pilates Topunda Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/push-up-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-on-stability-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-on-stability-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-plus",
+      "slug": "push-up-plus",
+      "name": "Plus Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/push-up-plus.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-plus.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-plus.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-wall-v-2",
+      "slug": "push-up-wall-v-2",
+      "name": "Duvarda Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/push-up-wall-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-wall-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-wall-v-2.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-wall",
+      "slug": "push-up-wall",
+      "name": "Duvarda Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/push-up-wall.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-wall.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-wall.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up",
+      "slug": "push-up",
+      "name": "Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/raise-single-arm-push-up",
+      "slug": "raise-single-arm-push-up",
+      "name": "Raise Tek Kol Şınavı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/raise-single-arm-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/raise-single-arm-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/raise-single-arm-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/resistance-band-seated-chest-press",
+      "slug": "resistance-band-seated-chest-press",
+      "name": "Oturarak Direnç Bandıyla Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/resistance-band-seated-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/resistance-band-seated-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/resistance-band-seated-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/roller-seated-shoulder-flexor-depresor-retractor",
+      "slug": "roller-seated-shoulder-flexor-depresor-retractor",
+      "name": "Oturarak Roller Omuz Flexor Depresor Retractor",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/roller-seated-shoulder-flexor-depresor-retractor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/roller-seated-shoulder-flexor-depresor-retractor.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/roller-seated-shoulder-flexor-depresor-retractor.thumb.webp"
+    },
+    {
+      "id": "pectorals/roller-seated-single-leg-shoulder-flexor-depresor-retractor",
+      "slug": "roller-seated-single-leg-shoulder-flexor-depresor-retractor",
+      "name": "Oturarak Tek Bacakla Roller Omuz Flexor Depresor Retractor",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/roller-seated-single-leg-shoulder-flexor-depresor-retractor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/roller-seated-single-leg-shoulder-flexor-depresor-retractor.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/roller-seated-single-leg-shoulder-flexor-depresor-retractor.thumb.webp"
+    },
+    {
+      "id": "pectorals/shoulder-tap-push-up",
+      "slug": "shoulder-tap-push-up",
+      "name": "Omuz Dokunuşlu Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/shoulder-tap-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/shoulder-tap-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/shoulder-tap-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/single-arm-push-up",
+      "slug": "single-arm-push-up",
+      "name": "Tek Kol Şınavı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/single-arm-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/single-arm-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/single-arm-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-bench-press",
+      "slug": "smith-bench-press",
+      "name": "Smith Makinesinde Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/smith-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-decline-bench-press",
+      "slug": "smith-decline-bench-press",
+      "name": "Smith Makinesinde Ters Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/smith-decline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-decline-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-decline-reverse-grip-press",
+      "slug": "smith-decline-reverse-grip-press",
+      "name": "Ters Tutuşla Smith Makinesinde Ters Eğimli Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/smith-decline-reverse-grip-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-decline-reverse-grip-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-decline-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-incline-bench-press",
+      "slug": "smith-incline-bench-press",
+      "name": "Smith Makinesinde Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/smith-incline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-incline-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-incline-reverse-grip-press",
+      "slug": "smith-incline-reverse-grip-press",
+      "name": "Ters Tutuşla Smith Makinesinde Eğimli Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/smith-incline-reverse-grip-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-incline-reverse-grip-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-incline-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-machine-reverse-decline-close-grip-bench-press",
+      "slug": "smith-machine-reverse-decline-close-grip-bench-press",
+      "name": "Dar Tutuşla Smith Makinesinde Ters Ters Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/smith-machine-reverse-decline-close-grip-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-machine-reverse-decline-close-grip-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-machine-reverse-decline-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-reverse-grip-press",
+      "slug": "smith-reverse-grip-press",
+      "name": "Ters Tutuşla Smith Makinesinde Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/smith-reverse-grip-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-reverse-grip-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-wide-grip-bench-press",
+      "slug": "smith-wide-grip-bench-press",
+      "name": "Geniş Tutuşla Smith Makinesinde Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/smith-wide-grip-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-wide-grip-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-wide-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-wide-grip-decline-bench-press",
+      "slug": "smith-wide-grip-decline-bench-press",
+      "name": "Geniş Tutuşla Smith Makinesinde Ters Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/smith-wide-grip-decline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-wide-grip-decline-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-wide-grip-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/superman-push-up",
+      "slug": "superman-push-up",
+      "name": "Superman Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/superman-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/superman-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/superman-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/suspended-push-up",
+      "slug": "suspended-push-up",
+      "name": "Askıda Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/suspended-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/suspended-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/suspended-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/weighted-drop-push-up",
+      "slug": "weighted-drop-push-up",
+      "name": "Ağırlıklı Drop Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/weighted-drop-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/weighted-drop-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/weighted-drop-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/weighted-straight-bar-dip",
+      "slug": "weighted-straight-bar-dip",
+      "name": "Düz Barla Ağırlıklı Paralelde İniş-Çıkış",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/weighted-straight-bar-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/weighted-straight-bar-dip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/weighted-straight-bar-dip.thumb.webp"
+    },
+    {
+      "id": "pectorals/weighted-svend-press",
+      "slug": "weighted-svend-press",
+      "name": "Ağırlıklı Svend Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/weighted-svend-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/weighted-svend-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/weighted-svend-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/wide-grip-chest-dip-on-high-parallel-bars",
+      "slug": "wide-grip-chest-dip-on-high-parallel-bars",
+      "name": "Geniş Tutuşla Yüksek Göğüs Parallel Bars Paralelde İniş-Çıkış",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/wide-grip-chest-dip-on-high-parallel-bars.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/wide-grip-chest-dip-on-high-parallel-bars.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/wide-grip-chest-dip-on-high-parallel-bars.thumb.webp"
+    },
+    {
+      "id": "pectorals/wide-hand-push-up",
+      "slug": "wide-hand-push-up",
+      "name": "Geniş El Şınavı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/wide-hand-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/wide-hand-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/wide-hand-push-up.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/barbell-incline-shoulder-raise",
+      "slug": "barbell-incline-shoulder-raise",
+      "name": "Halterle Eğimli Omuz Kaldırma",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce serratus anterior kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "serratus-anterior/barbell-incline-shoulder-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/barbell-incline-shoulder-raise.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/barbell-incline-shoulder-raise.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/dumbbell-incline-shoulder-raise",
+      "slug": "dumbbell-incline-shoulder-raise",
+      "name": "Dambılla Eğimli Omuz Kaldırma",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce serratus anterior kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "serratus-anterior/dumbbell-incline-shoulder-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/dumbbell-incline-shoulder-raise.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/dumbbell-incline-shoulder-raise.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/incline-scapula-push-up",
+      "slug": "incline-scapula-push-up",
+      "name": "Eğimli Scapula Şınav",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce serratus anterior kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "serratus-anterior/incline-scapula-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/incline-scapula-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/incline-scapula-push-up.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/scapula-push-up",
+      "slug": "scapula-push-up",
+      "name": "Scapula Şınav",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce serratus anterior kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "serratus-anterior/scapula-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/scapula-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/scapula-push-up.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/smith-incline-shoulder-raises",
+      "slug": "smith-incline-shoulder-raises",
+      "name": "Smith Makinesinde Eğimli Omuz Kaldırma",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce serratus anterior kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "serratus-anterior/smith-incline-shoulder-raises.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/smith-incline-shoulder-raises.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/smith-incline-shoulder-raises.thumb.webp"
+    }
+  ]
+}

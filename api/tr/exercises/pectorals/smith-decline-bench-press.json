@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/smith-decline-bench-press",
+  "slug": "smith-decline-bench-press",
+  "name": "Smith Makinesinde Ters Eğimli Göğüs Baskısı",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Barı Smith makinesinde uygun yüksekliğe getirin.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/smith-decline-bench-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-decline-bench-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-decline-bench-press.thumb.webp"
+}

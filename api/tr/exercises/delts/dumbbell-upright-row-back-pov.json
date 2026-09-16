@@ -1,0 +1,24 @@
+{
+  "id": "delts/dumbbell-upright-row-back-pov",
+  "slug": "dumbbell-upright-row-back-pov",
+  "name": "Dambılla Sırt Ayakta Kürek Çekme",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "traps"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/dumbbell-upright-row-back-pov.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/dumbbell-upright-row-back-pov.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/dumbbell-upright-row-back-pov.thumb.webp"
+}

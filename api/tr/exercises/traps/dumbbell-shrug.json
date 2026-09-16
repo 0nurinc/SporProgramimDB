@@ -1,0 +1,23 @@
+{
+  "id": "traps/dumbbell-shrug",
+  "slug": "dumbbell-shrug",
+  "name": "Dambılla Omuz Silkme",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce trapez kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "traps/dumbbell-shrug.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/dumbbell-shrug.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/dumbbell-shrug.thumb.webp"
+}

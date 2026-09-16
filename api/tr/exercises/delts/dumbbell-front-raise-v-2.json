@@ -1,0 +1,22 @@
+{
+  "id": "delts/dumbbell-front-raise-v-2",
+  "slug": "dumbbell-front-raise-v-2",
+  "name": "Dambılla Ön Kaldırma",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/dumbbell-front-raise-v-2.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/dumbbell-front-raise-v-2.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/dumbbell-front-raise-v-2.thumb.webp"
+}

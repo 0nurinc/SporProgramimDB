@@ -1,0 +1,20 @@
+{
+  "id": "delts/left-hook-boxing",
+  "slug": "left-hook-boxing",
+  "name": "Sol Hook Boks",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/left-hook-boxing.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/left-hook-boxing.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/left-hook-boxing.thumb.webp"
+}

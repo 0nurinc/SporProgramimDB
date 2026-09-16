@@ -1,0 +1,23 @@
+{
+  "id": "calves/lever-seated-calf-press",
+  "slug": "lever-seated-calf-press",
+  "name": "Oturarak Makinede Baldır Baskı",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce baldırları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "calves/lever-seated-calf-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-seated-calf-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-seated-calf-press.thumb.webp"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "glutes/reverse-hyper-on-flat-bench",
+  "slug": "reverse-hyper-on-flat-bench",
+  "name": "Ters Düz Hyper Bankta",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/reverse-hyper-on-flat-bench.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/reverse-hyper-on-flat-bench.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/reverse-hyper-on-flat-bench.thumb.webp"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "triceps/medicine-ball-close-grip-push-up",
+  "slug": "medicine-ball-close-grip-push-up",
+  "name": "Sağlık Topuyla Dar Tutuşlu Şınav",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/medicine-ball-close-grip-push-up.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/medicine-ball-close-grip-push-up.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/medicine-ball-close-grip-push-up.thumb.webp"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "glutes/dumbbell-one-arm-snatch",
+  "slug": "dumbbell-one-arm-snatch",
+  "name": "Dambılla Tek Kolla Kapma (Snatch)",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine",
+    "traps",
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/dumbbell-one-arm-snatch.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-one-arm-snatch.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-one-arm-snatch.thumb.webp"
+}

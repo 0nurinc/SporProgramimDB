@@ -1,0 +1,617 @@
+{
+  "muscle": "hamstrings",
+  "count": 28,
+  "exercises": [
+    {
+      "id": "hamstrings/assisted-prone-hamstring",
+      "slug": "assisted-prone-hamstring",
+      "name": "Yüzüstü Destekli Arka Bacak",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/assisted-prone-hamstring.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/assisted-prone-hamstring.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/assisted-prone-hamstring.thumb.webp"
+    },
+    {
+      "id": "hamstrings/barbell-good-morning",
+      "slug": "barbell-good-morning",
+      "name": "Halterle Good Morning",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/barbell-good-morning.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/barbell-good-morning.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/barbell-good-morning.thumb.webp"
+    },
+    {
+      "id": "hamstrings/barbell-straight-leg-deadlift",
+      "slug": "barbell-straight-leg-deadlift",
+      "name": "Halterle Bacak Düz Ölü Kaldırma",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/barbell-straight-leg-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/barbell-straight-leg-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/barbell-straight-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "hamstrings/cable-assisted-inverse-leg-curl",
+      "slug": "cable-assisted-inverse-leg-curl",
+      "name": "Makarada Destekli Nordik Bacak Büküşü",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/cable-assisted-inverse-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/cable-assisted-inverse-leg-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/cable-assisted-inverse-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/dumbbell-lying-femoral",
+      "slug": "dumbbell-lying-femoral",
+      "name": "Yatarak Dambılla Femoral",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/dumbbell-lying-femoral.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/dumbbell-lying-femoral.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/dumbbell-lying-femoral.thumb.webp"
+    },
+    {
+      "id": "hamstrings/exercise-ball-seated-hamstring-stretch",
+      "slug": "exercise-ball-seated-hamstring-stretch",
+      "name": "Oturarak Pilates Topunda Arka Bacak Esneme",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Arka bacak kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "hamstrings/exercise-ball-seated-hamstring-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/exercise-ball-seated-hamstring-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/exercise-ball-seated-hamstring-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/glute-ham-raise",
+      "slug": "glute-ham-raise",
+      "name": "Kalça Femoral Kaldırma",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/glute-ham-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/glute-ham-raise.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/glute-ham-raise.thumb.webp"
+    },
+    {
+      "id": "hamstrings/hamstring-stretch",
+      "slug": "hamstring-stretch",
+      "name": "Arka Bacak Esneme",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Arka bacak kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "hamstrings/hamstring-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/hamstring-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/hamstring-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/inverse-leg-curl-bench-support",
+      "slug": "inverse-leg-curl-bench-support",
+      "name": "Bankta Support Nordik Bacak Büküşü",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/inverse-leg-curl-bench-support.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/inverse-leg-curl-bench-support.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/inverse-leg-curl-bench-support.thumb.webp"
+    },
+    {
+      "id": "hamstrings/inverse-leg-curl-on-pull-up-cable-machine",
+      "slug": "inverse-leg-curl-on-pull-up-cable-machine",
+      "name": "Makarada Makinede Inverse-leg-curl Barfiks",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/inverse-leg-curl-on-pull-up-cable-machine.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/inverse-leg-curl-on-pull-up-cable-machine.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/inverse-leg-curl-on-pull-up-cable-machine.thumb.webp"
+    },
+    {
+      "id": "hamstrings/kettlebell-hang-clean",
+      "slug": "kettlebell-hang-clean",
+      "name": "Kettlebell'le Hang Cleaning (Clean)",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/kettlebell-hang-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/kettlebell-hang-clean.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/kettlebell-hang-clean.thumb.webp"
+    },
+    {
+      "id": "hamstrings/kick-out-sit",
+      "slug": "kick-out-sit",
+      "name": "Tekme Out Sit",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/kick-out-sit.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/kick-out-sit.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/kick-out-sit.thumb.webp"
+    },
+    {
+      "id": "hamstrings/leg-up-hamstring-stretch",
+      "slug": "leg-up-hamstring-stretch",
+      "name": "Bacak Up Arka Bacak Esneme",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Arka bacak kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "hamstrings/leg-up-hamstring-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/leg-up-hamstring-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/leg-up-hamstring-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-kneeling-leg-curl",
+      "slug": "lever-kneeling-leg-curl",
+      "name": "Diz Çökerek Makinede Bacak Büküşü",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/lever-kneeling-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-kneeling-leg-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-kneeling-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-lying-leg-curl",
+      "slug": "lever-lying-leg-curl",
+      "name": "Yatarak Makinede Bacak Büküşü",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/lever-lying-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-lying-leg-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-lying-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-lying-two-one-leg-curl",
+      "slug": "lever-lying-two-one-leg-curl",
+      "name": "Yatarak Makinede Tek Bacakla Two Büküş",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/lever-lying-two-one-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-lying-two-one-leg-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-lying-two-one-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-seated-leg-curl",
+      "slug": "lever-seated-leg-curl",
+      "name": "Oturarak Makinede Bacak Büküşü",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/lever-seated-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-seated-leg-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-seated-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/power-clean",
+      "slug": "power-clean",
+      "name": "Power Cleaning (Clean)",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/power-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/power-clean.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/power-clean.thumb.webp"
+    },
+    {
+      "id": "hamstrings/reclining-big-toe-pose-with-rope",
+      "slug": "reclining-big-toe-pose-with-rope",
+      "name": "Halatla Reclining Big Toe Poz",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/reclining-big-toe-pose-with-rope.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/reclining-big-toe-pose-with-rope.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/reclining-big-toe-pose-with-rope.thumb.webp"
+    },
+    {
+      "id": "hamstrings/runners-stretch",
+      "slug": "runners-stretch",
+      "name": "Runners Esneme",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Arka bacak kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "hamstrings/runners-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/runners-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/runners-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/seated-wide-angle-pose-sequence",
+      "slug": "seated-wide-angle-pose-sequence",
+      "name": "Oturarak Geniş Angle Poz Sequence",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/seated-wide-angle-pose-sequence.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/seated-wide-angle-pose-sequence.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/seated-wide-angle-pose-sequence.thumb.webp"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl-1766",
+      "slug": "self-assisted-inverse-leg-curl-1766",
+      "name": "Destekli Self Nordik Bacak Büküşü",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl-1766.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/self-assisted-inverse-leg-curl-1766.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/self-assisted-inverse-leg-curl-1766.thumb.webp"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl-on-floor",
+      "slug": "self-assisted-inverse-leg-curl-on-floor",
+      "name": "Destekli Self Yerde Nordik Bacak Büküşü",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl-on-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/self-assisted-inverse-leg-curl-on-floor.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/self-assisted-inverse-leg-curl-on-floor.thumb.webp"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl",
+      "slug": "self-assisted-inverse-leg-curl",
+      "name": "Destekli Self Nordik Bacak Büküşü",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/self-assisted-inverse-leg-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/self-assisted-inverse-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/single-leg-platform-slide",
+      "slug": "single-leg-platform-slide",
+      "name": "Tek Bacakla Platform Slide",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/single-leg-platform-slide.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/single-leg-platform-slide.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/single-leg-platform-slide.thumb.webp"
+    },
+    {
+      "id": "hamstrings/standing-hamstring-and-calf-stretch-with-strap",
+      "slug": "standing-hamstring-and-calf-stretch-with-strap",
+      "name": "Ayakta Arka Bacak Baldır Strap Esneme",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Arka bacak kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "hamstrings/standing-hamstring-and-calf-stretch-with-strap.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/standing-hamstring-and-calf-stretch-with-strap.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/standing-hamstring-and-calf-stretch-with-strap.thumb.webp"
+    },
+    {
+      "id": "hamstrings/standing-single-leg-curl",
+      "slug": "standing-single-leg-curl",
+      "name": "Ayakta Tek Bacakla Büküş",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/standing-single-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/standing-single-leg-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/standing-single-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/world-greatest-stretch",
+      "slug": "world-greatest-stretch",
+      "name": "World Greatest Esneme",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Arka bacak kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "hamstrings/world-greatest-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/world-greatest-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/world-greatest-stretch.thumb.webp"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "calves/dumbbell-seated-one-leg-calf-raise",
+  "slug": "dumbbell-seated-one-leg-calf-raise",
+  "name": "Oturarak Dambılla Tek Bacakla Baldır Kaldırma",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce baldırları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "calves/dumbbell-seated-one-leg-calf-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/dumbbell-seated-one-leg-calf-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/dumbbell-seated-one-leg-calf-raise.thumb.webp"
+}

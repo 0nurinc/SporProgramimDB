@@ -1,0 +1,20 @@
+{
+  "id": "forearms/dumbbell-lying-supination",
+  "slug": "dumbbell-lying-supination",
+  "name": "Yatarak Dambılla Supination",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce önkolları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "forearms/dumbbell-lying-supination.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-lying-supination.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-lying-supination.thumb.webp"
+}

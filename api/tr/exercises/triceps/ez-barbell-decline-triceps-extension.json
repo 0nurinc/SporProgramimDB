@@ -1,0 +1,22 @@
+{
+  "id": "triceps/ez-barbell-decline-triceps-extension",
+  "slug": "ez-barbell-decline-triceps-extension",
+  "name": "EZ Barla Ters Eğimli Triceps Ekstansiyonu",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "ez-bar",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "EZ barı uygun ağırlıkla yükleyin ve sıkıca kavrayın.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/ez-barbell-decline-triceps-extension.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-barbell-decline-triceps-extension.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-barbell-decline-triceps-extension.thumb.webp"
+}

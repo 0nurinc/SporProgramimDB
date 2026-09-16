@@ -1,0 +1,23 @@
+{
+  "id": "glutes/smith-sprint-lunge",
+  "slug": "smith-sprint-lunge",
+  "name": "Smith Makinesinde Sprint Hamle",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Barı Smith makinesinde uygun yüksekliğe getirin.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/smith-sprint-lunge.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-sprint-lunge.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-sprint-lunge.thumb.webp"
+}

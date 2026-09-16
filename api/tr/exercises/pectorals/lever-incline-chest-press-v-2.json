@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/lever-incline-chest-press-v-2",
+  "slug": "lever-incline-chest-press-v-2",
+  "name": "Makinede Eğimli Göğüs Baskısı",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/lever-incline-chest-press-v-2.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-incline-chest-press-v-2.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-incline-chest-press-v-2.thumb.webp"
+}

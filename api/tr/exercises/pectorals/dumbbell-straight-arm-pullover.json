@@ -1,0 +1,20 @@
+{
+  "id": "pectorals/dumbbell-straight-arm-pullover",
+  "slug": "dumbbell-straight-arm-pullover",
+  "name": "Dambılla Kol Düz Pullover",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/dumbbell-straight-arm-pullover.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-straight-arm-pullover.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-straight-arm-pullover.thumb.webp"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "traps/band-shrug",
+  "slug": "band-shrug",
+  "name": "Lastik Bantla Omuz Silkme",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce trapez kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "traps/band-shrug.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/band-shrug.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/band-shrug.thumb.webp"
+}

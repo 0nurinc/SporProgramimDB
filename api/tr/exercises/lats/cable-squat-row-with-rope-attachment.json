@@ -1,0 +1,27 @@
+{
+  "id": "lats/cable-squat-row-with-rope-attachment",
+  "slug": "cable-squat-row-with-rope-attachment",
+  "name": "Makarada Halatla Çömelme Attachment Çekme",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves",
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce sırt kanatlarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "lats/cable-squat-row-with-rope-attachment.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/cable-squat-row-with-rope-attachment.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/cable-squat-row-with-rope-attachment.thumb.webp"
+}

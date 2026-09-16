@@ -1,0 +1,22 @@
+{
+  "id": "biceps/dumbbell-biceps-curl-with-arm-blaster",
+  "slug": "dumbbell-biceps-curl-with-arm-blaster",
+  "name": "Dambılla Kol Blaster Biceps Büküşü",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce biceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "biceps/dumbbell-biceps-curl-with-arm-blaster.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/dumbbell-biceps-curl-with-arm-blaster.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/dumbbell-biceps-curl-with-arm-blaster.thumb.webp"
+}

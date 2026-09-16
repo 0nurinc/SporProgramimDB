@@ -1,0 +1,22 @@
+{
+  "id": "triceps/ez-bar-standing-french-press",
+  "slug": "ez-bar-standing-french-press",
+  "name": "Ayakta EZ Barla Fransız Baskı",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "ez-bar",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "EZ barı uygun ağırlıkla yükleyin ve sıkıca kavrayın.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/ez-bar-standing-french-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-bar-standing-french-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-bar-standing-french-press.thumb.webp"
+}

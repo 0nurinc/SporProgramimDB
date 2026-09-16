@@ -1,0 +1,23 @@
+{
+  "id": "glutes/kettlebell-lunge-pass-through",
+  "slug": "kettlebell-lunge-pass-through",
+  "name": "Kettlebell'le Pass Through Hamle",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/kettlebell-lunge-pass-through.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-lunge-pass-through.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-lunge-pass-through.thumb.webp"
+}

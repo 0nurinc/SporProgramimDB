@@ -1,0 +1,20 @@
+{
+  "id": "abs/barbell-rollerout-from-bench",
+  "slug": "barbell-rollerout-from-bench",
+  "name": "Halterle Rollerout Bankta",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/barbell-rollerout-from-bench.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/barbell-rollerout-from-bench.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/barbell-rollerout-from-bench.thumb.webp"
+}

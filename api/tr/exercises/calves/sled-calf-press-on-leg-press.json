@@ -1,0 +1,23 @@
+{
+  "id": "calves/sled-calf-press-on-leg-press",
+  "slug": "sled-calf-press-on-leg-press",
+  "name": "Kızakta Baldır Press Bacak Presi",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "sled",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+    "Harekete başlamadan önce baldırları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "calves/sled-calf-press-on-leg-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-calf-press-on-leg-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-calf-press-on-leg-press.thumb.webp"
+}

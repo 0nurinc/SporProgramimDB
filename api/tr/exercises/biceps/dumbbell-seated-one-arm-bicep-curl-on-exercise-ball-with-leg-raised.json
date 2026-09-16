@@ -1,0 +1,22 @@
+{
+  "id": "biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised",
+  "slug": "dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised",
+  "name": "Oturarak Dambılla Pilates Topunda Tek Kolla Bacak Kaldırılmış Biceps Büküşü",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce biceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised.thumb.webp"
+}

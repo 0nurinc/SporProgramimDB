@@ -1,0 +1,25 @@
+{
+  "id": "pectorals/exercise-ball-pike-push-up",
+  "slug": "exercise-ball-pike-push-up",
+  "name": "Pilates Topunda Pike Şınav",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts",
+    "abs",
+    "traps"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/exercise-ball-pike-push-up.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/exercise-ball-pike-push-up.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/exercise-ball-pike-push-up.thumb.webp"
+}

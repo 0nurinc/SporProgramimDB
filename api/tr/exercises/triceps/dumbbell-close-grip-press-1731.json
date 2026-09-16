@@ -1,0 +1,22 @@
+{
+  "id": "triceps/dumbbell-close-grip-press-1731",
+  "slug": "dumbbell-close-grip-press-1731",
+  "name": "Dar Tutuşla Dambılla Baskı",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/dumbbell-close-grip-press-1731.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-close-grip-press-1731.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-close-grip-press-1731.thumb.webp"
+}

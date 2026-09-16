@@ -1,0 +1,3119 @@
+{
+  "muscle": "triceps",
+  "count": 141,
+  "exercises": [
+    {
+      "id": "triceps/assisted-standing-triceps-extension-with-towel",
+      "slug": "assisted-standing-triceps-extension-with-towel",
+      "name": "Ayakta Havluyla Destekli Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/assisted-standing-triceps-extension-with-towel.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/assisted-standing-triceps-extension-with-towel.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/assisted-standing-triceps-extension-with-towel.thumb.webp"
+    },
+    {
+      "id": "triceps/assisted-triceps-dip-kneeling",
+      "slug": "assisted-triceps-dip-kneeling",
+      "name": "Diz Çökerek Destekli Triceps Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/assisted-triceps-dip-kneeling.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/assisted-triceps-dip-kneeling.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/assisted-triceps-dip-kneeling.thumb.webp"
+    },
+    {
+      "id": "triceps/band-close-grip-push-up",
+      "slug": "band-close-grip-push-up",
+      "name": "Lastik Bantla Dar Tutuşlu Şınav",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/band-close-grip-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/band-close-grip-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/band-close-grip-push-up.thumb.webp"
+    },
+    {
+      "id": "triceps/band-side-triceps-extension",
+      "slug": "band-side-triceps-extension",
+      "name": "Yandan Lastik Bantla Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/band-side-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/band-side-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/band-side-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-close-grip-bench-press",
+      "slug": "barbell-close-grip-bench-press",
+      "name": "Dar Tutuşla Halterle Göğüs Baskısı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-close-grip-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-close-grip-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-decline-close-grip-to-skull-press",
+      "slug": "barbell-decline-close-grip-to-skull-press",
+      "name": "Dar Tutuşla Halterle Ters Eğimli Skull Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-decline-close-grip-to-skull-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-decline-close-grip-to-skull-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-decline-close-grip-to-skull-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-incline-close-grip-bench-press",
+      "slug": "barbell-incline-close-grip-bench-press",
+      "name": "Dar Tutuşla Halterle Eğimli Göğüs Baskısı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-incline-close-grip-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-incline-close-grip-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-incline-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-incline-reverse-grip-press",
+      "slug": "barbell-incline-reverse-grip-press",
+      "name": "Ters Tutuşla Halterle Eğimli Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-incline-reverse-grip-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-incline-reverse-grip-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-incline-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-jm-bench-press",
+      "slug": "barbell-jm-bench-press",
+      "name": "Halterle JM Göğüs Baskısı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-jm-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-jm-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-jm-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-lying-back-of-the-head-tricep-extension",
+      "slug": "barbell-lying-back-of-the-head-tricep-extension",
+      "name": "Yatarak Halterle Sırt Baş Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-lying-back-of-the-head-tricep-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-back-of-the-head-tricep-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-back-of-the-head-tricep-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-lying-close-grip-press",
+      "slug": "barbell-lying-close-grip-press",
+      "name": "Yatarak Dar Tutuşla Halterle Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-lying-close-grip-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-close-grip-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-close-grip-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-lying-close-grip-triceps-extension",
+      "slug": "barbell-lying-close-grip-triceps-extension",
+      "name": "Yatarak Dar Tutuşla Halterle Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-lying-close-grip-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-close-grip-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-close-grip-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-lying-extension",
+      "slug": "barbell-lying-extension",
+      "name": "Yatarak Halterle Ekstansiyon",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-lying-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-lying-triceps-extension-skull-crusher",
+      "slug": "barbell-lying-triceps-extension-skull-crusher",
+      "name": "Yatarak Halterle Skull-crusher Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-lying-triceps-extension-skull-crusher.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-triceps-extension-skull-crusher.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-triceps-extension-skull-crusher.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-lying-triceps-extension",
+      "slug": "barbell-lying-triceps-extension",
+      "name": "Yatarak Halterle Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-lying-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-one-arm-floor-press",
+      "slug": "barbell-one-arm-floor-press",
+      "name": "Halterle Tek Kolla Yerde Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-one-arm-floor-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-one-arm-floor-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-one-arm-floor-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-pin-presses",
+      "slug": "barbell-pin-presses",
+      "name": "Halterle Pin Presses",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-pin-presses.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-pin-presses.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-pin-presses.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-reverse-close-grip-bench-press",
+      "slug": "barbell-reverse-close-grip-bench-press",
+      "name": "Dar Tutuşla Halterle Ters Göğüs Baskısı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-reverse-close-grip-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-reverse-close-grip-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-reverse-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-reverse-grip-skullcrusher",
+      "slug": "barbell-reverse-grip-skullcrusher",
+      "name": "Ters Tutuşla Halterle Skullcrusher",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-reverse-grip-skullcrusher.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-reverse-grip-skullcrusher.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-reverse-grip-skullcrusher.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-seated-close-grip-behind-neck-triceps-extension",
+      "slug": "barbell-seated-close-grip-behind-neck-triceps-extension",
+      "name": "Oturarak Dar Tutuşla Halterle Arkada Boyun Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-seated-close-grip-behind-neck-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-seated-close-grip-behind-neck-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-seated-close-grip-behind-neck-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-seated-overhead-triceps-extension",
+      "slug": "barbell-seated-overhead-triceps-extension",
+      "name": "Oturarak Halterle Baş Üstü Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-seated-overhead-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-seated-overhead-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-seated-overhead-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-standing-overhead-triceps-extension",
+      "slug": "barbell-standing-overhead-triceps-extension",
+      "name": "Ayakta Halterle Baş Üstü Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/barbell-standing-overhead-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-standing-overhead-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-standing-overhead-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/bench-dip-knees-bent",
+      "slug": "bench-dip-knees-bent",
+      "name": "Diz Bükülü Bankta Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/bench-dip-knees-bent.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/bench-dip-knees-bent.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/bench-dip-knees-bent.thumb.webp"
+    },
+    {
+      "id": "triceps/bench-dip-on-floor",
+      "slug": "bench-dip-on-floor",
+      "name": "Yerde Bankta Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/bench-dip-on-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/bench-dip-on-floor.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/bench-dip-on-floor.thumb.webp"
+    },
+    {
+      "id": "triceps/body-up",
+      "slug": "body-up",
+      "name": "Body Up",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/body-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/body-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/body-up.thumb.webp"
+    },
+    {
+      "id": "triceps/bodyweight-kneeling-triceps-extension",
+      "slug": "bodyweight-kneeling-triceps-extension",
+      "name": "Diz Çökerek Vücut Ağırlığıyla Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/bodyweight-kneeling-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/bodyweight-kneeling-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/bodyweight-kneeling-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-alternate-triceps-extension",
+      "slug": "cable-alternate-triceps-extension",
+      "name": "Makarada Sırayla Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-alternate-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-alternate-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-alternate-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-concentration-extension-on-knee",
+      "slug": "cable-concentration-extension-on-knee",
+      "name": "Makarada Konsantrasyon Diz Ekstansiyon",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-concentration-extension-on-knee.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-concentration-extension-on-knee.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-concentration-extension-on-knee.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-high-pulley-overhead-tricep-extension",
+      "slug": "cable-high-pulley-overhead-tricep-extension",
+      "name": "Makarada Baş Üstü Yüksek Pulley Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-high-pulley-overhead-tricep-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-high-pulley-overhead-tricep-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-high-pulley-overhead-tricep-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-incline-triceps-extension",
+      "slug": "cable-incline-triceps-extension",
+      "name": "Makarada Eğimli Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-incline-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-incline-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-incline-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-kickback",
+      "slug": "cable-kickback",
+      "name": "Makarada Triceps Kikbek",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-kickback.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-kickback.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-kickback.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-kneeling-triceps-extension",
+      "slug": "cable-kneeling-triceps-extension",
+      "name": "Diz Çökerek Makarada Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-kneeling-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-kneeling-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-kneeling-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-lying-triceps-extension-v-2",
+      "slug": "cable-lying-triceps-extension-v-2",
+      "name": "Yatarak Makarada Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-lying-triceps-extension-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-lying-triceps-extension-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-lying-triceps-extension-v-2.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-one-arm-tricep-pushdown",
+      "slug": "cable-one-arm-tricep-pushdown",
+      "name": "Makarada Tek Kolla Triceps Pushdown",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-one-arm-tricep-pushdown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-one-arm-tricep-pushdown.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-one-arm-tricep-pushdown.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-overhead-triceps-extension-rope-attachment",
+      "slug": "cable-overhead-triceps-extension-rope-attachment",
+      "name": "Makarada Halatla Baş Üstü Attachment Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-overhead-triceps-extension-rope-attachment.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-overhead-triceps-extension-rope-attachment.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-overhead-triceps-extension-rope-attachment.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-pushdown-with-rope-attachment",
+      "slug": "cable-pushdown-with-rope-attachment",
+      "name": "Makarada Halatla Attachment Pushdown",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-pushdown-with-rope-attachment.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-pushdown-with-rope-attachment.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-pushdown-with-rope-attachment.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-pushdown",
+      "slug": "cable-pushdown",
+      "name": "Makarada Pushdown",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-pushdown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-pushdown.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-pushdown.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-rear-drive",
+      "slug": "cable-rear-drive",
+      "name": "Makarada Arka Drive",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-rear-drive.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-rear-drive.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-rear-drive.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-reverse-grip-pushdown",
+      "slug": "cable-reverse-grip-pushdown",
+      "name": "Ters Tutuşla Makarada Pushdown",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-reverse-grip-pushdown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-reverse-grip-pushdown.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-reverse-grip-pushdown.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster",
+      "slug": "cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster",
+      "name": "Ters Tutuşla Makarada Triceps Sz Bar Kol Blaster Pushdown",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-rope-high-pulley-overhead-tricep-extension",
+      "slug": "cable-rope-high-pulley-overhead-tricep-extension",
+      "name": "Makarada Halatla Baş Üstü Yüksek Pulley Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-rope-high-pulley-overhead-tricep-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-rope-high-pulley-overhead-tricep-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-rope-high-pulley-overhead-tricep-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-rope-incline-tricep-extension",
+      "slug": "cable-rope-incline-tricep-extension",
+      "name": "Makarada Halatla Eğimli Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-rope-incline-tricep-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-rope-incline-tricep-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-rope-incline-tricep-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-rope-lying-on-floor-tricep-extension",
+      "slug": "cable-rope-lying-on-floor-tricep-extension",
+      "name": "Yatarak Makarada Halatla Yerde Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-rope-lying-on-floor-tricep-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-rope-lying-on-floor-tricep-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-rope-lying-on-floor-tricep-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-standing-one-arm-triceps-extension",
+      "slug": "cable-standing-one-arm-triceps-extension",
+      "name": "Ayakta Makarada Tek Kolla Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-standing-one-arm-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-standing-one-arm-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-standing-one-arm-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-standing-reverse-grip-one-arm-overhead-tricep-extension",
+      "slug": "cable-standing-reverse-grip-one-arm-overhead-tricep-extension",
+      "name": "Ayakta Ters Tutuşla Makarada Baş Üstü Tek Kolla Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-standing-reverse-grip-one-arm-overhead-tricep-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-standing-reverse-grip-one-arm-overhead-tricep-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-standing-reverse-grip-one-arm-overhead-tricep-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-triceps-pushdown-v-bar-with-arm-blaster",
+      "slug": "cable-triceps-pushdown-v-bar-with-arm-blaster",
+      "name": "Makarada V Barla Triceps Kol Blaster Pushdown",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-triceps-pushdown-v-bar-with-arm-blaster.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-triceps-pushdown-v-bar-with-arm-blaster.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-triceps-pushdown-v-bar-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-triceps-pushdown-v-bar",
+      "slug": "cable-triceps-pushdown-v-bar",
+      "name": "Makarada V Barla Triceps Pushdown",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-triceps-pushdown-v-bar.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-triceps-pushdown-v-bar.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-triceps-pushdown-v-bar.thumb.webp"
+    },
+    {
+      "id": "triceps/cable-two-arm-tricep-kickback",
+      "slug": "cable-two-arm-tricep-kickback",
+      "name": "Makarada İki Kolla Triceps Triceps Kikbek",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/cable-two-arm-tricep-kickback.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-two-arm-tricep-kickback.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-two-arm-tricep-kickback.thumb.webp"
+    },
+    {
+      "id": "triceps/close-grip-push-up-on-knees",
+      "slug": "close-grip-push-up-on-knees",
+      "name": "Diz Dar Tutuşlu Şınav",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/close-grip-push-up-on-knees.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/close-grip-push-up-on-knees.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/close-grip-push-up-on-knees.thumb.webp"
+    },
+    {
+      "id": "triceps/close-grip-push-up",
+      "slug": "close-grip-push-up",
+      "name": "Dar Tutuşlu Şınav",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/close-grip-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/close-grip-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/close-grip-push-up.thumb.webp"
+    },
+    {
+      "id": "triceps/diamond-push-up",
+      "slug": "diamond-push-up",
+      "name": "Elmas Şınav",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/diamond-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/diamond-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/diamond-push-up.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-close-grip-press-1731",
+      "slug": "dumbbell-close-grip-press-1731",
+      "name": "Dar Tutuşla Dambılla Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-close-grip-press-1731.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-close-grip-press-1731.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-close-grip-press-1731.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-close-grip-press",
+      "slug": "dumbbell-close-grip-press",
+      "name": "Dar Tutuşla Dambılla Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-close-grip-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-close-grip-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-close-grip-press.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-decline-one-arm-hammer-press",
+      "slug": "dumbbell-decline-one-arm-hammer-press",
+      "name": "Dambılla Ters Eğimli Çekiç Tek Kolla Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-decline-one-arm-hammer-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-decline-one-arm-hammer-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-decline-one-arm-hammer-press.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-decline-triceps-extension",
+      "slug": "dumbbell-decline-triceps-extension",
+      "name": "Dambılla Ters Eğimli Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-decline-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-decline-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-decline-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-forward-lunge-triceps-extension",
+      "slug": "dumbbell-forward-lunge-triceps-extension",
+      "name": "Dambılla İleri Lunge Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-forward-lunge-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-forward-lunge-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-forward-lunge-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-incline-hammer-press-on-exercise-ball",
+      "slug": "dumbbell-incline-hammer-press-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Eğimli Çekiç Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-incline-hammer-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-incline-hammer-press-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-incline-hammer-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-incline-one-arm-hammer-press-on-exercise-ball",
+      "slug": "dumbbell-incline-one-arm-hammer-press-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Eğimli Çekiç Tek Kolla Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-incline-one-arm-hammer-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-incline-one-arm-hammer-press-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-incline-one-arm-hammer-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-incline-one-arm-hammer-press",
+      "slug": "dumbbell-incline-one-arm-hammer-press",
+      "name": "Dambılla Eğimli Çekiç Tek Kolla Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-incline-one-arm-hammer-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-incline-one-arm-hammer-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-incline-one-arm-hammer-press.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-incline-triceps-extension",
+      "slug": "dumbbell-incline-triceps-extension",
+      "name": "Dambılla Eğimli Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-incline-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-incline-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-incline-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-incline-two-arm-extension",
+      "slug": "dumbbell-incline-two-arm-extension",
+      "name": "Dambılla Eğimli İki Kolla Ekstansiyon",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-incline-two-arm-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-incline-two-arm-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-incline-two-arm-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-kickback",
+      "slug": "dumbbell-kickback",
+      "name": "Dambılla Triceps Kikbek",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-kickback.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-kickback.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-kickback.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-kickbacks-on-exercise-ball",
+      "slug": "dumbbell-kickbacks-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Triceps Kikbek",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-kickbacks-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-kickbacks-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-kickbacks-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-lying-alternate-extension",
+      "slug": "dumbbell-lying-alternate-extension",
+      "name": "Yatarak Dambılla Sırayla Ekstansiyon",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-lying-alternate-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-alternate-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-alternate-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-lying-elbow-press",
+      "slug": "dumbbell-lying-elbow-press",
+      "name": "Yatarak Dambılla Dirsek Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-lying-elbow-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-elbow-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-elbow-press.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-lying-extension-across-face",
+      "slug": "dumbbell-lying-extension-across-face",
+      "name": "Yatarak Dambılla Across Face Ekstansiyon",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-lying-extension-across-face.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-extension-across-face.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-extension-across-face.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-lying-one-arm-pronated-triceps-extension",
+      "slug": "dumbbell-lying-one-arm-pronated-triceps-extension",
+      "name": "Yatarak Dambılla Tek Kolla Pronated Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-lying-one-arm-pronated-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-one-arm-pronated-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-one-arm-pronated-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-lying-one-arm-supinated-triceps-extension",
+      "slug": "dumbbell-lying-one-arm-supinated-triceps-extension",
+      "name": "Yatarak Dambılla Tek Kolla Supinated Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-lying-one-arm-supinated-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-one-arm-supinated-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-one-arm-supinated-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-lying-single-extension",
+      "slug": "dumbbell-lying-single-extension",
+      "name": "Yatarak Dambılla Tek Ekstansiyon",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-lying-single-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-single-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-single-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-lying-triceps-extension",
+      "slug": "dumbbell-lying-triceps-extension",
+      "name": "Yatarak Dambılla Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-lying-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-lying-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-neutral-grip-bench-press",
+      "slug": "dumbbell-neutral-grip-bench-press",
+      "name": "Nötr Tutuşla Dambılla Göğüs Baskısı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-neutral-grip-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-neutral-grip-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-neutral-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-one-arm-french-press-on-exercise-ball",
+      "slug": "dumbbell-one-arm-french-press-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Tek Kolla Fransız Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-one-arm-french-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-one-arm-french-press-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-one-arm-french-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-one-arm-hammer-press-on-exercise-ball",
+      "slug": "dumbbell-one-arm-hammer-press-on-exercise-ball",
+      "name": "Dambılla Pilates Topunda Çekiç Tek Kolla Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-one-arm-hammer-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-one-arm-hammer-press-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-one-arm-hammer-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-one-arm-kickback",
+      "slug": "dumbbell-one-arm-kickback",
+      "name": "Dambılla Tek Kolla Triceps Kikbek",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-one-arm-kickback.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-one-arm-kickback.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-one-arm-kickback.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-one-arm-triceps-extension-on-bench",
+      "slug": "dumbbell-one-arm-triceps-extension-on-bench",
+      "name": "Dambılla Tek Kolla Bankta Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-one-arm-triceps-extension-on-bench.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-one-arm-triceps-extension-on-bench.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-one-arm-triceps-extension-on-bench.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-palms-in-incline-bench-press",
+      "slug": "dumbbell-palms-in-incline-bench-press",
+      "name": "Dambılla Eğimli Palms Göğüs Baskısı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-palms-in-incline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-palms-in-incline-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-palms-in-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-pronate-grip-triceps-extension",
+      "slug": "dumbbell-pronate-grip-triceps-extension",
+      "name": "Dambılla Pronate Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-pronate-grip-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-pronate-grip-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-pronate-grip-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-seated-bench-extension",
+      "slug": "dumbbell-seated-bench-extension",
+      "name": "Oturarak Dambılla Bankta Ekstansiyon",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-seated-bench-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-bench-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-bench-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-seated-bent-over-alternate-kickback",
+      "slug": "dumbbell-seated-bent-over-alternate-kickback",
+      "name": "Oturarak Dambılla Öne Eğilerek Sırayla Triceps Kikbek",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-seated-bent-over-alternate-kickback.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-bent-over-alternate-kickback.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-bent-over-alternate-kickback.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-seated-bent-over-triceps-extension",
+      "slug": "dumbbell-seated-bent-over-triceps-extension",
+      "name": "Oturarak Dambılla Öne Eğilerek Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-seated-bent-over-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-bent-over-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-bent-over-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-seated-kickback",
+      "slug": "dumbbell-seated-kickback",
+      "name": "Oturarak Dambılla Triceps Kikbek",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-seated-kickback.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-kickback.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-kickback.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-seated-one-arm-kickback",
+      "slug": "dumbbell-seated-one-arm-kickback",
+      "name": "Oturarak Dambılla Tek Kolla Triceps Kikbek",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-seated-one-arm-kickback.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-one-arm-kickback.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-one-arm-kickback.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension",
+      "slug": "dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension",
+      "name": "Oturarak Ters Tutuşla Dambılla Baş Üstü Tek Kolla Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-seated-triceps-extension",
+      "slug": "dumbbell-seated-triceps-extension",
+      "name": "Oturarak Dambılla Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-seated-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-standing-alternating-tricep-kickback",
+      "slug": "dumbbell-standing-alternating-tricep-kickback",
+      "name": "Ayakta Dambılla Sırayla Triceps Triceps Kikbek",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-standing-alternating-tricep-kickback.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-alternating-tricep-kickback.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-alternating-tricep-kickback.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-standing-bent-over-one-arm-triceps-extension",
+      "slug": "dumbbell-standing-bent-over-one-arm-triceps-extension",
+      "name": "Ayakta Dambılla Öne Eğilerek Tek Kolla Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-standing-bent-over-one-arm-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-bent-over-one-arm-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-bent-over-one-arm-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-standing-bent-over-two-arm-triceps-extension",
+      "slug": "dumbbell-standing-bent-over-two-arm-triceps-extension",
+      "name": "Ayakta Dambılla Öne Eğilerek İki Kolla Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-standing-bent-over-two-arm-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-bent-over-two-arm-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-bent-over-two-arm-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-standing-kickback",
+      "slug": "dumbbell-standing-kickback",
+      "name": "Ayakta Dambılla Triceps Kikbek",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-standing-kickback.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-kickback.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-kickback.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-standing-one-arm-extension",
+      "slug": "dumbbell-standing-one-arm-extension",
+      "name": "Ayakta Dambılla Tek Kolla Ekstansiyon",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-standing-one-arm-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-one-arm-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-one-arm-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-standing-triceps-extension",
+      "slug": "dumbbell-standing-triceps-extension",
+      "name": "Ayakta Dambılla Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-standing-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-tate-press",
+      "slug": "dumbbell-tate-press",
+      "name": "Dambılla Tate Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-tate-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-tate-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-tate-press.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-tricep-kickback-with-stork-stance",
+      "slug": "dumbbell-tricep-kickback-with-stork-stance",
+      "name": "Dambılla Triceps Stork Triceps Kikbek",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-tricep-kickback-with-stork-stance.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-tricep-kickback-with-stork-stance.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-tricep-kickback-with-stork-stance.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbell-twisting-bench-press",
+      "slug": "dumbbell-twisting-bench-press",
+      "name": "Dambılla Dönerek Göğüs Baskısı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbell-twisting-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-twisting-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-twisting-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/dumbbells-seated-triceps-extension",
+      "slug": "dumbbells-seated-triceps-extension",
+      "name": "Oturarak Dambıllarla Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/dumbbells-seated-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbells-seated-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbells-seated-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/elbow-dips",
+      "slug": "elbow-dips",
+      "name": "Dirsek Paralelde İniş-Çıkış",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/elbow-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/elbow-dips.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/elbow-dips.thumb.webp"
+    },
+    {
+      "id": "triceps/exercise-ball-dip",
+      "slug": "exercise-ball-dip",
+      "name": "Pilates Topunda Paralelde İniş-Çıkış",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/exercise-ball-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/exercise-ball-dip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/exercise-ball-dip.thumb.webp"
+    },
+    {
+      "id": "triceps/exercise-ball-seated-triceps-stretch",
+      "slug": "exercise-ball-seated-triceps-stretch",
+      "name": "Oturarak Pilates Topunda Triceps Esneme",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Triceps kasını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "triceps/exercise-ball-seated-triceps-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/exercise-ball-seated-triceps-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/exercise-ball-seated-triceps-stretch.thumb.webp"
+    },
+    {
+      "id": "triceps/exercise-ball-supine-triceps-extension",
+      "slug": "exercise-ball-supine-triceps-extension",
+      "name": "Pilates Topunda Sırtüstü Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/exercise-ball-supine-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/exercise-ball-supine-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/exercise-ball-supine-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-close-grip-bench-press",
+      "slug": "ez-bar-close-grip-bench-press",
+      "name": "Dar Tutuşla EZ Barla Göğüs Baskısı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZ barı uygun ağırlıkla yükleyin ve sıkıca kavrayın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/ez-bar-close-grip-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-bar-close-grip-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-bar-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-french-press-on-exercise-ball",
+      "slug": "ez-bar-french-press-on-exercise-ball",
+      "name": "EZ Barla Pilates Topunda Fransız Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZ barı uygun ağırlıkla yükleyin ve sıkıca kavrayın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/ez-bar-french-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-bar-french-press-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-bar-french-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-lying-close-grip-triceps-extension-behind-head",
+      "slug": "ez-bar-lying-close-grip-triceps-extension-behind-head",
+      "name": "Yatarak Dar Tutuşla EZ Barla Arkada Baş Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZ barı uygun ağırlıkla yükleyin ve sıkıca kavrayın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-standing-french-press",
+      "slug": "ez-bar-standing-french-press",
+      "name": "Ayakta EZ Barla Fransız Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZ barı uygun ağırlıkla yükleyin ve sıkıca kavrayın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/ez-bar-standing-french-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-bar-standing-french-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-bar-standing-french-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-decline-close-grip-face-press",
+      "slug": "ez-barbell-decline-close-grip-face-press",
+      "name": "Dar Tutuşla EZ Barla Ters Eğimli Face Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZ barı uygun ağırlıkla yükleyin ve sıkıca kavrayın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/ez-barbell-decline-close-grip-face-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-barbell-decline-close-grip-face-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-barbell-decline-close-grip-face-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-decline-triceps-extension",
+      "slug": "ez-barbell-decline-triceps-extension",
+      "name": "EZ Barla Ters Eğimli Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZ barı uygun ağırlıkla yükleyin ve sıkıca kavrayın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/ez-barbell-decline-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-barbell-decline-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-barbell-decline-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-incline-triceps-extension",
+      "slug": "ez-barbell-incline-triceps-extension",
+      "name": "EZ Barla Eğimli Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZ barı uygun ağırlıkla yükleyin ve sıkıca kavrayın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/ez-barbell-incline-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-barbell-incline-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-barbell-incline-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-jm-bench-press",
+      "slug": "ez-barbell-jm-bench-press",
+      "name": "EZ Barla JM Göğüs Baskısı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZ barı uygun ağırlıkla yükleyin ve sıkıca kavrayın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/ez-barbell-jm-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-barbell-jm-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-barbell-jm-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-seated-triceps-extension",
+      "slug": "ez-barbell-seated-triceps-extension",
+      "name": "Oturarak EZ Barla Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZ barı uygun ağırlıkla yükleyin ve sıkıca kavrayın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/ez-barbell-seated-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-barbell-seated-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ez-barbell-seated-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/handstand-push-up",
+      "slug": "handstand-push-up",
+      "name": "Amuda Kalkarak Şınav",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "abs",
+        "traps"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/handstand-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/handstand-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/handstand-push-up.thumb.webp"
+    },
+    {
+      "id": "triceps/handstand",
+      "slug": "handstand",
+      "name": "Amuda Kalkma",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "abs",
+        "traps"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/handstand.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/handstand.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/handstand.thumb.webp"
+    },
+    {
+      "id": "triceps/impossible-dips",
+      "slug": "impossible-dips",
+      "name": "Impossible Paralelde İniş-Çıkış",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/impossible-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/impossible-dips.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/impossible-dips.thumb.webp"
+    },
+    {
+      "id": "triceps/incline-close-grip-push-up",
+      "slug": "incline-close-grip-push-up",
+      "name": "Eğimli Dar Tutuşlu Şınav",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/incline-close-grip-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/incline-close-grip-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/incline-close-grip-push-up.thumb.webp"
+    },
+    {
+      "id": "triceps/lever-overhand-triceps-dip",
+      "slug": "lever-overhand-triceps-dip",
+      "name": "Makinede Overhand Triceps Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/lever-overhand-triceps-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-overhand-triceps-dip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-overhand-triceps-dip.thumb.webp"
+    },
+    {
+      "id": "triceps/lever-seated-dip",
+      "slug": "lever-seated-dip",
+      "name": "Oturarak Makinede Paralelde İniş-Çıkış",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/lever-seated-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-seated-dip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-seated-dip.thumb.webp"
+    },
+    {
+      "id": "triceps/lever-triceps-extension",
+      "slug": "lever-triceps-extension",
+      "name": "Makinede Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/lever-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/medicine-ball-close-grip-push-up",
+      "slug": "medicine-ball-close-grip-push-up",
+      "name": "Sağlık Topuyla Dar Tutuşlu Şınav",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/medicine-ball-close-grip-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/medicine-ball-close-grip-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/medicine-ball-close-grip-push-up.thumb.webp"
+    },
+    {
+      "id": "triceps/medicine-ball-supine-chest-throw",
+      "slug": "medicine-ball-supine-chest-throw",
+      "name": "Sağlık Topuyla Sırtüstü Göğüs Throw",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/medicine-ball-supine-chest-throw.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/medicine-ball-supine-chest-throw.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/medicine-ball-supine-chest-throw.thumb.webp"
+    },
+    {
+      "id": "triceps/narrow-push-up-on-exercise-ball",
+      "slug": "narrow-push-up-on-exercise-ball",
+      "name": "Pilates Topunda Dar Şınav",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/narrow-push-up-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/narrow-push-up-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/narrow-push-up-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "triceps/olympic-barbell-triceps-extension",
+      "slug": "olympic-barbell-triceps-extension",
+      "name": "Olimpik Halterle Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/olympic-barbell-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/olympic-barbell-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/olympic-barbell-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/one-arm-dip",
+      "slug": "one-arm-dip",
+      "name": "Tek Kolla Paralelde İniş-Çıkış",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/one-arm-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/one-arm-dip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/one-arm-dip.thumb.webp"
+    },
+    {
+      "id": "triceps/overhead-triceps-stretch",
+      "slug": "overhead-triceps-stretch",
+      "name": "Baş Üstü Triceps Esneme",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Triceps kasını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "triceps/overhead-triceps-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/overhead-triceps-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/overhead-triceps-stretch.thumb.webp"
+    },
+    {
+      "id": "triceps/push-up-close-grip-off-dumbbell",
+      "slug": "push-up-close-grip-off-dumbbell",
+      "name": "Dar Tutuşla Dambılla Off Şınav",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/push-up-close-grip-off-dumbbell.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/push-up-close-grip-off-dumbbell.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/push-up-close-grip-off-dumbbell.thumb.webp"
+    },
+    {
+      "id": "triceps/push-up-on-lower-arms",
+      "slug": "push-up-on-lower-arms",
+      "name": "Alt Kol Şınav",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/push-up-on-lower-arms.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/push-up-on-lower-arms.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/push-up-on-lower-arms.thumb.webp"
+    },
+    {
+      "id": "triceps/reverse-dip",
+      "slug": "reverse-dip",
+      "name": "Ters Paralelde İniş-Çıkış",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/reverse-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/reverse-dip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/reverse-dip.thumb.webp"
+    },
+    {
+      "id": "triceps/ring-dips",
+      "slug": "ring-dips",
+      "name": "Ring Paralelde İniş-Çıkış",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/ring-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ring-dips.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ring-dips.thumb.webp"
+    },
+    {
+      "id": "triceps/side-push-up",
+      "slug": "side-push-up",
+      "name": "Yan Şınav",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/side-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/side-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/side-push-up.thumb.webp"
+    },
+    {
+      "id": "triceps/ski-ergometer",
+      "slug": "ski-ergometer",
+      "name": "Kayak Ergometresi",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/ski-ergometer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ski-ergometer.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ski-ergometer.thumb.webp"
+    },
+    {
+      "id": "triceps/smith-close-grip-bench-press",
+      "slug": "smith-close-grip-bench-press",
+      "name": "Dar Tutuşla Smith Makinesinde Göğüs Baskısı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/smith-close-grip-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/smith-close-grip-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/smith-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/smith-machine-decline-close-grip-bench-press",
+      "slug": "smith-machine-decline-close-grip-bench-press",
+      "name": "Dar Tutuşla Smith Makinesinde Ters Eğimli Göğüs Baskısı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/smith-machine-decline-close-grip-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/smith-machine-decline-close-grip-bench-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/smith-machine-decline-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/smith-machine-incline-tricep-extension",
+      "slug": "smith-machine-incline-tricep-extension",
+      "name": "Smith Makinesinde Eğimli Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/smith-machine-incline-tricep-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/smith-machine-incline-tricep-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/smith-machine-incline-tricep-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/stalder-press",
+      "slug": "stalder-press",
+      "name": "Stalder Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/stalder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/stalder-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/stalder-press.thumb.webp"
+    },
+    {
+      "id": "triceps/three-bench-dip",
+      "slug": "three-bench-dip",
+      "name": "Three Bankta Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/three-bench-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/three-bench-dip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/three-bench-dip.thumb.webp"
+    },
+    {
+      "id": "triceps/triceps-dip-bench-leg",
+      "slug": "triceps-dip-bench-leg",
+      "name": "Bankta Bacak Triceps Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/triceps-dip-bench-leg.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/triceps-dip-bench-leg.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/triceps-dip-bench-leg.thumb.webp"
+    },
+    {
+      "id": "triceps/triceps-dip-between-benches",
+      "slug": "triceps-dip-between-benches",
+      "name": "Between Benches Triceps Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/triceps-dip-between-benches.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/triceps-dip-between-benches.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/triceps-dip-between-benches.thumb.webp"
+    },
+    {
+      "id": "triceps/triceps-dip",
+      "slug": "triceps-dip",
+      "name": "Triceps Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/triceps-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/triceps-dip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/triceps-dip.thumb.webp"
+    },
+    {
+      "id": "triceps/triceps-dips-floor",
+      "slug": "triceps-dips-floor",
+      "name": "Yerde Triceps Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/triceps-dips-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/triceps-dips-floor.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/triceps-dips-floor.thumb.webp"
+    },
+    {
+      "id": "triceps/triceps-press",
+      "slug": "triceps-press",
+      "name": "Triceps Baskı",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/triceps-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/triceps-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/triceps-press.thumb.webp"
+    },
+    {
+      "id": "triceps/triceps-stretch",
+      "slug": "triceps-stretch",
+      "name": "Triceps Esneme",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Triceps kasını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "triceps/triceps-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/triceps-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/triceps-stretch.thumb.webp"
+    },
+    {
+      "id": "triceps/weighted-bench-dip",
+      "slug": "weighted-bench-dip",
+      "name": "Ağırlıklı Bankta Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/weighted-bench-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/weighted-bench-dip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/weighted-bench-dip.thumb.webp"
+    },
+    {
+      "id": "triceps/weighted-three-bench-dips",
+      "slug": "weighted-three-bench-dips",
+      "name": "Ağırlıklı Three Bankta Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/weighted-three-bench-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/weighted-three-bench-dips.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/weighted-three-bench-dips.thumb.webp"
+    },
+    {
+      "id": "triceps/weighted-tricep-dips",
+      "slug": "weighted-tricep-dips",
+      "name": "Ağırlıklı Triceps Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/weighted-tricep-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/weighted-tricep-dips.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/weighted-tricep-dips.thumb.webp"
+    },
+    {
+      "id": "triceps/weighted-triceps-dip-on-high-parallel-bars",
+      "slug": "weighted-triceps-dip-on-high-parallel-bars",
+      "name": "Ağırlıklı Yüksek Parallel Bars Triceps Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/weighted-triceps-dip-on-high-parallel-bars.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/weighted-triceps-dip-on-high-parallel-bars.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/weighted-triceps-dip-on-high-parallel-bars.thumb.webp"
+    }
+  ]
+}

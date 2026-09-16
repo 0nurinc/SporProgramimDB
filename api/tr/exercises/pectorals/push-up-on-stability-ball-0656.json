@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/push-up-on-stability-ball-0656",
+  "slug": "push-up-on-stability-ball-0656",
+  "name": "Pilates Topunda Şınav",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/push-up-on-stability-ball-0656.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-on-stability-ball-0656.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-up-on-stability-ball-0656.thumb.webp"
+}

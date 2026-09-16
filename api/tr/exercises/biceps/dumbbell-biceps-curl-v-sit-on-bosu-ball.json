@@ -1,0 +1,22 @@
+{
+  "id": "biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball",
+  "slug": "dumbbell-biceps-curl-v-sit-on-bosu-ball",
+  "name": "Dambılla Bosu Topunda Sit Biceps Büküşü",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce biceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball.thumb.webp"
+}

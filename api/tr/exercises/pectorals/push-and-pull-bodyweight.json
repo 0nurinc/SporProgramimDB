@@ -1,0 +1,20 @@
+{
+  "id": "pectorals/push-and-pull-bodyweight",
+  "slug": "push-and-pull-bodyweight",
+  "name": "Vücut Ağırlığıyla Push Pull",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/push-and-pull-bodyweight.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-and-pull-bodyweight.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/push-and-pull-bodyweight.thumb.webp"
+}

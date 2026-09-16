@@ -1,0 +1,23 @@
+{
+  "id": "spine/exercise-ball-back-extension-with-hands-behind-head",
+  "slug": "exercise-ball-back-extension-with-hands-behind-head",
+  "name": "Pilates Topunda Sırt Eller Arkada Baş Ekstansiyon",
+  "muscle": "spine",
+  "bodyPart": "back",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce bel bölgesini kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "spine/exercise-ball-back-extension-with-hands-behind-head.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-back-extension-with-hands-behind-head.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-back-extension-with-hands-behind-head.thumb.webp"
+}

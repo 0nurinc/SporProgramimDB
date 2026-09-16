@@ -1,0 +1,20 @@
+{
+  "id": "glutes/barbell-seated-good-morning",
+  "slug": "barbell-seated-good-morning",
+  "name": "Oturarak Halterle Good Morning",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/barbell-seated-good-morning.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-seated-good-morning.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-seated-good-morning.thumb.webp"
+}

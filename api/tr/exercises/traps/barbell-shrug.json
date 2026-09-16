@@ -1,0 +1,23 @@
+{
+  "id": "traps/barbell-shrug",
+  "slug": "barbell-shrug",
+  "name": "Halterle Omuz Silkme",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce trapez kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "traps/barbell-shrug.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/barbell-shrug.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/barbell-shrug.thumb.webp"
+}

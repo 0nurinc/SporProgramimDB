@@ -1,0 +1,23 @@
+{
+  "id": "glutes/push-up-inside-leg-kick",
+  "slug": "push-up-inside-leg-kick",
+  "name": "Inside Bacak Tekme Şınav",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/push-up-inside-leg-kick.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/push-up-inside-leg-kick.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/push-up-inside-leg-kick.thumb.webp"
+}

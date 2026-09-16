@@ -1,0 +1,22 @@
+{
+  "id": "triceps/dumbbell-standing-bent-over-one-arm-triceps-extension",
+  "slug": "dumbbell-standing-bent-over-one-arm-triceps-extension",
+  "name": "Ayakta Dambılla Öne Eğilerek Tek Kolla Triceps Ekstansiyonu",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/dumbbell-standing-bent-over-one-arm-triceps-extension.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-bent-over-one-arm-triceps-extension.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-standing-bent-over-one-arm-triceps-extension.thumb.webp"
+}

@@ -1,0 +1,966 @@
+{
+  "equipment": "kettlebell",
+  "count": 41,
+  "exercises": [
+    {
+      "id": "abs/kettlebell-advanced-windmill",
+      "slug": "kettlebell-advanced-windmill",
+      "name": "Kettlebell'le Advanced Windmill",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce karın kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abs/kettlebell-advanced-windmill.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-advanced-windmill.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-advanced-windmill.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-bent-press",
+      "slug": "kettlebell-bent-press",
+      "name": "Kettlebell'le Eğik Baskı",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce karın kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abs/kettlebell-bent-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-bent-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-bent-press.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-double-windmill",
+      "slug": "kettlebell-double-windmill",
+      "name": "Kettlebell'le Çift Windmill",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce karın kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abs/kettlebell-double-windmill.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-double-windmill.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-double-windmill.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-figure-8",
+      "slug": "kettlebell-figure-8",
+      "name": "Kettlebell'le Figure",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce karın kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abs/kettlebell-figure-8.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-figure-8.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-figure-8.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-windmill",
+      "slug": "kettlebell-windmill",
+      "name": "Kettlebell'le Windmill",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce karın kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abs/kettlebell-windmill.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-windmill.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-windmill.thumb.webp"
+    },
+    {
+      "id": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position",
+      "slug": "kettlebell-bottoms-up-clean-from-the-hang-position",
+      "name": "Kettlebell'le Bottoms Up Hang Cleaning (Clean)",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce biceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.thumb.webp"
+    },
+    {
+      "id": "biceps/kettlebell-double-alternating-hang-clean",
+      "slug": "kettlebell-double-alternating-hang-clean",
+      "name": "Kettlebell'le Sırayla Çift Hang Cleaning (Clean)",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce biceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "biceps/kettlebell-double-alternating-hang-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/kettlebell-double-alternating-hang-clean.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/kettlebell-double-alternating-hang-clean.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-alternating-press",
+      "slug": "kettlebell-alternating-press",
+      "name": "Kettlebell'le Sırayla Baskı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-alternating-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-alternating-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-alternating-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-arnold-press",
+      "slug": "kettlebell-arnold-press",
+      "name": "Kettlebell'le Arnold Baskı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-arnold-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-arnold-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-arnold-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-double-jerk",
+      "slug": "kettlebell-double-jerk",
+      "name": "Kettlebell'le Çift İtiş (Jerk)",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-double-jerk.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-double-jerk.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-double-jerk.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-double-push-press",
+      "slug": "kettlebell-double-push-press",
+      "name": "Kettlebell'le Çift İtme Baskısı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-double-push-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-double-push-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-double-push-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-double-snatch",
+      "slug": "kettlebell-double-snatch",
+      "name": "Kettlebell'le Çift Kapma (Snatch)",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-double-snatch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-double-snatch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-double-snatch.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-clean-and-jerk",
+      "slug": "kettlebell-one-arm-clean-and-jerk",
+      "name": "Kettlebell'le Tek Kolla Clean and Jerk",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-one-arm-clean-and-jerk.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-clean-and-jerk.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-clean-and-jerk.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-jerk",
+      "slug": "kettlebell-one-arm-jerk",
+      "name": "Kettlebell'le Tek Kolla İtiş (Jerk)",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-one-arm-jerk.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-jerk.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-jerk.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-military-press-to-the-side",
+      "slug": "kettlebell-one-arm-military-press-to-the-side",
+      "name": "Yandan Kettlebell'le Tek Kolla Asker Baskısı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-one-arm-military-press-to-the-side.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-military-press-to-the-side.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-military-press-to-the-side.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-push-press",
+      "slug": "kettlebell-one-arm-push-press",
+      "name": "Kettlebell'le Tek Kolla İtme Baskısı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-one-arm-push-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-push-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-push-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-snatch",
+      "slug": "kettlebell-one-arm-snatch",
+      "name": "Kettlebell'le Tek Kolla Kapma (Snatch)",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-one-arm-snatch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-snatch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-snatch.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-pirate-supper-legs",
+      "slug": "kettlebell-pirate-supper-legs",
+      "name": "Kettlebell'le Pirate Supper Bacak",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-pirate-supper-legs.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-pirate-supper-legs.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-pirate-supper-legs.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-seated-press",
+      "slug": "kettlebell-seated-press",
+      "name": "Oturarak Kettlebell'le Baskı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-seated-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-seated-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-seated-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-seated-two-arm-military-press",
+      "slug": "kettlebell-seated-two-arm-military-press",
+      "name": "Oturarak Kettlebell'le İki Kolla Asker Baskısı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-seated-two-arm-military-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-seated-two-arm-military-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-seated-two-arm-military-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-seesaw-press",
+      "slug": "kettlebell-seesaw-press",
+      "name": "Kettlebell'le Almaşık Baskı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-seesaw-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-seesaw-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-seesaw-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-thruster",
+      "slug": "kettlebell-thruster",
+      "name": "Kettlebell'le Thruster",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "quads",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-thruster.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-thruster.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-thruster.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-two-arm-clean",
+      "slug": "kettlebell-two-arm-clean",
+      "name": "Kettlebell'le İki Kolla Cleaning (Clean)",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-two-arm-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-two-arm-clean.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-two-arm-clean.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-two-arm-military-press",
+      "slug": "kettlebell-two-arm-military-press",
+      "name": "Kettlebell'le İki Kolla Asker Baskısı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/kettlebell-two-arm-military-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-two-arm-military-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-two-arm-military-press.thumb.webp"
+    },
+    {
+      "id": "forearms/kettlebell-alternating-hang-clean",
+      "slug": "kettlebell-alternating-hang-clean",
+      "name": "Kettlebell'le Sırayla Hang Cleaning (Clean)",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/kettlebell-alternating-hang-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/kettlebell-alternating-hang-clean.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/kettlebell-alternating-hang-clean.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-front-squat",
+      "slug": "kettlebell-front-squat",
+      "name": "Kettlebell'le Ön Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/kettlebell-front-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-front-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-front-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-goblet-squat",
+      "slug": "kettlebell-goblet-squat",
+      "name": "Kettlebell'le Goblet Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/kettlebell-goblet-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-goblet-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-goblet-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-lunge-pass-through",
+      "slug": "kettlebell-lunge-pass-through",
+      "name": "Kettlebell'le Pass Through Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/kettlebell-lunge-pass-through.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-lunge-pass-through.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-lunge-pass-through.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-pistol-squat",
+      "slug": "kettlebell-pistol-squat",
+      "name": "Kettlebell'le Pistol Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/kettlebell-pistol-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-pistol-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-pistol-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-swing",
+      "slug": "kettlebell-swing",
+      "name": "Kettlebell'le Sallanma (Swing)",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/kettlebell-swing.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-swing.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-swing.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-turkish-get-up-squat-style",
+      "slug": "kettlebell-turkish-get-up-squat-style",
+      "name": "Kettlebell'le Turkish Get Up Style Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/kettlebell-turkish-get-up-squat-style.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-turkish-get-up-squat-style.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-turkish-get-up-squat-style.thumb.webp"
+    },
+    {
+      "id": "hamstrings/kettlebell-hang-clean",
+      "slug": "kettlebell-hang-clean",
+      "name": "Kettlebell'le Hang Cleaning (Clean)",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/kettlebell-hang-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/kettlebell-hang-clean.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/kettlebell-hang-clean.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-alternating-press-on-floor",
+      "slug": "kettlebell-alternating-press-on-floor",
+      "name": "Kettlebell'le Sırayla Yerde Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/kettlebell-alternating-press-on-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-alternating-press-on-floor.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-alternating-press-on-floor.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-extended-range-one-arm-press-on-floor",
+      "slug": "kettlebell-extended-range-one-arm-press-on-floor",
+      "name": "Kettlebell'le Tek Kolla Extended Aralık Yerde Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-extended-range-one-arm-press-on-floor.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-one-arm-floor-press",
+      "slug": "kettlebell-one-arm-floor-press",
+      "name": "Kettlebell'le Tek Kolla Yerde Baskı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/kettlebell-one-arm-floor-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-one-arm-floor-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-one-arm-floor-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-plyo-push-up",
+      "slug": "kettlebell-plyo-push-up",
+      "name": "Kettlebell'le Pliometrik Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "pectorals/kettlebell-plyo-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-plyo-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-plyo-push-up.thumb.webp"
+    },
+    {
+      "id": "traps/kettlebell-sumo-high-pull",
+      "slug": "kettlebell-sumo-high-pull",
+      "name": "Kettlebell'le Sumo Yüksek Çekiş",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce trapez kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "traps/kettlebell-sumo-high-pull.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/kettlebell-sumo-high-pull.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/kettlebell-sumo-high-pull.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-renegade-row",
+      "slug": "kettlebell-alternating-renegade-row",
+      "name": "Kettlebell'le Sırayla Renegade Kürek",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/kettlebell-alternating-renegade-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/kettlebell-alternating-renegade-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/kettlebell-alternating-renegade-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-row",
+      "slug": "kettlebell-alternating-row",
+      "name": "Kettlebell'le Sırayla Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/kettlebell-alternating-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/kettlebell-alternating-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/kettlebell-alternating-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-one-arm-row",
+      "slug": "kettlebell-one-arm-row",
+      "name": "Kettlebell'le Tek Kolla Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/kettlebell-one-arm-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/kettlebell-one-arm-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/kettlebell-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-two-arm-row",
+      "slug": "kettlebell-two-arm-row",
+      "name": "Kettlebell'le İki Kolla Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/kettlebell-two-arm-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/kettlebell-two-arm-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/kettlebell-two-arm-row.thumb.webp"
+    }
+  ]
+}

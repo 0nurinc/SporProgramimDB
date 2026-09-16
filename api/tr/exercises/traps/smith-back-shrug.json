@@ -1,0 +1,23 @@
+{
+  "id": "traps/smith-back-shrug",
+  "slug": "smith-back-shrug",
+  "name": "Smith Makinesinde Sırt Omuz Silkme",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Barı Smith makinesinde uygun yüksekliğe getirin.",
+    "Harekete başlamadan önce trapez kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "traps/smith-back-shrug.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/smith-back-shrug.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/smith-back-shrug.thumb.webp"
+}

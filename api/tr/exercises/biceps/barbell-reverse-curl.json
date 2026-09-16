@@ -1,0 +1,22 @@
+{
+  "id": "biceps/barbell-reverse-curl",
+  "slug": "barbell-reverse-curl",
+  "name": "Halterle Ters Büküş",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce biceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "biceps/barbell-reverse-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/barbell-reverse-curl.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/barbell-reverse-curl.thumb.webp"
+}

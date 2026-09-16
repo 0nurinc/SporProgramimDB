@@ -1,0 +1,23 @@
+{
+  "id": "delts/lever-seated-reverse-fly",
+  "slug": "lever-seated-reverse-fly",
+  "name": "Oturarak Makinede Ters Açma",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps",
+    "upper-back"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/lever-seated-reverse-fly.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-seated-reverse-fly.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-seated-reverse-fly.thumb.webp"
+}

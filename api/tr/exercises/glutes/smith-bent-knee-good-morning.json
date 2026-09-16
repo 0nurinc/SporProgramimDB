@@ -1,0 +1,20 @@
+{
+  "id": "glutes/smith-bent-knee-good-morning",
+  "slug": "smith-bent-knee-good-morning",
+  "name": "Smith Makinesinde Dizler Bükülü Good Morning",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Barı Smith makinesinde uygun yüksekliğe getirin.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/smith-bent-knee-good-morning.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-bent-knee-good-morning.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-bent-knee-good-morning.thumb.webp"
+}

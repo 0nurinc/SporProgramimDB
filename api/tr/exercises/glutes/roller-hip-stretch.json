@@ -1,0 +1,19 @@
+{
+  "id": "glutes/roller-hip-stretch",
+  "slug": "roller-hip-stretch",
+  "name": "Roller Kalça Esneme",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Kalça kaslarını gerecek pozisyona geçin.",
+    "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+    "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+  ],
+  "file": "glutes/roller-hip-stretch.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/roller-hip-stretch.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/roller-hip-stretch.thumb.webp"
+}

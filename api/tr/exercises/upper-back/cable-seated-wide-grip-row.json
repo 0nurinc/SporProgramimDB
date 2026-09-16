@@ -1,0 +1,25 @@
+{
+  "id": "upper-back/cable-seated-wide-grip-row",
+  "slug": "cable-seated-wide-grip-row",
+  "name": "Oturarak Geniş Tutuşla Makarada Çekme",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts",
+    "lats"
+  ],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce üst sırtı kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "upper-back/cable-seated-wide-grip-row.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/cable-seated-wide-grip-row.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/cable-seated-wide-grip-row.thumb.webp"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hamstrings/self-assisted-inverse-leg-curl-1766",
+  "slug": "self-assisted-inverse-leg-curl-1766",
+  "name": "Destekli Self Nordik Bacak Büküşü",
+  "muscle": "hamstrings",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce arka bacak kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "hamstrings/self-assisted-inverse-leg-curl-1766.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/self-assisted-inverse-leg-curl-1766.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/self-assisted-inverse-leg-curl-1766.thumb.webp"
+}

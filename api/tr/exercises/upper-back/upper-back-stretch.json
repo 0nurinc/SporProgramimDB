@@ -1,0 +1,19 @@
+{
+  "id": "upper-back/upper-back-stretch",
+  "slug": "upper-back-stretch",
+  "name": "Üst Sırt Esneme",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "bodyweight",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Üst sırtı gerecek pozisyona geçin.",
+    "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+    "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+  ],
+  "file": "upper-back/upper-back-stretch.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/upper-back-stretch.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/upper-back-stretch.thumb.webp"
+}

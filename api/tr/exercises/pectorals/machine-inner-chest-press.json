@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/machine-inner-chest-press",
+  "slug": "machine-inner-chest-press",
+  "name": "Makinede İç Göğüs Baskısı",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "machine",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/machine-inner-chest-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/machine-inner-chest-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/machine-inner-chest-press.thumb.webp"
+}

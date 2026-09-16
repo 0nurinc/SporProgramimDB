@@ -1,0 +1,22 @@
+{
+  "id": "delts/band-front-lateral-raise",
+  "slug": "band-front-lateral-raise",
+  "name": "Lastik Bantla Ön Yana Kaldırma",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/band-front-lateral-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/band-front-lateral-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/band-front-lateral-raise.thumb.webp"
+}

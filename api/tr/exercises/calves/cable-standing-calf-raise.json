@@ -1,0 +1,20 @@
+{
+  "id": "calves/cable-standing-calf-raise",
+  "slug": "cable-standing-calf-raise",
+  "name": "Ayakta Makarada Baldır Kaldırma",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce baldırları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "calves/cable-standing-calf-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/cable-standing-calf-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/cable-standing-calf-raise.thumb.webp"
+}

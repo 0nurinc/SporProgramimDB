@@ -1,0 +1,24 @@
+{
+  "id": "delts/cable-upright-row",
+  "slug": "cable-upright-row",
+  "name": "Makarada Ayakta Kürek Çekme",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "traps"
+  ],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/cable-upright-row.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/cable-upright-row.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/cable-upright-row.thumb.webp"
+}

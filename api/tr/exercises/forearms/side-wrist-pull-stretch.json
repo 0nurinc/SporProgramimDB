@@ -1,0 +1,21 @@
+{
+  "id": "forearms/side-wrist-pull-stretch",
+  "slug": "side-wrist-pull-stretch",
+  "name": "Yandan Bilek Pull Esneme",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "bodyweight",
+  "category": "stretching",
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Önkolları gerecek pozisyona geçin.",
+    "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+    "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+  ],
+  "file": "forearms/side-wrist-pull-stretch.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/side-wrist-pull-stretch.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/side-wrist-pull-stretch.thumb.webp"
+}

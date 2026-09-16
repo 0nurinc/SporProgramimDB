@@ -1,0 +1,19 @@
+{
+  "id": "hamstrings/exercise-ball-seated-hamstring-stretch",
+  "slug": "exercise-ball-seated-hamstring-stretch",
+  "name": "Oturarak Pilates Topunda Arka Bacak Esneme",
+  "muscle": "hamstrings",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Arka bacak kaslarını gerecek pozisyona geçin.",
+    "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+    "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+  ],
+  "file": "hamstrings/exercise-ball-seated-hamstring-stretch.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/exercise-ball-seated-hamstring-stretch.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/exercise-ball-seated-hamstring-stretch.thumb.webp"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pectorals/dumbbell-one-arm-fly-on-exercise-ball",
+  "slug": "dumbbell-one-arm-fly-on-exercise-ball",
+  "name": "Dambılla Pilates Topunda Tek Kolla Açma",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/dumbbell-one-arm-fly-on-exercise-ball.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-fly-on-exercise-ball.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/dumbbell-one-arm-fly-on-exercise-ball.thumb.webp"
+}

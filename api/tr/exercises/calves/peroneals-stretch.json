@@ -1,0 +1,19 @@
+{
+  "id": "calves/peroneals-stretch",
+  "slug": "peroneals-stretch",
+  "name": "Peroneals Esneme",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Baldırları gerecek pozisyona geçin.",
+    "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+    "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+  ],
+  "file": "calves/peroneals-stretch.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/peroneals-stretch.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/peroneals-stretch.thumb.webp"
+}

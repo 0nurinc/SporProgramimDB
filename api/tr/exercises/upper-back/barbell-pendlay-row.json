@@ -1,0 +1,25 @@
+{
+  "id": "upper-back/barbell-pendlay-row",
+  "slug": "barbell-pendlay-row",
+  "name": "Halterle Pendlay Kürek",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts",
+    "lats"
+  ],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce üst sırtı kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "upper-back/barbell-pendlay-row.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/barbell-pendlay-row.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/barbell-pendlay-row.thumb.webp"
+}

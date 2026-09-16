@@ -1,0 +1,20 @@
+{
+  "id": "abs/barbell-sitted-alternate-leg-raise-female",
+  "slug": "barbell-sitted-alternate-leg-raise-female",
+  "name": "Halterle Sırayla Sitted Bacak Kaldırma",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/barbell-sitted-alternate-leg-raise-female.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/barbell-sitted-alternate-leg-raise-female.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/barbell-sitted-alternate-leg-raise-female.thumb.webp"
+}

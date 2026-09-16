@@ -1,0 +1,20 @@
+{
+  "id": "abs/seated-side-crunch-wall",
+  "slug": "seated-side-crunch-wall",
+  "name": "Oturarak Yandan Duvarda Mekik",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/seated-side-crunch-wall.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/seated-side-crunch-wall.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/seated-side-crunch-wall.thumb.webp"
+}

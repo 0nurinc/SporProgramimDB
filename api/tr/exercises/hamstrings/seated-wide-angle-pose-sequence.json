@@ -1,0 +1,20 @@
+{
+  "id": "hamstrings/seated-wide-angle-pose-sequence",
+  "slug": "seated-wide-angle-pose-sequence",
+  "name": "Oturarak Geniş Angle Poz Sequence",
+  "muscle": "hamstrings",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce arka bacak kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "hamstrings/seated-wide-angle-pose-sequence.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/seated-wide-angle-pose-sequence.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/seated-wide-angle-pose-sequence.thumb.webp"
+}

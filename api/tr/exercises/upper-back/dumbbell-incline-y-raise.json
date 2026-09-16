@@ -1,0 +1,20 @@
+{
+  "id": "upper-back/dumbbell-incline-y-raise",
+  "slug": "dumbbell-incline-y-raise",
+  "name": "Dambılla Eğimli Y Kaldırma",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce üst sırtı kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "upper-back/dumbbell-incline-y-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/dumbbell-incline-y-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/dumbbell-incline-y-raise.thumb.webp"
+}

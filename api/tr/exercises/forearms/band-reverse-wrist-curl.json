@@ -1,0 +1,22 @@
+{
+  "id": "forearms/band-reverse-wrist-curl",
+  "slug": "band-reverse-wrist-curl",
+  "name": "Lastik Bantla Ters Bilek Büküşü",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce önkolları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "forearms/band-reverse-wrist-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/band-reverse-wrist-curl.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/band-reverse-wrist-curl.thumb.webp"
+}

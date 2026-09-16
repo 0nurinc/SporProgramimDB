@@ -1,0 +1,28 @@
+{
+  "id": "quads/squat-jerk",
+  "slug": "squat-jerk",
+  "name": "Çömelme İtiş (Jerk)",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves",
+    "spine",
+    "traps",
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce ön bacak kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "quads/squat-jerk.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/squat-jerk.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/squat-jerk.thumb.webp"
+}

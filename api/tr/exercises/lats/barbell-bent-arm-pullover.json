@@ -1,0 +1,24 @@
+{
+  "id": "lats/barbell-bent-arm-pullover",
+  "slug": "barbell-bent-arm-pullover",
+  "name": "Halterle Kol Bükülü Pullover",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "abs"
+  ],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce sırt kanatlarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "lats/barbell-bent-arm-pullover.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/barbell-bent-arm-pullover.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/barbell-bent-arm-pullover.thumb.webp"
+}

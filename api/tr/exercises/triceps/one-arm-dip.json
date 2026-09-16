@@ -1,0 +1,23 @@
+{
+  "id": "triceps/one-arm-dip",
+  "slug": "one-arm-dip",
+  "name": "Tek Kolla Paralelde İniş-Çıkış",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "pectorals"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/one-arm-dip.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/one-arm-dip.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/one-arm-dip.thumb.webp"
+}

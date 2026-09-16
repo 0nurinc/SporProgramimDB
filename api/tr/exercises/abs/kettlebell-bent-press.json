@@ -1,0 +1,23 @@
+{
+  "id": "abs/kettlebell-bent-press",
+  "slug": "kettlebell-bent-press",
+  "name": "Kettlebell'le Eğik Baskı",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/kettlebell-bent-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-bent-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-bent-press.thumb.webp"
+}

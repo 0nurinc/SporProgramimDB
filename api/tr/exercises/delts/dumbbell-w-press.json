@@ -1,0 +1,22 @@
+{
+  "id": "delts/dumbbell-w-press",
+  "slug": "dumbbell-w-press",
+  "name": "Dambılla W Baskı",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/dumbbell-w-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/dumbbell-w-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/dumbbell-w-press.thumb.webp"
+}

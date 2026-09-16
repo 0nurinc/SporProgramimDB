@@ -1,0 +1,23 @@
+{
+  "id": "glutes/dumbbell-bench-squat",
+  "slug": "dumbbell-bench-squat",
+  "name": "Dambılla Bankta Çömelme",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/dumbbell-bench-squat.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-bench-squat.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-bench-squat.thumb.webp"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "abductors/side-bridge-hip-abduction",
+  "slug": "side-bridge-hip-abduction",
+  "name": "Hip-abduction Yan Köprü",
+  "muscle": "abductors",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "abs"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce abduktörleri kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abductors/side-bridge-hip-abduction.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/side-bridge-hip-abduction.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/side-bridge-hip-abduction.thumb.webp"
+}

@@ -1,0 +1,808 @@
+{
+  "muscle": "forearms",
+  "count": 37,
+  "exercises": [
+    {
+      "id": "forearms/band-reverse-wrist-curl",
+      "slug": "band-reverse-wrist-curl",
+      "name": "Lastik Bantla Ters Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/band-reverse-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/band-reverse-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/band-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/band-wrist-curl",
+      "slug": "band-wrist-curl",
+      "name": "Lastik Bantla Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/band-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/band-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/band-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-palms-down-wrist-curl-over-a-bench",
+      "slug": "barbell-palms-down-wrist-curl-over-a-bench",
+      "name": "Halterle Palms Down Üzerinde Bankta Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/barbell-palms-down-wrist-curl-over-a-bench.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-palms-down-wrist-curl-over-a-bench.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-palms-down-wrist-curl-over-a-bench.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-palms-up-wrist-curl-over-a-bench",
+      "slug": "barbell-palms-up-wrist-curl-over-a-bench",
+      "name": "Halterle Palms Up Üzerinde Bankta Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/barbell-palms-up-wrist-curl-over-a-bench.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-palms-up-wrist-curl-over-a-bench.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-palms-up-wrist-curl-over-a-bench.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-revers-wrist-curl-v-2",
+      "slug": "barbell-revers-wrist-curl-v-2",
+      "name": "Halterle Revers Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/barbell-revers-wrist-curl-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-revers-wrist-curl-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-revers-wrist-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-reverse-wrist-curl",
+      "slug": "barbell-reverse-wrist-curl",
+      "name": "Halterle Ters Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/barbell-reverse-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-reverse-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-standing-back-wrist-curl",
+      "slug": "barbell-standing-back-wrist-curl",
+      "name": "Ayakta Halterle Sırt Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/barbell-standing-back-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-standing-back-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-standing-back-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-wrist-curl-v-2",
+      "slug": "barbell-wrist-curl-v-2",
+      "name": "Halterle Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/barbell-wrist-curl-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-wrist-curl-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-wrist-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-wrist-curl",
+      "slug": "barbell-wrist-curl",
+      "name": "Halterle Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/barbell-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/barbell-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/cable-reverse-wrist-curl",
+      "slug": "cable-reverse-wrist-curl",
+      "name": "Makarada Ters Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/cable-reverse-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/cable-reverse-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/cable-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/cable-standing-back-wrist-curl",
+      "slug": "cable-standing-back-wrist-curl",
+      "name": "Ayakta Makarada Sırt Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/cable-standing-back-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/cable-standing-back-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/cable-standing-back-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/cable-wrist-curl",
+      "slug": "cable-wrist-curl",
+      "name": "Makarada Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/cable-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/cable-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/cable-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-finger-curls",
+      "slug": "dumbbell-finger-curls",
+      "name": "Dambılla Parmak Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-finger-curls.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-finger-curls.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-finger-curls.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-lying-pronation-on-floor",
+      "slug": "dumbbell-lying-pronation-on-floor",
+      "name": "Yatarak Dambılla Pronation Yerde",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-lying-pronation-on-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-lying-pronation-on-floor.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-lying-pronation-on-floor.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-lying-pronation",
+      "slug": "dumbbell-lying-pronation",
+      "name": "Yatarak Dambılla Pronation",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-lying-pronation.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-lying-pronation.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-lying-pronation.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-lying-supination-on-floor",
+      "slug": "dumbbell-lying-supination-on-floor",
+      "name": "Yatarak Dambılla Supination Yerde",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-lying-supination-on-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-lying-supination-on-floor.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-lying-supination-on-floor.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-lying-supination",
+      "slug": "dumbbell-lying-supination",
+      "name": "Yatarak Dambılla Supination",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-lying-supination.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-lying-supination.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-lying-supination.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-one-arm-reverse-wrist-curl",
+      "slug": "dumbbell-one-arm-reverse-wrist-curl",
+      "name": "Dambılla Ters Tek Kolla Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-one-arm-reverse-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-one-arm-reverse-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-one-arm-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-one-arm-seated-neutral-wrist-curl",
+      "slug": "dumbbell-one-arm-seated-neutral-wrist-curl",
+      "name": "Oturarak Nötr Bilekle Dambılla Tek Kolla Büküş",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-one-arm-seated-neutral-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-one-arm-seated-neutral-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-one-arm-seated-neutral-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-one-arm-wrist-curl",
+      "slug": "dumbbell-one-arm-wrist-curl",
+      "name": "Dambılla Tek Kolla Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-one-arm-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-one-arm-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-one-arm-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-over-bench-one-arm-reverse-wrist-curl",
+      "slug": "dumbbell-over-bench-one-arm-reverse-wrist-curl",
+      "name": "Dambılla Ters Tek Kolla Üzerinde Bankta Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-over-bench-one-arm-reverse-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-over-bench-one-arm-reverse-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-over-bench-one-arm-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-over-bench-one-arm-wrist-curl",
+      "slug": "dumbbell-over-bench-one-arm-wrist-curl",
+      "name": "Dambılla Tek Kolla Üzerinde Bankta Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-over-bench-one-arm-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-over-bench-one-arm-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-over-bench-one-arm-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-over-bench-revers-wrist-curl",
+      "slug": "dumbbell-over-bench-revers-wrist-curl",
+      "name": "Dambılla Üzerinde Bankta Revers Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-over-bench-revers-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-over-bench-revers-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-over-bench-revers-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-over-bench-wrist-curl",
+      "slug": "dumbbell-over-bench-wrist-curl",
+      "name": "Dambılla Üzerinde Bankta Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-over-bench-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-over-bench-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-over-bench-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-reverse-wrist-curl",
+      "slug": "dumbbell-reverse-wrist-curl",
+      "name": "Dambılla Ters Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-reverse-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-reverse-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-seated-one-arm-rotate",
+      "slug": "dumbbell-seated-one-arm-rotate",
+      "name": "Oturarak Dambılla Tek Kolla Rotate",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-seated-one-arm-rotate.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-seated-one-arm-rotate.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-seated-one-arm-rotate.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-seated-palms-up-wrist-curl",
+      "slug": "dumbbell-seated-palms-up-wrist-curl",
+      "name": "Oturarak Dambılla Palms Up Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/dumbbell-seated-palms-up-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-seated-palms-up-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-seated-palms-up-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/finger-curls",
+      "slug": "finger-curls",
+      "name": "Parmak Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/finger-curls.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/finger-curls.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/finger-curls.thumb.webp"
+    },
+    {
+      "id": "forearms/kettlebell-alternating-hang-clean",
+      "slug": "kettlebell-alternating-hang-clean",
+      "name": "Kettlebell'le Sırayla Hang Cleaning (Clean)",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/kettlebell-alternating-hang-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/kettlebell-alternating-hang-clean.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/kettlebell-alternating-hang-clean.thumb.webp"
+    },
+    {
+      "id": "forearms/lever-gripper-hands",
+      "slug": "lever-gripper-hands",
+      "name": "Makinede Gripper Eller",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/lever-gripper-hands.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/lever-gripper-hands.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/lever-gripper-hands.thumb.webp"
+    },
+    {
+      "id": "forearms/modified-push-up-to-lower-arms",
+      "slug": "modified-push-up-to-lower-arms",
+      "name": "Modified Alt Kol Şınav",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/modified-push-up-to-lower-arms.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/modified-push-up-to-lower-arms.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/modified-push-up-to-lower-arms.thumb.webp"
+    },
+    {
+      "id": "forearms/side-wrist-pull-stretch",
+      "slug": "side-wrist-pull-stretch",
+      "name": "Yandan Bilek Pull Esneme",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Önkolları gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "forearms/side-wrist-pull-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/side-wrist-pull-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/side-wrist-pull-stretch.thumb.webp"
+    },
+    {
+      "id": "forearms/smith-seated-wrist-curl",
+      "slug": "smith-seated-wrist-curl",
+      "name": "Oturarak Smith Makinesinde Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/smith-seated-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/smith-seated-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/smith-seated-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/smith-standing-back-wrist-curl",
+      "slug": "smith-standing-back-wrist-curl",
+      "name": "Ayakta Smith Makinesinde Sırt Bilek Büküşü",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/smith-standing-back-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/smith-standing-back-wrist-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/smith-standing-back-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/weighted-standing-hand-squeeze",
+      "slug": "weighted-standing-hand-squeeze",
+      "name": "Ayakta Ağırlıklı Hand Squeeze",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/weighted-standing-hand-squeeze.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/weighted-standing-hand-squeeze.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/weighted-standing-hand-squeeze.thumb.webp"
+    },
+    {
+      "id": "forearms/wrist-circles",
+      "slug": "wrist-circles",
+      "name": "Bilek Circles",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/wrist-circles.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/wrist-circles.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/wrist-circles.thumb.webp"
+    },
+    {
+      "id": "forearms/wrist-rollerer",
+      "slug": "wrist-rollerer",
+      "name": "Bilek Rollerer",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/wrist-rollerer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/wrist-rollerer.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/wrist-rollerer.thumb.webp"
+    }
+  ]
+}

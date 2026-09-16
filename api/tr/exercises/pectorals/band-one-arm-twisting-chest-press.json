@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/band-one-arm-twisting-chest-press",
+  "slug": "band-one-arm-twisting-chest-press",
+  "name": "Lastik Bantla Tek Kolla Dönerek Göğüs Baskısı",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/band-one-arm-twisting-chest-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/band-one-arm-twisting-chest-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/band-one-arm-twisting-chest-press.thumb.webp"
+}

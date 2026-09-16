@@ -1,0 +1,22 @@
+{
+  "id": "triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster",
+  "slug": "cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster",
+  "name": "Ters Tutuşla Makarada Triceps Sz Bar Kol Blaster Pushdown",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster.thumb.webp"
+}

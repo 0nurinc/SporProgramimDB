@@ -1,0 +1,22 @@
+{
+  "id": "delts/dumbbell-seated-front-raise",
+  "slug": "dumbbell-seated-front-raise",
+  "name": "Oturarak Dambılla Ön Kaldırma",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/dumbbell-seated-front-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/dumbbell-seated-front-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/dumbbell-seated-front-raise.thumb.webp"
+}

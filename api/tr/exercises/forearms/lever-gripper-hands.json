@@ -1,0 +1,22 @@
+{
+  "id": "forearms/lever-gripper-hands",
+  "slug": "lever-gripper-hands",
+  "name": "Makinede Gripper Eller",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce önkolları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "forearms/lever-gripper-hands.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/lever-gripper-hands.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/lever-gripper-hands.thumb.webp"
+}

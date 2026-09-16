@@ -1,0 +1,26 @@
+{
+  "id": "lats/weighted-close-grip-chin-up-on-dip-cage",
+  "slug": "weighted-close-grip-chin-up-on-dip-cage",
+  "name": "Dar Tutuşla Ağırlıklı Dip Cage Ters Barfiks",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts",
+    "pectorals",
+    "biceps",
+    "forearms"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce sırt kanatlarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "lats/weighted-close-grip-chin-up-on-dip-cage.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/weighted-close-grip-chin-up-on-dip-cage.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/weighted-close-grip-chin-up-on-dip-cage.thumb.webp"
+}

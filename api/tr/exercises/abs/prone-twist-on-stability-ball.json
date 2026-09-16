@@ -1,0 +1,20 @@
+{
+  "id": "abs/prone-twist-on-stability-ball",
+  "slug": "prone-twist-on-stability-ball",
+  "name": "Pilates Topunda Yüzüstü Bükülme",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/prone-twist-on-stability-ball.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/prone-twist-on-stability-ball.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/prone-twist-on-stability-ball.thumb.webp"
+}

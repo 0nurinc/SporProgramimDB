@@ -1,0 +1,276 @@
+{
+  "equipment": "sled",
+  "count": 12,
+  "exercises": [
+    {
+      "id": "abs/sledge-hammer",
+      "slug": "sledge-hammer",
+      "name": "Kızakta Çekiç",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce karın kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abs/sledge-hammer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/sledge-hammer.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/sledge-hammer.thumb.webp"
+    },
+    {
+      "id": "calves/sled-45-calf-press",
+      "slug": "sled-45-calf-press",
+      "name": "Kızakta Baldır Baskı",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/sled-45-calf-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-45-calf-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-45-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/sled-calf-press-on-leg-press",
+      "slug": "sled-calf-press-on-leg-press",
+      "name": "Kızakta Baldır Press Bacak Presi",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/sled-calf-press-on-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-calf-press-on-leg-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-calf-press-on-leg-press.thumb.webp"
+    },
+    {
+      "id": "calves/sled-forward-angled-calf-raise",
+      "slug": "sled-forward-angled-calf-raise",
+      "name": "Kızakta İleri Angled Baldır Kaldırma",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/sled-forward-angled-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-forward-angled-calf-raise.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-forward-angled-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/sled-lying-calf-press",
+      "slug": "sled-lying-calf-press",
+      "name": "Yatarak Kızakta Baldır Baskı",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/sled-lying-calf-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-lying-calf-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-lying-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/sled-one-leg-calf-press-on-leg-press",
+      "slug": "sled-one-leg-calf-press-on-leg-press",
+      "name": "Kızakta Tek Bacakla Baldır Press Bacak Presi",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/sled-one-leg-calf-press-on-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-one-leg-calf-press-on-leg-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-one-leg-calf-press-on-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-degrees-one-leg-press",
+      "slug": "sled-45-degrees-one-leg-press",
+      "name": "Kızakta Tek Bacakla Degrees Baskı",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-45-degrees-one-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-degrees-one-leg-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-degrees-one-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-press-back-pov",
+      "slug": "sled-45-leg-press-back-pov",
+      "name": "Kızakta Sırt Bacak Presi",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-45-leg-press-back-pov.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press-back-pov.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press-back-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-press-side-pov",
+      "slug": "sled-45-leg-press-side-pov",
+      "name": "Yandan Kızakta Bacak Presi",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-45-leg-press-side-pov.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press-side-pov.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press-side-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-press",
+      "slug": "sled-45-leg-press",
+      "name": "Kızakta Bacak Presi",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-45-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-wide-press",
+      "slug": "sled-45-leg-wide-press",
+      "name": "Kızakta Geniş Bacak Baskı",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-45-leg-wide-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-wide-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-wide-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-lying-squat",
+      "slug": "sled-lying-squat",
+      "name": "Yatarak Kızakta Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-lying-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-lying-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-lying-squat.thumb.webp"
+    }
+  ]
+}

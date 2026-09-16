@@ -1,0 +1,22 @@
+{
+  "id": "biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl",
+  "slug": "dumbbell-step-up-single-leg-balance-with-bicep-curl",
+  "name": "Dambılla Tek Bacakla Denge Bicep-curl Step-up",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce biceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl.thumb.webp"
+}

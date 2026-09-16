@@ -1,0 +1,22 @@
+{
+  "id": "delts/barbell-front-raise",
+  "slug": "barbell-front-raise",
+  "name": "Halterle Ön Kaldırma",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/barbell-front-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/barbell-front-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/barbell-front-raise.thumb.webp"
+}

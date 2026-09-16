@@ -1,0 +1,20 @@
+{
+  "id": "abs/lever-kneeling-twist",
+  "slug": "lever-kneeling-twist",
+  "name": "Diz Çökerek Makinede Bükülme",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/lever-kneeling-twist.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-kneeling-twist.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-kneeling-twist.thumb.webp"
+}

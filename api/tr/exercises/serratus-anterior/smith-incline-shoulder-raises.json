@@ -1,0 +1,20 @@
+{
+  "id": "serratus-anterior/smith-incline-shoulder-raises",
+  "slug": "smith-incline-shoulder-raises",
+  "name": "Smith Makinesinde Eğimli Omuz Kaldırma",
+  "muscle": "serratus-anterior",
+  "bodyPart": "chest",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Barı Smith makinesinde uygun yüksekliğe getirin.",
+    "Harekete başlamadan önce serratus anterior kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "serratus-anterior/smith-incline-shoulder-raises.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/smith-incline-shoulder-raises.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/smith-incline-shoulder-raises.thumb.webp"
+}

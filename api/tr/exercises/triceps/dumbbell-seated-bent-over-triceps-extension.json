@@ -1,0 +1,22 @@
+{
+  "id": "triceps/dumbbell-seated-bent-over-triceps-extension",
+  "slug": "dumbbell-seated-bent-over-triceps-extension",
+  "name": "Oturarak Dambılla Öne Eğilerek Triceps Ekstansiyonu",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/dumbbell-seated-bent-over-triceps-extension.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-bent-over-triceps-extension.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/dumbbell-seated-bent-over-triceps-extension.thumb.webp"
+}

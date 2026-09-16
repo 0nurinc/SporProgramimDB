@@ -1,0 +1,23 @@
+{
+  "id": "hamstrings/lever-seated-leg-curl",
+  "slug": "lever-seated-leg-curl",
+  "name": "Oturarak Makinede Bacak Büküşü",
+  "muscle": "hamstrings",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce arka bacak kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "hamstrings/lever-seated-leg-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-seated-leg-curl.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-seated-leg-curl.thumb.webp"
+}

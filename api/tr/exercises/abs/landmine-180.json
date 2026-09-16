@@ -1,0 +1,20 @@
+{
+  "id": "abs/landmine-180",
+  "slug": "landmine-180",
+  "name": "Landmine 180",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/landmine-180.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/landmine-180.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/landmine-180.thumb.webp"
+}

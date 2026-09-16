@@ -1,0 +1,23 @@
+{
+  "id": "glutes/lever-horizontal-one-leg-press",
+  "slug": "lever-horizontal-one-leg-press",
+  "name": "Makinede Yatay Tek Bacakla Baskı",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/lever-horizontal-one-leg-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-horizontal-one-leg-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-horizontal-one-leg-press.thumb.webp"
+}

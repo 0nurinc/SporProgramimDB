@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/cable-seated-chest-press",
+  "slug": "cable-seated-chest-press",
+  "name": "Oturarak Makarada Göğüs Baskısı",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/cable-seated-chest-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-seated-chest-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/cable-seated-chest-press.thumb.webp"
+}

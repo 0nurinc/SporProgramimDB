@@ -1,0 +1,26 @@
+{
+  "id": "forearms/kettlebell-alternating-hang-clean",
+  "slug": "kettlebell-alternating-hang-clean",
+  "name": "Kettlebell'le Sırayla Hang Cleaning (Clean)",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "spine",
+    "traps",
+    "delts"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+    "Harekete başlamadan önce önkolları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "forearms/kettlebell-alternating-hang-clean.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/kettlebell-alternating-hang-clean.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/kettlebell-alternating-hang-clean.thumb.webp"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hamstrings/reclining-big-toe-pose-with-rope",
+  "slug": "reclining-big-toe-pose-with-rope",
+  "name": "Halatla Reclining Big Toe Poz",
+  "muscle": "hamstrings",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce arka bacak kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "hamstrings/reclining-big-toe-pose-with-rope.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/reclining-big-toe-pose-with-rope.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/reclining-big-toe-pose-with-rope.thumb.webp"
+}

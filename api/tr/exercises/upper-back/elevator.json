@@ -1,0 +1,20 @@
+{
+  "id": "upper-back/elevator",
+  "slug": "elevator",
+  "name": "Elevator",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+    "Harekete başlamadan önce üst sırtı kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "upper-back/elevator.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/elevator.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/elevator.thumb.webp"
+}

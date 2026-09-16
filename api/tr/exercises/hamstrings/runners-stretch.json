@@ -1,0 +1,19 @@
+{
+  "id": "hamstrings/runners-stretch",
+  "slug": "runners-stretch",
+  "name": "Runners Esneme",
+  "muscle": "hamstrings",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Arka bacak kaslarını gerecek pozisyona geçin.",
+    "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+    "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+  ],
+  "file": "hamstrings/runners-stretch.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/runners-stretch.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/runners-stretch.thumb.webp"
+}

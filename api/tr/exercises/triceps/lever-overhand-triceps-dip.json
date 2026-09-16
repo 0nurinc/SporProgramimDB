@@ -1,0 +1,23 @@
+{
+  "id": "triceps/lever-overhand-triceps-dip",
+  "slug": "lever-overhand-triceps-dip",
+  "name": "Makinede Overhand Triceps Dip",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "pectorals"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/lever-overhand-triceps-dip.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-overhand-triceps-dip.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-overhand-triceps-dip.thumb.webp"
+}

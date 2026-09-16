@@ -1,0 +1,23 @@
+{
+  "id": "glutes/sled-45-leg-press-back-pov",
+  "slug": "sled-45-leg-press-back-pov",
+  "name": "Kızakta Sırt Bacak Presi",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "sled",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/sled-45-leg-press-back-pov.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press-back-pov.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press-back-pov.thumb.webp"
+}

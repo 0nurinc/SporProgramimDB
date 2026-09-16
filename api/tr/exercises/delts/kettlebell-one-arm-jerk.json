@@ -1,0 +1,26 @@
+{
+  "id": "delts/kettlebell-one-arm-jerk",
+  "slug": "kettlebell-one-arm-jerk",
+  "name": "Kettlebell'le Tek Kolla İtiş (Jerk)",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "spine",
+    "traps",
+    "forearms"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/kettlebell-one-arm-jerk.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-jerk.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-jerk.thumb.webp"
+}

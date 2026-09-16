@@ -1,0 +1,23 @@
+{
+  "id": "glutes/cable-pull-through-with-rope",
+  "slug": "cable-pull-through-with-rope",
+  "name": "Makarada Halatla Pull Through",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine"
+  ],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/cable-pull-through-with-rope.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/cable-pull-through-with-rope.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/cable-pull-through-with-rope.thumb.webp"
+}

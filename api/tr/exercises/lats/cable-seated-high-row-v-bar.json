@@ -1,0 +1,24 @@
+{
+  "id": "lats/cable-seated-high-row-v-bar",
+  "slug": "cable-seated-high-row-v-bar",
+  "name": "Oturarak Makarada V Barla Yüksek Çekme",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce sırt kanatlarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "lats/cable-seated-high-row-v-bar.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/cable-seated-high-row-v-bar.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/cable-seated-high-row-v-bar.thumb.webp"
+}

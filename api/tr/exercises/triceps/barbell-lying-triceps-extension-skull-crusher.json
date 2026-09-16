@@ -1,0 +1,22 @@
+{
+  "id": "triceps/barbell-lying-triceps-extension-skull-crusher",
+  "slug": "barbell-lying-triceps-extension-skull-crusher",
+  "name": "Yatarak Halterle Skull-crusher Triceps Ekstansiyonu",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/barbell-lying-triceps-extension-skull-crusher.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-triceps-extension-skull-crusher.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/barbell-lying-triceps-extension-skull-crusher.thumb.webp"
+}

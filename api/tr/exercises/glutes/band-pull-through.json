@@ -1,0 +1,23 @@
+{
+  "id": "glutes/band-pull-through",
+  "slug": "band-pull-through",
+  "name": "Lastik Bantla Pull Through",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine"
+  ],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/band-pull-through.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-pull-through.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-pull-through.thumb.webp"
+}

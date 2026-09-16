@@ -1,0 +1,23 @@
+{
+  "id": "abs/band-vertical-pallof-press",
+  "slug": "band-vertical-pallof-press",
+  "name": "Lastik Bantla Dikey Pallof Baskısı",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/band-vertical-pallof-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/band-vertical-pallof-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/band-vertical-pallof-press.thumb.webp"
+}

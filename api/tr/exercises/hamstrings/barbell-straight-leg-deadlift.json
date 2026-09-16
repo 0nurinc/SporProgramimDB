@@ -1,0 +1,26 @@
+{
+  "id": "hamstrings/barbell-straight-leg-deadlift",
+  "slug": "barbell-straight-leg-deadlift",
+  "name": "Halterle Bacak Düz Ölü Kaldırma",
+  "muscle": "hamstrings",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "lats",
+    "traps",
+    "forearms",
+    "spine"
+  ],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce arka bacak kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "hamstrings/barbell-straight-leg-deadlift.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/barbell-straight-leg-deadlift.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/barbell-straight-leg-deadlift.thumb.webp"
+}

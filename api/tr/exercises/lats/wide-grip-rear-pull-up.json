@@ -1,0 +1,24 @@
+{
+  "id": "lats/wide-grip-rear-pull-up",
+  "slug": "wide-grip-rear-pull-up",
+  "name": "Geniş Tutuşla Arka Barfiks",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce sırt kanatlarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "lats/wide-grip-rear-pull-up.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/wide-grip-rear-pull-up.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/wide-grip-rear-pull-up.thumb.webp"
+}

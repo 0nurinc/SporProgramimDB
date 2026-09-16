@@ -1,0 +1,20 @@
+{
+  "id": "calves/band-single-leg-calf-raise",
+  "slug": "band-single-leg-calf-raise",
+  "name": "Lastik Bantla Tek Bacakla Baldır Kaldırma",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce baldırları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "calves/band-single-leg-calf-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/band-single-leg-calf-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/band-single-leg-calf-raise.thumb.webp"
+}

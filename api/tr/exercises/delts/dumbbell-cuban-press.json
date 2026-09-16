@@ -1,0 +1,22 @@
+{
+  "id": "delts/dumbbell-cuban-press",
+  "slug": "dumbbell-cuban-press",
+  "name": "Dambılla Küba Baskısı",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/dumbbell-cuban-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/dumbbell-cuban-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/dumbbell-cuban-press.thumb.webp"
+}

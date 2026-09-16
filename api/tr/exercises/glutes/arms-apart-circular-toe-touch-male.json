@@ -1,0 +1,20 @@
+{
+  "id": "glutes/arms-apart-circular-toe-touch-male",
+  "slug": "arms-apart-circular-toe-touch-male",
+  "name": "Kol Apart Circular Ayak Ucuna Dokunma",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/arms-apart-circular-toe-touch-male.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/arms-apart-circular-toe-touch-male.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/arms-apart-circular-toe-touch-male.thumb.webp"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "calves/smith-toe-raise",
+  "slug": "smith-toe-raise",
+  "name": "Smith Makinesinde Toe Kaldırma",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Barı Smith makinesinde uygun yüksekliğe getirin.",
+    "Harekete başlamadan önce baldırları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "calves/smith-toe-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/smith-toe-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/smith-toe-raise.thumb.webp"
+}

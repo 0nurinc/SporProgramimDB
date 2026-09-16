@@ -1,0 +1,23 @@
+{
+  "id": "quads/resistance-band-leg-extension",
+  "slug": "resistance-band-leg-extension",
+  "name": "Direnç Bandıyla Bacak Ekstansiyonu",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce ön bacak kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "quads/resistance-band-leg-extension.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/resistance-band-leg-extension.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/resistance-band-leg-extension.thumb.webp"
+}

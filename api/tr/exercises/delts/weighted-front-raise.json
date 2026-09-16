@@ -1,0 +1,22 @@
+{
+  "id": "delts/weighted-front-raise",
+  "slug": "weighted-front-raise",
+  "name": "Ağırlıklı Ön Kaldırma",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/weighted-front-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/weighted-front-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/weighted-front-raise.thumb.webp"
+}

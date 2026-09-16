@@ -1,0 +1,23 @@
+{
+  "id": "forearms/modified-push-up-to-lower-arms",
+  "slug": "modified-push-up-to-lower-arms",
+  "name": "Modified Alt Kol Şınav",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce önkolları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "forearms/modified-push-up-to-lower-arms.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/modified-push-up-to-lower-arms.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/modified-push-up-to-lower-arms.thumb.webp"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pectorals/incline-push-up-depth-jump",
+  "slug": "incline-push-up-depth-jump",
+  "name": "Depth Jump Eğimli Şınav",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "bodyweight",
+  "category": "plyometrics",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+    "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+    "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+  ],
+  "file": "pectorals/incline-push-up-depth-jump.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/incline-push-up-depth-jump.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/incline-push-up-depth-jump.thumb.webp"
+}

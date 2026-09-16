@@ -1,0 +1,19 @@
+{
+  "id": "cardio/short-stride-run",
+  "slug": "short-stride-run",
+  "name": "Short Stride Koşu",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Seviyenize uygun sabit bir tempo koruyun.",
+    "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+    "Planlanan süre veya tekrar sayısı kadar devam edin."
+  ],
+  "file": "cardio/short-stride-run.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/short-stride-run.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/short-stride-run.thumb.webp"
+}

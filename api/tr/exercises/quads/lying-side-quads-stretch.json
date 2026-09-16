@@ -1,0 +1,19 @@
+{
+  "id": "quads/lying-side-quads-stretch",
+  "slug": "lying-side-quads-stretch",
+  "name": "Yatarak Yandan Ön Bacak Esneme",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Ön bacak kaslarını gerecek pozisyona geçin.",
+    "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+    "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+  ],
+  "file": "quads/lying-side-quads-stretch.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/lying-side-quads-stretch.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/lying-side-quads-stretch.thumb.webp"
+}

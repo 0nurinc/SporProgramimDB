@@ -1,0 +1,20 @@
+{
+  "id": "forearms/dumbbell-lying-supination-on-floor",
+  "slug": "dumbbell-lying-supination-on-floor",
+  "name": "Yatarak Dambılla Supination Yerde",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce önkolları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "forearms/dumbbell-lying-supination-on-floor.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-lying-supination-on-floor.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/dumbbell-lying-supination-on-floor.thumb.webp"
+}

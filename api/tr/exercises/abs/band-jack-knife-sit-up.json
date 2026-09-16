@@ -1,0 +1,20 @@
+{
+  "id": "abs/band-jack-knife-sit-up",
+  "slug": "band-jack-knife-sit-up",
+  "name": "Lastik Bantla Çakı Mekiği",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/band-jack-knife-sit-up.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/band-jack-knife-sit-up.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/band-jack-knife-sit-up.thumb.webp"
+}

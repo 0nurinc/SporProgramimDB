@@ -1,0 +1,23 @@
+{
+  "id": "biceps/cable-pulldown-bicep-curl",
+  "slug": "cable-pulldown-bicep-curl",
+  "name": "Makarada Bicep-curl Çekiş (Pulldown)",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce biceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "biceps/cable-pulldown-bicep-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/cable-pulldown-bicep-curl.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/cable-pulldown-bicep-curl.thumb.webp"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "glutes/glute-bridge-two-legs-on-bench-male",
+  "slug": "glute-bridge-two-legs-on-bench-male",
+  "name": "İki Bacakla Bankta Kalça Köprüsü",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "abs"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/glute-bridge-two-legs-on-bench-male.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/glute-bridge-two-legs-on-bench-male.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/glute-bridge-two-legs-on-bench-male.thumb.webp"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "abs/cable-kneeling-crunch",
+  "slug": "cable-kneeling-crunch",
+  "name": "Diz Çökerek Makarada Mekik",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/cable-kneeling-crunch.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/cable-kneeling-crunch.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/cable-kneeling-crunch.thumb.webp"
+}

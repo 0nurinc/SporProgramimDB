@@ -1,0 +1,20 @@
+{
+  "id": "calves/sled-forward-angled-calf-raise",
+  "slug": "sled-forward-angled-calf-raise",
+  "name": "Kızakta İleri Angled Baldır Kaldırma",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "sled",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+    "Harekete başlamadan önce baldırları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "calves/sled-forward-angled-calf-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-forward-angled-calf-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/sled-forward-angled-calf-raise.thumb.webp"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "adductors/side-lying-hip-adduction-male",
+  "slug": "side-lying-hip-adduction-male",
+  "name": "Yan Yatarak Kalça Addüksiyonu",
+  "muscle": "adductors",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce adduktörleri kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "adductors/side-lying-hip-adduction-male.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/adductors/side-lying-hip-adduction-male.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/adductors/side-lying-hip-adduction-male.thumb.webp"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "glutes/sled-lying-squat",
+  "slug": "sled-lying-squat",
+  "name": "Yatarak Kızakta Çömelme",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "sled",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/sled-lying-squat.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-lying-squat.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-lying-squat.thumb.webp"
+}

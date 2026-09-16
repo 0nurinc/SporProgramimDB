@@ -1,0 +1,25 @@
+{
+  "id": "upper-back/lever-one-arm-bent-over-row",
+  "slug": "lever-one-arm-bent-over-row",
+  "name": "Makinede Tek Kolla Eğilerek Kürek Çekme",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts",
+    "lats"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce üst sırtı kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "upper-back/lever-one-arm-bent-over-row.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-one-arm-bent-over-row.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-one-arm-bent-over-row.thumb.webp"
+}

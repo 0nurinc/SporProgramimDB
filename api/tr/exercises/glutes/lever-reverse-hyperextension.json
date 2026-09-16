@@ -1,0 +1,23 @@
+{
+  "id": "glutes/lever-reverse-hyperextension",
+  "slug": "lever-reverse-hyperextension",
+  "name": "Makinede Ters Hyperextension",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/lever-reverse-hyperextension.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-reverse-hyperextension.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-reverse-hyperextension.thumb.webp"
+}

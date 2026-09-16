@@ -1,0 +1,23 @@
+{
+  "id": "triceps/bench-dip-on-floor",
+  "slug": "bench-dip-on-floor",
+  "name": "Yerde Bankta Dip",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "pectorals"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/bench-dip-on-floor.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/bench-dip-on-floor.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/bench-dip-on-floor.thumb.webp"
+}

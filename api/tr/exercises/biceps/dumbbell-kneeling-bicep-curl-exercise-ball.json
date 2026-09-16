@@ -1,0 +1,22 @@
+{
+  "id": "biceps/dumbbell-kneeling-bicep-curl-exercise-ball",
+  "slug": "dumbbell-kneeling-bicep-curl-exercise-ball",
+  "name": "Diz Çökerek Dambılla Pilates Topunda Biceps Büküşü",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce biceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "biceps/dumbbell-kneeling-bicep-curl-exercise-ball.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/dumbbell-kneeling-bicep-curl-exercise-ball.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/dumbbell-kneeling-bicep-curl-exercise-ball.thumb.webp"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "abs/front-lever",
+  "slug": "front-lever",
+  "name": "Front Lever",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/front-lever.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/front-lever.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/front-lever.thumb.webp"
+}

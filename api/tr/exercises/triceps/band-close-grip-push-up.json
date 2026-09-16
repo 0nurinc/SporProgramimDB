@@ -1,0 +1,22 @@
+{
+  "id": "triceps/band-close-grip-push-up",
+  "slug": "band-close-grip-push-up",
+  "name": "Lastik Bantla Dar Tutuşlu Şınav",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/band-close-grip-push-up.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/band-close-grip-push-up.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/band-close-grip-push-up.thumb.webp"
+}

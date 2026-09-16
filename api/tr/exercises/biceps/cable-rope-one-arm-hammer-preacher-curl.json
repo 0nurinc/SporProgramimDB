@@ -1,0 +1,22 @@
+{
+  "id": "biceps/cable-rope-one-arm-hammer-preacher-curl",
+  "slug": "cable-rope-one-arm-hammer-preacher-curl",
+  "name": "Makarada Halatla Çekiç Tek Kolla Preacher Büküş",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce biceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "biceps/cable-rope-one-arm-hammer-preacher-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/cable-rope-one-arm-hammer-preacher-curl.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/cable-rope-one-arm-hammer-preacher-curl.thumb.webp"
+}

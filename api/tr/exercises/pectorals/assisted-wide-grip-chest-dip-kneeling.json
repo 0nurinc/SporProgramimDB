@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/assisted-wide-grip-chest-dip-kneeling",
+  "slug": "assisted-wide-grip-chest-dip-kneeling",
+  "name": "Diz Çökerek Geniş Tutuşla Destekli Göğüs Paralelde İniş-Çıkış",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/assisted-wide-grip-chest-dip-kneeling.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/assisted-wide-grip-chest-dip-kneeling.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/assisted-wide-grip-chest-dip-kneeling.thumb.webp"
+}

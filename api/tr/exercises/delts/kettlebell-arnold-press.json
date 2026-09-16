@@ -1,0 +1,22 @@
+{
+  "id": "delts/kettlebell-arnold-press",
+  "slug": "kettlebell-arnold-press",
+  "name": "Kettlebell'le Arnold Baskı",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/kettlebell-arnold-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-arnold-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-arnold-press.thumb.webp"
+}

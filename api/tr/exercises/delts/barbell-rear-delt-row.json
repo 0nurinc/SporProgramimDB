@@ -1,0 +1,23 @@
+{
+  "id": "delts/barbell-rear-delt-row",
+  "slug": "barbell-rear-delt-row",
+  "name": "Halterle Arka Omuz Çekme",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/barbell-rear-delt-row.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/barbell-rear-delt-row.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/barbell-rear-delt-row.thumb.webp"
+}

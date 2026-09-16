@@ -1,0 +1,20 @@
+{
+  "id": "calves/standing-calf-raise-on-a-staircase",
+  "slug": "standing-calf-raise-on-a-staircase",
+  "name": "Ayakta Staircase Baldır Kaldırma",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce baldırları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "calves/standing-calf-raise-on-a-staircase.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/standing-calf-raise-on-a-staircase.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/standing-calf-raise-on-a-staircase.thumb.webp"
+}

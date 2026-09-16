@@ -1,0 +1,20 @@
+{
+  "id": "abs/lever-seated-crunch",
+  "slug": "lever-seated-crunch",
+  "name": "Oturarak Makinede Mekik",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/lever-seated-crunch.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-seated-crunch.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-seated-crunch.thumb.webp"
+}

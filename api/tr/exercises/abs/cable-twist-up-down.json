@@ -1,0 +1,20 @@
+{
+  "id": "abs/cable-twist-up-down",
+  "slug": "cable-twist-up-down",
+  "name": "Makarada Up Down Bükülme",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/cable-twist-up-down.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/cable-twist-up-down.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/cable-twist-up-down.thumb.webp"
+}

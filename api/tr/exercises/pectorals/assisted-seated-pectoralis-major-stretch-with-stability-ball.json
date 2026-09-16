@@ -1,0 +1,19 @@
+{
+  "id": "pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball",
+  "slug": "assisted-seated-pectoralis-major-stretch-with-stability-ball",
+  "name": "Oturarak Pilates Topunda Destekli Pectoralis Major Esneme",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "bodyweight",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Göğüs kasını gerecek pozisyona geçin.",
+    "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+    "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+  ],
+  "file": "pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball.thumb.webp"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "abs/lever-seated-leg-raise-crunch",
+  "slug": "lever-seated-leg-raise-crunch",
+  "name": "Oturarak Makinede Crunch Bacak Kaldırma",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/lever-seated-leg-raise-crunch.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-seated-leg-raise-crunch.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-seated-leg-raise-crunch.thumb.webp"
+}

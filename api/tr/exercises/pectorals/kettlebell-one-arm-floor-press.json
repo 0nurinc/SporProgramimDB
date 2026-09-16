@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/kettlebell-one-arm-floor-press",
+  "slug": "kettlebell-one-arm-floor-press",
+  "name": "Kettlebell'le Tek Kolla Yerde Baskı",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/kettlebell-one-arm-floor-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-one-arm-floor-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-one-arm-floor-press.thumb.webp"
+}

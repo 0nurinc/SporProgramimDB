@@ -1,0 +1,27 @@
+{
+  "id": "glutes/smith-front-squat-clean-grip",
+  "slug": "smith-front-squat-clean-grip",
+  "name": "Smith Makinesinde Front-squat Cleaning (Clean)",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves",
+    "spine",
+    "traps",
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Barı Smith makinesinde uygun yüksekliğe getirin.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/smith-front-squat-clean-grip.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-front-squat-clean-grip.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-front-squat-clean-grip.thumb.webp"
+}

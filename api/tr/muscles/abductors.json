@@ -1,0 +1,109 @@
+{
+  "muscle": "abductors",
+  "count": 5,
+  "exercises": [
+    {
+      "id": "abductors/lever-seated-hip-abduction",
+      "slug": "lever-seated-hip-abduction",
+      "name": "Oturarak Makinede Kalça Abdüksiyonu",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce abduktörleri kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abductors/lever-seated-hip-abduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/lever-seated-hip-abduction.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/lever-seated-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/resistance-band-seated-hip-abduction",
+      "slug": "resistance-band-seated-hip-abduction",
+      "name": "Oturarak Direnç Bandıyla Kalça Abdüksiyonu",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce abduktörleri kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abductors/resistance-band-seated-hip-abduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/resistance-band-seated-hip-abduction.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/resistance-band-seated-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/side-bridge-hip-abduction",
+      "slug": "side-bridge-hip-abduction",
+      "name": "Hip-abduction Yan Köprü",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce abduktörleri kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abductors/side-bridge-hip-abduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/side-bridge-hip-abduction.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/side-bridge-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/side-hip-abduction",
+      "slug": "side-hip-abduction",
+      "name": "Yandan Kalça Abdüksiyonu",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce abduktörleri kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abductors/side-hip-abduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/side-hip-abduction.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/side-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/straight-leg-outer-hip-abductor",
+      "slug": "straight-leg-outer-hip-abductor",
+      "name": "Bacak Düz Dış Kalça Abduktör",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce abduktörleri kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abductors/straight-leg-outer-hip-abductor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/straight-leg-outer-hip-abductor.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/straight-leg-outer-hip-abductor.thumb.webp"
+    }
+  ]
+}

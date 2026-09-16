@@ -1,0 +1,3271 @@
+{
+  "muscle": "glutes",
+  "count": 144,
+  "exercises": [
+    {
+      "id": "glutes/arms-apart-circular-toe-touch-male",
+      "slug": "arms-apart-circular-toe-touch-male",
+      "name": "Kol Apart Circular Ayak Ucuna Dokunma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/arms-apart-circular-toe-touch-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/arms-apart-circular-toe-touch-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/arms-apart-circular-toe-touch-male.thumb.webp"
+    },
+    {
+      "id": "glutes/assisted-lying-glutes-stretch",
+      "slug": "assisted-lying-glutes-stretch",
+      "name": "Yatarak Destekli Kalça Esneme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Kalça kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "glutes/assisted-lying-glutes-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/assisted-lying-glutes-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/assisted-lying-glutes-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/assisted-lying-gluteus-and-piriformis-stretch",
+      "slug": "assisted-lying-gluteus-and-piriformis-stretch",
+      "name": "Yatarak Destekli Gluteus Piriformis Esneme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Kalça kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "glutes/assisted-lying-gluteus-and-piriformis-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/assisted-lying-gluteus-and-piriformis-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/assisted-lying-gluteus-and-piriformis-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/band-bent-over-hip-extension",
+      "slug": "band-bent-over-hip-extension",
+      "name": "Lastik Bantla Öne Eğilerek Kalça Ekstansiyon",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/band-bent-over-hip-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-bent-over-hip-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-bent-over-hip-extension.thumb.webp"
+    },
+    {
+      "id": "glutes/band-hip-lift",
+      "slug": "band-hip-lift",
+      "name": "Lastik Bantla Kalça Lift",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/band-hip-lift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-hip-lift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-hip-lift.thumb.webp"
+    },
+    {
+      "id": "glutes/band-lying-hip-internal-rotation",
+      "slug": "band-lying-hip-internal-rotation",
+      "name": "Yatarak Lastik Bantla Kalça Internal Rotation",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/band-lying-hip-internal-rotation.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-lying-hip-internal-rotation.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-lying-hip-internal-rotation.thumb.webp"
+    },
+    {
+      "id": "glutes/band-pull-through",
+      "slug": "band-pull-through",
+      "name": "Lastik Bantla Pull Through",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/band-pull-through.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-pull-through.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-pull-through.thumb.webp"
+    },
+    {
+      "id": "glutes/band-seated-hip-internal-rotation",
+      "slug": "band-seated-hip-internal-rotation",
+      "name": "Oturarak Lastik Bantla Kalça Internal Rotation",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/band-seated-hip-internal-rotation.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-seated-hip-internal-rotation.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-seated-hip-internal-rotation.thumb.webp"
+    },
+    {
+      "id": "glutes/band-squat-row",
+      "slug": "band-squat-row",
+      "name": "Lastik Bantla Çömelme Çekme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves",
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/band-squat-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-squat-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-squat-row.thumb.webp"
+    },
+    {
+      "id": "glutes/band-squat",
+      "slug": "band-squat",
+      "name": "Lastik Bantla Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/band-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/band-step-up",
+      "slug": "band-step-up",
+      "name": "Lastik Bantla Step-up",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/band-step-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-step-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-step-up.thumb.webp"
+    },
+    {
+      "id": "glutes/band-stiff-leg-deadlift",
+      "slug": "band-stiff-leg-deadlift",
+      "name": "Lastik Bantla Düz Bacak Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/band-stiff-leg-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-stiff-leg-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-stiff-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/band-straight-back-stiff-leg-deadlift",
+      "slug": "band-straight-back-stiff-leg-deadlift",
+      "name": "Lastik Bantla Sırt Düz Düz Bacak Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/band-straight-back-stiff-leg-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-straight-back-stiff-leg-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-straight-back-stiff-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-clean-grip-front-squat",
+      "slug": "barbell-clean-grip-front-squat",
+      "name": "Halterle Clean Tutuşlu Ön Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-clean-grip-front-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-clean-grip-front-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-clean-grip-front-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-deadlift",
+      "slug": "barbell-deadlift",
+      "name": "Halterle Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-front-chest-squat",
+      "slug": "barbell-front-chest-squat",
+      "name": "Halterle Ön Göğüs Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-front-chest-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-front-chest-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-front-chest-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-front-squat",
+      "slug": "barbell-front-squat",
+      "name": "Halterle Ön Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-front-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-front-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-front-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-full-squat-back-pov",
+      "slug": "barbell-full-squat-back-pov",
+      "name": "Halterle Sırt Tam Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-full-squat-back-pov.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-full-squat-back-pov.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-full-squat-back-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-full-squat-side-pov",
+      "slug": "barbell-full-squat-side-pov",
+      "name": "Yandan Halterle Tam Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-full-squat-side-pov.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-full-squat-side-pov.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-full-squat-side-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-full-squat",
+      "slug": "barbell-full-squat",
+      "name": "Halterle Tam Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-full-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-full-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-full-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-full-zercher-squat",
+      "slug": "barbell-full-zercher-squat",
+      "name": "Halterle Tam Zercher Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-full-zercher-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-full-zercher-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-full-zercher-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-glute-bridge-two-legs-on-bench-male",
+      "slug": "barbell-glute-bridge-two-legs-on-bench-male",
+      "name": "Halterle İki Bacakla Bankta Kalça Köprüsü",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-glute-bridge-two-legs-on-bench-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-glute-bridge-two-legs-on-bench-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-glute-bridge-two-legs-on-bench-male.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-glute-bridge",
+      "slug": "barbell-glute-bridge",
+      "name": "Halterle Kalça Köprüsü",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-glute-bridge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-glute-bridge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-glute-bridge.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-hack-squat",
+      "slug": "barbell-hack-squat",
+      "name": "Halterle Hack Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-hack-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-hack-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-hack-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-high-bar-squat",
+      "slug": "barbell-high-bar-squat",
+      "name": "Halterle Yüksek Bar Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-high-bar-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-high-bar-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-high-bar-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-jefferson-squat",
+      "slug": "barbell-jefferson-squat",
+      "name": "Halterle Jefferson Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-jefferson-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-jefferson-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-jefferson-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-jump-squat",
+      "slug": "barbell-jump-squat",
+      "name": "Halterle Sıçramalı Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/barbell-jump-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-jump-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-lateral-lunge",
+      "slug": "barbell-lateral-lunge",
+      "name": "Halterle Lateral Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-lateral-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-lateral-lunge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-lateral-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-low-bar-squat",
+      "slug": "barbell-low-bar-squat",
+      "name": "Halterle Alçak Bar Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-low-bar-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-low-bar-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-low-bar-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-lunge",
+      "slug": "barbell-lunge",
+      "name": "Halterle Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-lunge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-lying-lifting-on-hip",
+      "slug": "barbell-lying-lifting-on-hip",
+      "name": "Yatarak Halterle Lifting Kalça",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-lying-lifting-on-hip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-lying-lifting-on-hip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-lying-lifting-on-hip.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-narrow-stance-squat",
+      "slug": "barbell-narrow-stance-squat",
+      "name": "Halterle Dar Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-narrow-stance-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-narrow-stance-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-narrow-stance-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-one-arm-side-deadlift",
+      "slug": "barbell-one-arm-side-deadlift",
+      "name": "Yandan Halterle Tek Kolla Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-one-arm-side-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-one-arm-side-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-one-arm-side-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-rack-pull",
+      "slug": "barbell-rack-pull",
+      "name": "Halterle Rack Çekişi",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-rack-pull.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-rack-pull.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-rack-pull.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-rear-lunge-v-2",
+      "slug": "barbell-rear-lunge-v-2",
+      "name": "Halterle Arka Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-rear-lunge-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-rear-lunge-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-rear-lunge-v-2.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-rear-lunge",
+      "slug": "barbell-rear-lunge",
+      "name": "Halterle Arka Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-rear-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-rear-lunge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-rear-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-romanian-deadlift",
+      "slug": "barbell-romanian-deadlift",
+      "name": "Halterle Romen Tarzı Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-romanian-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-romanian-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-romanian-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-seated-good-morning",
+      "slug": "barbell-seated-good-morning",
+      "name": "Oturarak Halterle Good Morning",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-seated-good-morning.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-seated-good-morning.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-seated-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-single-leg-deadlift",
+      "slug": "barbell-single-leg-deadlift",
+      "name": "Halterle Tek Bacakla Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-single-leg-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-single-leg-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-single-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-speed-squat",
+      "slug": "barbell-speed-squat",
+      "name": "Halterle Speed Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-speed-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-speed-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-speed-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-step-up",
+      "slug": "barbell-step-up",
+      "name": "Halterle Step-up",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-step-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-step-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-step-up.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-stiff-leg-good-morning",
+      "slug": "barbell-stiff-leg-good-morning",
+      "name": "Halterle Düz Bacakla Good Morning",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-stiff-leg-good-morning.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-stiff-leg-good-morning.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-stiff-leg-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-sumo-deadlift",
+      "slug": "barbell-sumo-deadlift",
+      "name": "Halterle Sumo Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-sumo-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-sumo-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-sumo-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-zercher-squat",
+      "slug": "barbell-zercher-squat",
+      "name": "Halterle Zercher Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/barbell-zercher-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-zercher-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-zercher-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/basic-toe-touch-male",
+      "slug": "basic-toe-touch-male",
+      "name": "Basic Ayak Ucuna Dokunma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/basic-toe-touch-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/basic-toe-touch-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/basic-toe-touch-male.thumb.webp"
+    },
+    {
+      "id": "glutes/bench-hip-extension",
+      "slug": "bench-hip-extension",
+      "name": "Bankta Kalça Ekstansiyon",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/bench-hip-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/bench-hip-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/bench-hip-extension.thumb.webp"
+    },
+    {
+      "id": "glutes/bent-knee-lying-twist-male",
+      "slug": "bent-knee-lying-twist-male",
+      "name": "Yatarak Dizler Bükülü Bükülme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/bent-knee-lying-twist-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/bent-knee-lying-twist-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/bent-knee-lying-twist-male.thumb.webp"
+    },
+    {
+      "id": "glutes/bodyweight-drop-jump-squat",
+      "slug": "bodyweight-drop-jump-squat",
+      "name": "Vücut Ağırlığıyla Drop Sıçramalı Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/bodyweight-drop-jump-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/bodyweight-drop-jump-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/bodyweight-drop-jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/cable-deadlift",
+      "slug": "cable-deadlift",
+      "name": "Makarada Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/cable-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/cable-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/cable-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/cable-pull-through-with-rope",
+      "slug": "cable-pull-through-with-rope",
+      "name": "Makarada Halatla Pull Through",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/cable-pull-through-with-rope.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/cable-pull-through-with-rope.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/cable-pull-through-with-rope.thumb.webp"
+    },
+    {
+      "id": "glutes/cable-standing-hip-extension",
+      "slug": "cable-standing-hip-extension",
+      "name": "Ayakta Makarada Kalça Ekstansiyon",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/cable-standing-hip-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/cable-standing-hip-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/cable-standing-hip-extension.thumb.webp"
+    },
+    {
+      "id": "glutes/curtsey-squat",
+      "slug": "curtsey-squat",
+      "name": "Curtsey Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/curtsey-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/curtsey-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/curtsey-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-bench-squat",
+      "slug": "dumbbell-bench-squat",
+      "name": "Dambılla Bankta Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-bench-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-bench-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-bench-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-clean",
+      "slug": "dumbbell-clean",
+      "name": "Dambılla Cleaning (Clean)",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-clean.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-clean.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-contralateral-forward-lunge",
+      "slug": "dumbbell-contralateral-forward-lunge",
+      "name": "Dambılla Contralateral İleri Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-contralateral-forward-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-contralateral-forward-lunge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-contralateral-forward-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-deadlift",
+      "slug": "dumbbell-deadlift",
+      "name": "Dambılla Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-lunge",
+      "slug": "dumbbell-lunge",
+      "name": "Dambılla Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-lunge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-one-arm-snatch",
+      "slug": "dumbbell-one-arm-snatch",
+      "name": "Dambılla Tek Kolla Kapma (Snatch)",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-one-arm-snatch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-one-arm-snatch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-one-arm-snatch.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-plyo-squat",
+      "slug": "dumbbell-plyo-squat",
+      "name": "Dambılla Plyo Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/dumbbell-plyo-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-plyo-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-plyo-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-rear-lunge",
+      "slug": "dumbbell-rear-lunge",
+      "name": "Dambılla Arka Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-rear-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-rear-lunge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-rear-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-romanian-deadlift",
+      "slug": "dumbbell-romanian-deadlift",
+      "name": "Dambılla Romen Tarzı Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-romanian-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-romanian-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-romanian-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-single-leg-deadlift-with-stepbox-support",
+      "slug": "dumbbell-single-leg-deadlift-with-stepbox-support",
+      "name": "Dambılla Tek Bacakla Stepbox Support Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-single-leg-deadlift-with-stepbox-support.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-single-leg-deadlift-with-stepbox-support.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-single-leg-deadlift-with-stepbox-support.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-single-leg-deadlift",
+      "slug": "dumbbell-single-leg-deadlift",
+      "name": "Dambılla Tek Bacakla Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-single-leg-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-single-leg-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-single-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-single-leg-squat",
+      "slug": "dumbbell-single-leg-squat",
+      "name": "Dambılla Tek Bacakla Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-single-leg-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-single-leg-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-single-leg-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-squat",
+      "slug": "dumbbell-squat",
+      "name": "Dambılla Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-step-up",
+      "slug": "dumbbell-step-up",
+      "name": "Dambılla Step-up",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-step-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-step-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-step-up.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-stiff-leg-deadlift",
+      "slug": "dumbbell-stiff-leg-deadlift",
+      "name": "Dambılla Düz Bacak Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-stiff-leg-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-stiff-leg-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-stiff-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-straight-leg-deadlift",
+      "slug": "dumbbell-straight-leg-deadlift",
+      "name": "Dambılla Bacak Düz Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-straight-leg-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-straight-leg-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-straight-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-sumo-pull-through",
+      "slug": "dumbbell-sumo-pull-through",
+      "name": "Dambılla Sumo Pull Through",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/dumbbell-sumo-pull-through.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-sumo-pull-through.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-sumo-pull-through.thumb.webp"
+    },
+    {
+      "id": "glutes/exercise-ball-hip-flexor-stretch",
+      "slug": "exercise-ball-hip-flexor-stretch",
+      "name": "Pilates Topunda Kalça Flexor Esneme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Kalça kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "glutes/exercise-ball-hip-flexor-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/exercise-ball-hip-flexor-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/exercise-ball-hip-flexor-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/exercise-ball-one-leg-prone-lower-body-rotation",
+      "slug": "exercise-ball-one-leg-prone-lower-body-rotation",
+      "name": "Pilates Topunda Yüzüstü Tek Bacakla Alt Body Rotation",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/exercise-ball-one-leg-prone-lower-body-rotation.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/exercise-ball-one-leg-prone-lower-body-rotation.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/exercise-ball-one-leg-prone-lower-body-rotation.thumb.webp"
+    },
+    {
+      "id": "glutes/exercise-ball-one-legged-diagonal-kick-hamstring-curl",
+      "slug": "exercise-ball-one-legged-diagonal-kick-hamstring-curl",
+      "name": "Pilates Topunda One Legged Diagonal Tekme Arka Bacak Büküş",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/exercise-ball-one-legged-diagonal-kick-hamstring-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/exercise-ball-one-legged-diagonal-kick-hamstring-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/exercise-ball-one-legged-diagonal-kick-hamstring-curl.thumb.webp"
+    },
+    {
+      "id": "glutes/flutter-kicks",
+      "slug": "flutter-kicks",
+      "name": "Makas Tekme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/flutter-kicks.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/flutter-kicks.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/flutter-kicks.thumb.webp"
+    },
+    {
+      "id": "glutes/forward-lunge-male",
+      "slug": "forward-lunge-male",
+      "name": "İleri Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/forward-lunge-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/forward-lunge-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/forward-lunge-male.thumb.webp"
+    },
+    {
+      "id": "glutes/frankenstein-squat",
+      "slug": "frankenstein-squat",
+      "name": "Frankenstein Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/frankenstein-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/frankenstein-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/frankenstein-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/glute-bridge-march",
+      "slug": "glute-bridge-march",
+      "name": "March Kalça Köprüsü",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/glute-bridge-march.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/glute-bridge-march.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/glute-bridge-march.thumb.webp"
+    },
+    {
+      "id": "glutes/glute-bridge-two-legs-on-bench-male",
+      "slug": "glute-bridge-two-legs-on-bench-male",
+      "name": "İki Bacakla Bankta Kalça Köprüsü",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/glute-bridge-two-legs-on-bench-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/glute-bridge-two-legs-on-bench-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/glute-bridge-two-legs-on-bench-male.thumb.webp"
+    },
+    {
+      "id": "glutes/hands-clasped-circular-toe-touch-male",
+      "slug": "hands-clasped-circular-toe-touch-male",
+      "name": "Eller Clasped Circular Ayak Ucuna Dokunma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/hands-clasped-circular-toe-touch-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/hands-clasped-circular-toe-touch-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/hands-clasped-circular-toe-touch-male.thumb.webp"
+    },
+    {
+      "id": "glutes/hands-reversed-clasped-circular-toe-touch-male",
+      "slug": "hands-reversed-clasped-circular-toe-touch-male",
+      "name": "Eller Reversed Clasped Circular Ayak Ucuna Dokunma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/hands-reversed-clasped-circular-toe-touch-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/hands-reversed-clasped-circular-toe-touch-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/hands-reversed-clasped-circular-toe-touch-male.thumb.webp"
+    },
+    {
+      "id": "glutes/hug-keens-to-chest",
+      "slug": "hug-keens-to-chest",
+      "name": "Hug Keens Göğüs",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/hug-keens-to-chest.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/hug-keens-to-chest.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/hug-keens-to-chest.thumb.webp"
+    },
+    {
+      "id": "glutes/iron-cross-stretch",
+      "slug": "iron-cross-stretch",
+      "name": "Iron Çapraz Esneme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [
+        "pectorals",
+        "lats",
+        "abs"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Kalça kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "glutes/iron-cross-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/iron-cross-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/iron-cross-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/jump-squat-v-2",
+      "slug": "jump-squat-v-2",
+      "name": "Sıçramalı Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/jump-squat-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/jump-squat-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/jump-squat-v-2.thumb.webp"
+    },
+    {
+      "id": "glutes/jump-squat",
+      "slug": "jump-squat",
+      "name": "Sıçramalı Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/jump-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/jump-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-front-squat",
+      "slug": "kettlebell-front-squat",
+      "name": "Kettlebell'le Ön Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/kettlebell-front-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-front-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-front-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-goblet-squat",
+      "slug": "kettlebell-goblet-squat",
+      "name": "Kettlebell'le Goblet Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/kettlebell-goblet-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-goblet-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-goblet-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-lunge-pass-through",
+      "slug": "kettlebell-lunge-pass-through",
+      "name": "Kettlebell'le Pass Through Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/kettlebell-lunge-pass-through.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-lunge-pass-through.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-lunge-pass-through.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-pistol-squat",
+      "slug": "kettlebell-pistol-squat",
+      "name": "Kettlebell'le Pistol Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/kettlebell-pistol-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-pistol-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-pistol-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-swing",
+      "slug": "kettlebell-swing",
+      "name": "Kettlebell'le Sallanma (Swing)",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/kettlebell-swing.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-swing.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-swing.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-turkish-get-up-squat-style",
+      "slug": "kettlebell-turkish-get-up-squat-style",
+      "name": "Kettlebell'le Turkish Get Up Style Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/kettlebell-turkish-get-up-squat-style.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-turkish-get-up-squat-style.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kettlebell-turkish-get-up-squat-style.thumb.webp"
+    },
+    {
+      "id": "glutes/kneeling-jump-squat",
+      "slug": "kneeling-jump-squat",
+      "name": "Diz Çökerek Sıçramalı Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/kneeling-jump-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kneeling-jump-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kneeling-jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-deadlift",
+      "slug": "lever-deadlift",
+      "name": "Makinede Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/lever-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-hip-extension-v-2",
+      "slug": "lever-hip-extension-v-2",
+      "name": "Makinede Kalça Ekstansiyon",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/lever-hip-extension-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-hip-extension-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-hip-extension-v-2.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-horizontal-one-leg-press",
+      "slug": "lever-horizontal-one-leg-press",
+      "name": "Makinede Yatay Tek Bacakla Baskı",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/lever-horizontal-one-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-horizontal-one-leg-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-horizontal-one-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-reverse-hyperextension",
+      "slug": "lever-reverse-hyperextension",
+      "name": "Makinede Ters Hyperextension",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/lever-reverse-hyperextension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-reverse-hyperextension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-reverse-hyperextension.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-seated-good-morning",
+      "slug": "lever-seated-good-morning",
+      "name": "Oturarak Makinede Good Morning",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/lever-seated-good-morning.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-seated-good-morning.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-seated-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/low-glute-bridge-on-floor",
+      "slug": "low-glute-bridge-on-floor",
+      "name": "Alçak Yerde Kalça Köprüsü",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/low-glute-bridge-on-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/low-glute-bridge-on-floor.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/low-glute-bridge-on-floor.thumb.webp"
+    },
+    {
+      "id": "glutes/lunge-with-jump",
+      "slug": "lunge-with-jump",
+      "name": "Jump Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/lunge-with-jump.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lunge-with-jump.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lunge-with-jump.thumb.webp"
+    },
+    {
+      "id": "glutes/march-sit-wall",
+      "slug": "march-sit-wall",
+      "name": "March Sit Duvarda",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/march-sit-wall.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/march-sit-wall.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/march-sit-wall.thumb.webp"
+    },
+    {
+      "id": "glutes/monster-walk",
+      "slug": "monster-walk",
+      "name": "Monster Yürüyüş",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/monster-walk.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/monster-walk.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/monster-walk.thumb.webp"
+    },
+    {
+      "id": "glutes/one-leg-squat",
+      "slug": "one-leg-squat",
+      "name": "Tek Bacakla Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/one-leg-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/one-leg-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/one-leg-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/outside-leg-kick-push-up",
+      "slug": "outside-leg-kick-push-up",
+      "name": "Outside Bacak Tekme Şınav",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/outside-leg-kick-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/outside-leg-kick-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/outside-leg-kick-push-up.thumb.webp"
+    },
+    {
+      "id": "glutes/pelvic-tilt-into-bridge",
+      "slug": "pelvic-tilt-into-bridge",
+      "name": "Into Köprü Pelvik Tilt",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/pelvic-tilt-into-bridge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/pelvic-tilt-into-bridge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/pelvic-tilt-into-bridge.thumb.webp"
+    },
+    {
+      "id": "glutes/pike-to-cobra-push-up",
+      "slug": "pike-to-cobra-push-up",
+      "name": "Pike Cobra Şınav",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "abs",
+        "traps"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/pike-to-cobra-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/pike-to-cobra-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/pike-to-cobra-push-up.thumb.webp"
+    },
+    {
+      "id": "glutes/potty-squat-with-support",
+      "slug": "potty-squat-with-support",
+      "name": "Potty Support Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/potty-squat-with-support.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/potty-squat-with-support.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/potty-squat-with-support.thumb.webp"
+    },
+    {
+      "id": "glutes/push-up-inside-leg-kick",
+      "slug": "push-up-inside-leg-kick",
+      "name": "Inside Bacak Tekme Şınav",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/push-up-inside-leg-kick.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/push-up-inside-leg-kick.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/push-up-inside-leg-kick.thumb.webp"
+    },
+    {
+      "id": "glutes/rear-decline-bridge",
+      "slug": "rear-decline-bridge",
+      "name": "Ters Eğimli Arka Köprü",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/rear-decline-bridge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/rear-decline-bridge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/rear-decline-bridge.thumb.webp"
+    },
+    {
+      "id": "glutes/resistance-band-hip-thrusts-on-knees-female",
+      "slug": "resistance-band-hip-thrusts-on-knees-female",
+      "name": "Direnç Bandıyla Diz Kalça İtişi",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/resistance-band-hip-thrusts-on-knees-female.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/resistance-band-hip-thrusts-on-knees-female.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/resistance-band-hip-thrusts-on-knees-female.thumb.webp"
+    },
+    {
+      "id": "glutes/reverse-hyper-extension-on-stability-ball",
+      "slug": "reverse-hyper-extension-on-stability-ball",
+      "name": "Pilates Topunda Ters Hyper Ekstansiyon",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/reverse-hyper-extension-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/reverse-hyper-extension-on-stability-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/reverse-hyper-extension-on-stability-ball.thumb.webp"
+    },
+    {
+      "id": "glutes/reverse-hyper-on-flat-bench",
+      "slug": "reverse-hyper-on-flat-bench",
+      "name": "Ters Düz Hyper Bankta",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/reverse-hyper-on-flat-bench.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/reverse-hyper-on-flat-bench.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/reverse-hyper-on-flat-bench.thumb.webp"
+    },
+    {
+      "id": "glutes/rocking-frog-stretch",
+      "slug": "rocking-frog-stretch",
+      "name": "Rocking Frog Esneme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Kalça kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "glutes/rocking-frog-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/rocking-frog-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/rocking-frog-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/roller-hip-lat-stretch",
+      "slug": "roller-hip-lat-stretch",
+      "name": "Roller Kalça Sırt Kanadı Esneme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Kalça kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "glutes/roller-hip-lat-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/roller-hip-lat-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/roller-hip-lat-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/roller-hip-stretch",
+      "slug": "roller-hip-stretch",
+      "name": "Roller Kalça Esneme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Kalça kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "glutes/roller-hip-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/roller-hip-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/roller-hip-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/seated-glute-stretch",
+      "slug": "seated-glute-stretch",
+      "name": "Oturarak Kalça Esneme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Kalça kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "glutes/seated-glute-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/seated-glute-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/seated-glute-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/seated-piriformis-stretch",
+      "slug": "seated-piriformis-stretch",
+      "name": "Oturarak Piriformis Esneme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Kalça kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "glutes/seated-piriformis-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/seated-piriformis-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/seated-piriformis-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/single-leg-bridge-with-outstretched-leg",
+      "slug": "single-leg-bridge-with-outstretched-leg",
+      "name": "Tek Bacakla Outstretched Bacak Köprü",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/single-leg-bridge-with-outstretched-leg.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/single-leg-bridge-with-outstretched-leg.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/single-leg-bridge-with-outstretched-leg.thumb.webp"
+    },
+    {
+      "id": "glutes/single-leg-squat-pistol-male",
+      "slug": "single-leg-squat-pistol-male",
+      "name": "Pistol Tek Bacakla Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/single-leg-squat-pistol-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/single-leg-squat-pistol-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/single-leg-squat-pistol-male.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-degrees-one-leg-press",
+      "slug": "sled-45-degrees-one-leg-press",
+      "name": "Kızakta Tek Bacakla Degrees Baskı",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-45-degrees-one-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-degrees-one-leg-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-degrees-one-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-press-back-pov",
+      "slug": "sled-45-leg-press-back-pov",
+      "name": "Kızakta Sırt Bacak Presi",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-45-leg-press-back-pov.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press-back-pov.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press-back-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-press-side-pov",
+      "slug": "sled-45-leg-press-side-pov",
+      "name": "Yandan Kızakta Bacak Presi",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-45-leg-press-side-pov.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press-side-pov.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press-side-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-press",
+      "slug": "sled-45-leg-press",
+      "name": "Kızakta Bacak Presi",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-45-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-wide-press",
+      "slug": "sled-45-leg-wide-press",
+      "name": "Kızakta Geniş Bacak Baskı",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-45-leg-wide-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-wide-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-45-leg-wide-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-closer-hack-squat",
+      "slug": "sled-closer-hack-squat",
+      "name": "Kızakta Closer Hack Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-closer-hack-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-closer-hack-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-closer-hack-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-hack-squat",
+      "slug": "sled-hack-squat",
+      "name": "Kızakta Hack Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-hack-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-hack-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-hack-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-lying-squat",
+      "slug": "sled-lying-squat",
+      "name": "Yatarak Kızakta Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ekipmanı hazırlayın ve başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-lying-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-lying-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-lying-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-bent-knee-good-morning",
+      "slug": "smith-bent-knee-good-morning",
+      "name": "Smith Makinesinde Dizler Bükülü Good Morning",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/smith-bent-knee-good-morning.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-bent-knee-good-morning.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-bent-knee-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-deadlift",
+      "slug": "smith-deadlift",
+      "name": "Smith Makinesinde Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/smith-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-front-squat-clean-grip",
+      "slug": "smith-front-squat-clean-grip",
+      "name": "Smith Makinesinde Front-squat Cleaning (Clean)",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/smith-front-squat-clean-grip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-front-squat-clean-grip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-front-squat-clean-grip.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-full-squat",
+      "slug": "smith-full-squat",
+      "name": "Smith Makinesinde Tam Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/smith-full-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-full-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-full-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-hack-squat",
+      "slug": "smith-hack-squat",
+      "name": "Smith Makinesinde Hack Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/smith-hack-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-hack-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-hack-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-leg-press",
+      "slug": "smith-leg-press",
+      "name": "Smith Makinesinde Bacak Presi",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/smith-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-leg-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-low-bar-squat",
+      "slug": "smith-low-bar-squat",
+      "name": "Smith Makinesinde Alçak Bar Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/smith-low-bar-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-low-bar-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-low-bar-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-sprint-lunge",
+      "slug": "smith-sprint-lunge",
+      "name": "Smith Makinesinde Sprint Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/smith-sprint-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-sprint-lunge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-sprint-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-squat",
+      "slug": "smith-squat",
+      "name": "Smith Makinesinde Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/smith-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-sumo-squat",
+      "slug": "smith-sumo-squat",
+      "name": "Smith Makinesinde Sumo Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Barı Smith makinesinde uygun yüksekliğe getirin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/smith-sumo-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-sumo-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/smith-sumo-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/spider-crawl-push-up",
+      "slug": "spider-crawl-push-up",
+      "name": "Spider Crawl Şınav",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/spider-crawl-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/spider-crawl-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/spider-crawl-push-up.thumb.webp"
+    },
+    {
+      "id": "glutes/swimmer-kicks-v-2-male",
+      "slug": "swimmer-kicks-v-2-male",
+      "name": "Swimmer Tekme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/swimmer-kicks-v-2-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/swimmer-kicks-v-2-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/swimmer-kicks-v-2-male.thumb.webp"
+    },
+    {
+      "id": "glutes/tire-flip",
+      "slug": "tire-flip",
+      "name": "Tire Flip",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/tire-flip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/tire-flip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/tire-flip.thumb.webp"
+    },
+    {
+      "id": "glutes/trap-bar-deadlift",
+      "slug": "trap-bar-deadlift",
+      "name": "Trap Barla Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/trap-bar-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/trap-bar-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/trap-bar-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/twist-hip-lift",
+      "slug": "twist-hip-lift",
+      "name": "Kalça Lift Bükülme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/twist-hip-lift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/twist-hip-lift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/twist-hip-lift.thumb.webp"
+    },
+    {
+      "id": "glutes/walking-lunge",
+      "slug": "walking-lunge",
+      "name": "Yürüyerek Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/walking-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/walking-lunge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/walking-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/weighted-cossack-squats-male",
+      "slug": "weighted-cossack-squats-male",
+      "name": "Ağırlıklı Cossack Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/weighted-cossack-squats-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/weighted-cossack-squats-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/weighted-cossack-squats-male.thumb.webp"
+    },
+    {
+      "id": "glutes/weighted-lunge-with-swing",
+      "slug": "weighted-lunge-with-swing",
+      "name": "Ağırlıklı Swing Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/weighted-lunge-with-swing.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/weighted-lunge-with-swing.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/weighted-lunge-with-swing.thumb.webp"
+    },
+    {
+      "id": "glutes/weighted-squat",
+      "slug": "weighted-squat",
+      "name": "Ağırlıklı Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/weighted-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/weighted-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/weighted-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/weighted-stretch-lunge",
+      "slug": "weighted-stretch-lunge",
+      "name": "Ağırlıklı Stretch Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Kalça kaslarını gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "glutes/weighted-stretch-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/weighted-stretch-lunge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/weighted-stretch-lunge.thumb.webp"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "triceps/ring-dips",
+  "slug": "ring-dips",
+  "name": "Ring Paralelde İniş-Çıkış",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "pectorals"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce triceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "triceps/ring-dips.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ring-dips.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/ring-dips.thumb.webp"
+}

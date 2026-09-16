@@ -1,0 +1,590 @@
+{
+  "bodyPart": "cardio",
+  "count": 29,
+  "exercises": [
+    {
+      "id": "cardio/astride-jumps-male",
+      "slug": "astride-jumps-male",
+      "name": "Astride Sıçrama",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/astride-jumps-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/astride-jumps-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/astride-jumps-male.thumb.webp"
+    },
+    {
+      "id": "cardio/back-and-forth-step",
+      "slug": "back-and-forth-step",
+      "name": "Sırt Forth Step",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/back-and-forth-step.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/back-and-forth-step.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/back-and-forth-step.thumb.webp"
+    },
+    {
+      "id": "cardio/bear-crawl",
+      "slug": "bear-crawl",
+      "name": "Bear Crawl",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/bear-crawl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/bear-crawl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/bear-crawl.thumb.webp"
+    },
+    {
+      "id": "cardio/burpee",
+      "slug": "burpee",
+      "name": "Burpee",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/burpee.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/burpee.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/burpee.thumb.webp"
+    },
+    {
+      "id": "cardio/cycle-cross-trainer",
+      "slug": "cycle-cross-trainer",
+      "name": "Cycle Çapraz Trainer",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/cycle-cross-trainer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/cycle-cross-trainer.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/cycle-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/dumbbell-burpee",
+      "slug": "dumbbell-burpee",
+      "name": "Dambılla Burpee",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "dumbbell",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/dumbbell-burpee.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/dumbbell-burpee.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/dumbbell-burpee.thumb.webp"
+    },
+    {
+      "id": "cardio/half-knee-bends-male",
+      "slug": "half-knee-bends-male",
+      "name": "Yarım Diz Bends",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/half-knee-bends-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/half-knee-bends-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/half-knee-bends-male.thumb.webp"
+    },
+    {
+      "id": "cardio/high-knee-against-wall",
+      "slug": "high-knee-against-wall",
+      "name": "Yüksek Diz Karşı Duvarda",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/high-knee-against-wall.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/high-knee-against-wall.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/high-knee-against-wall.thumb.webp"
+    },
+    {
+      "id": "cardio/jack-burpee",
+      "slug": "jack-burpee",
+      "name": "Jack Burpee",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/jack-burpee.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/jack-burpee.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/jack-burpee.thumb.webp"
+    },
+    {
+      "id": "cardio/jack-jump-male",
+      "slug": "jack-jump-male",
+      "name": "Jack Sıçrama",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/jack-jump-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/jack-jump-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/jack-jump-male.thumb.webp"
+    },
+    {
+      "id": "cardio/jump-rope",
+      "slug": "jump-rope",
+      "name": "İp Atlama",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/jump-rope.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/jump-rope.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/jump-rope.thumb.webp"
+    },
+    {
+      "id": "cardio/mountain-climber",
+      "slug": "mountain-climber",
+      "name": "Dağcı Adımı",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/mountain-climber.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/mountain-climber.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/mountain-climber.thumb.webp"
+    },
+    {
+      "id": "cardio/push-to-run",
+      "slug": "push-to-run",
+      "name": "Push Koşu",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/push-to-run.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/push-to-run.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/push-to-run.thumb.webp"
+    },
+    {
+      "id": "cardio/run-equipment",
+      "slug": "run-equipment",
+      "name": "Koşu Equipment",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/run-equipment.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/run-equipment.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/run-equipment.thumb.webp"
+    },
+    {
+      "id": "cardio/run",
+      "slug": "run",
+      "name": "Koşu",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/run.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/run.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/run.thumb.webp"
+    },
+    {
+      "id": "cardio/scissor-jumps-male",
+      "slug": "scissor-jumps-male",
+      "name": "Scissor Sıçrama",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/scissor-jumps-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/scissor-jumps-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/scissor-jumps-male.thumb.webp"
+    },
+    {
+      "id": "cardio/semi-squat-jump-male",
+      "slug": "semi-squat-jump-male",
+      "name": "Semi Jump Çömelme",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/semi-squat-jump-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/semi-squat-jump-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/semi-squat-jump-male.thumb.webp"
+    },
+    {
+      "id": "cardio/short-stride-run",
+      "slug": "short-stride-run",
+      "name": "Short Stride Koşu",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/short-stride-run.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/short-stride-run.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/short-stride-run.thumb.webp"
+    },
+    {
+      "id": "cardio/skater-hops",
+      "slug": "skater-hops",
+      "name": "Skater Hops",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/skater-hops.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/skater-hops.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/skater-hops.thumb.webp"
+    },
+    {
+      "id": "cardio/ski-step",
+      "slug": "ski-step",
+      "name": "Ski Step",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/ski-step.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/ski-step.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/ski-step.thumb.webp"
+    },
+    {
+      "id": "cardio/star-jump-male",
+      "slug": "star-jump-male",
+      "name": "Star Sıçrama",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/star-jump-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/star-jump-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/star-jump-male.thumb.webp"
+    },
+    {
+      "id": "cardio/stationary-bike-run-v-3",
+      "slug": "stationary-bike-run-v-3",
+      "name": "Koşu Sabit Bisiklet",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/stationary-bike-run-v-3.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/stationary-bike-run-v-3.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/stationary-bike-run-v-3.thumb.webp"
+    },
+    {
+      "id": "cardio/stationary-bike-walk",
+      "slug": "stationary-bike-walk",
+      "name": "Yürüyüş Sabit Bisiklet",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/stationary-bike-walk.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/stationary-bike-walk.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/stationary-bike-walk.thumb.webp"
+    },
+    {
+      "id": "cardio/swing-360",
+      "slug": "swing-360",
+      "name": "Sallanma (Swing)",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/swing-360.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/swing-360.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/swing-360.thumb.webp"
+    },
+    {
+      "id": "cardio/walk-elliptical-cross-trainer",
+      "slug": "walk-elliptical-cross-trainer",
+      "name": "Yürüyüş Eliptik Çapraz Trainer",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/walk-elliptical-cross-trainer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walk-elliptical-cross-trainer.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walk-elliptical-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-high-knees-lunge",
+      "slug": "walking-high-knees-lunge",
+      "name": "Yürüyerek Lunge Yüksek Diz",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/walking-high-knees-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-high-knees-lunge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-high-knees-lunge.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-incline-treadmill",
+      "slug": "walking-on-incline-treadmill",
+      "name": "Eğimli Yürüyerek Koşu Bandı",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/walking-on-incline-treadmill.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-on-incline-treadmill.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-on-incline-treadmill.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-stepmill",
+      "slug": "walking-on-stepmill",
+      "name": "Yürüyerek Stepmill",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/walking-on-stepmill.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-on-stepmill.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-on-stepmill.thumb.webp"
+    },
+    {
+      "id": "cardio/wheel-run",
+      "slug": "wheel-run",
+      "name": "Wheel Koşu",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/wheel-run.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/wheel-run.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/wheel-run.thumb.webp"
+    }
+  ]
+}

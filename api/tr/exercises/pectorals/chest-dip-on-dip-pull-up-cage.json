@@ -1,0 +1,25 @@
+{
+  "id": "pectorals/chest-dip-on-dip-pull-up-cage",
+  "slug": "chest-dip-on-dip-pull-up-cage",
+  "name": "Göğüs Dip Cage Barfiks",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts",
+    "biceps",
+    "forearms"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/chest-dip-on-dip-pull-up-cage.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-dip-on-dip-pull-up-cage.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-dip-on-dip-pull-up-cage.thumb.webp"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "serratus-anterior/dumbbell-incline-shoulder-raise",
+  "slug": "dumbbell-incline-shoulder-raise",
+  "name": "Dambılla Eğimli Omuz Kaldırma",
+  "muscle": "serratus-anterior",
+  "bodyPart": "chest",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce serratus anterior kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "serratus-anterior/dumbbell-incline-shoulder-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/dumbbell-incline-shoulder-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/dumbbell-incline-shoulder-raise.thumb.webp"
+}

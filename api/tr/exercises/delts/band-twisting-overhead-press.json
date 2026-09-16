@@ -1,0 +1,22 @@
+{
+  "id": "delts/band-twisting-overhead-press",
+  "slug": "band-twisting-overhead-press",
+  "name": "Lastik Bantla Dönerek Baş Üstü Baskı",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/band-twisting-overhead-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/band-twisting-overhead-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/band-twisting-overhead-press.thumb.webp"
+}

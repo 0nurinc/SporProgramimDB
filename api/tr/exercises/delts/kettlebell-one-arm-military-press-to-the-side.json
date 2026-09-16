@@ -1,0 +1,22 @@
+{
+  "id": "delts/kettlebell-one-arm-military-press-to-the-side",
+  "slug": "kettlebell-one-arm-military-press-to-the-side",
+  "name": "Yandan Kettlebell'le Tek Kolla Asker Baskısı",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/kettlebell-one-arm-military-press-to-the-side.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-military-press-to-the-side.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/kettlebell-one-arm-military-press-to-the-side.thumb.webp"
+}

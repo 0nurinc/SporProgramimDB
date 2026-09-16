@@ -1,0 +1,24 @@
+{
+  "id": "quads/barbell-bench-squat",
+  "slug": "barbell-bench-squat",
+  "name": "Halterle Bankta Çömelme",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce ön bacak kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "quads/barbell-bench-squat.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/barbell-bench-squat.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/barbell-bench-squat.thumb.webp"
+}

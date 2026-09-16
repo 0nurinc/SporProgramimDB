@@ -1,0 +1,19 @@
+{
+  "id": "cardio/walking-on-stepmill",
+  "slug": "walking-on-stepmill",
+  "name": "Yürüyerek Stepmill",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "machine",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Seviyenize uygun sabit bir tempo koruyun.",
+    "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+    "Planlanan süre veya tekrar sayısı kadar devam edin."
+  ],
+  "file": "cardio/walking-on-stepmill.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-on-stepmill.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-on-stepmill.thumb.webp"
+}

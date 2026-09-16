@@ -1,0 +1,20 @@
+{
+  "id": "lats/cable-incline-pushdown",
+  "slug": "cable-incline-pushdown",
+  "name": "Makarada Eğimli Pushdown",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce sırt kanatlarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "lats/cable-incline-pushdown.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/cable-incline-pushdown.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/cable-incline-pushdown.thumb.webp"
+}

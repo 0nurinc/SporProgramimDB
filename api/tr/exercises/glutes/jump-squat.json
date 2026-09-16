@@ -1,0 +1,22 @@
+{
+  "id": "glutes/jump-squat",
+  "slug": "jump-squat",
+  "name": "Sıçramalı Çömelme",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "plyometrics",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+    "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+    "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+  ],
+  "file": "glutes/jump-squat.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/jump-squat.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/jump-squat.thumb.webp"
+}

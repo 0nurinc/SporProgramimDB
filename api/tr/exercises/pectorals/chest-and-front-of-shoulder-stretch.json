@@ -1,0 +1,19 @@
+{
+  "id": "pectorals/chest-and-front-of-shoulder-stretch",
+  "slug": "chest-and-front-of-shoulder-stretch",
+  "name": "Ön Göğüs Omuz Esneme",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "bodyweight",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Göğüs kasını gerecek pozisyona geçin.",
+    "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+    "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+  ],
+  "file": "pectorals/chest-and-front-of-shoulder-stretch.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-and-front-of-shoulder-stretch.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/chest-and-front-of-shoulder-stretch.thumb.webp"
+}

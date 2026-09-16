@@ -1,0 +1,26 @@
+{
+  "id": "glutes/band-straight-back-stiff-leg-deadlift",
+  "slug": "band-straight-back-stiff-leg-deadlift",
+  "name": "Lastik Bantla Sırt Düz Düz Bacak Ölü Kaldırma",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lats",
+    "traps",
+    "forearms",
+    "spine"
+  ],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/band-straight-back-stiff-leg-deadlift.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-straight-back-stiff-leg-deadlift.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/band-straight-back-stiff-leg-deadlift.thumb.webp"
+}

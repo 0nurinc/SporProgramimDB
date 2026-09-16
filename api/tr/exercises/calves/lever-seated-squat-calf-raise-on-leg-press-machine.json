@@ -1,0 +1,25 @@
+{
+  "id": "calves/lever-seated-squat-calf-raise-on-leg-press-machine",
+  "slug": "lever-seated-squat-calf-raise-on-leg-press-machine",
+  "name": "Oturarak Makinede Çömelme Calf-raise Bacak Presi",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce baldırları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "calves/lever-seated-squat-calf-raise-on-leg-press-machine.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-seated-squat-calf-raise-on-leg-press-machine.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-seated-squat-calf-raise-on-leg-press-machine.thumb.webp"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "quads/dumbbell-supported-squat",
+  "slug": "dumbbell-supported-squat",
+  "name": "Dambılla Supported Çömelme",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce ön bacak kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "quads/dumbbell-supported-squat.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/dumbbell-supported-squat.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/dumbbell-supported-squat.thumb.webp"
+}

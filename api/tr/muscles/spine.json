@@ -1,0 +1,417 @@
+{
+  "muscle": "spine",
+  "count": 19,
+  "exercises": [
+    {
+      "id": "spine/back-extension-on-exercise-ball",
+      "slug": "back-extension-on-exercise-ball",
+      "name": "Pilates Topunda Sırt Ekstansiyon",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/back-extension-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/back-extension-on-exercise-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/back-extension-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "spine/band-straight-leg-deadlift",
+      "slug": "band-straight-leg-deadlift",
+      "name": "Lastik Bantla Bacak Düz Ölü Kaldırma",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/band-straight-leg-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/band-straight-leg-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/band-straight-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "spine/exercise-ball-back-extension-with-arms-extended",
+      "slug": "exercise-ball-back-extension-with-arms-extended",
+      "name": "Pilates Topunda Sırt Kol Extended Ekstansiyon",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/exercise-ball-back-extension-with-arms-extended.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-back-extension-with-arms-extended.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-back-extension-with-arms-extended.thumb.webp"
+    },
+    {
+      "id": "spine/exercise-ball-back-extension-with-hands-behind-head",
+      "slug": "exercise-ball-back-extension-with-hands-behind-head",
+      "name": "Pilates Topunda Sırt Eller Arkada Baş Ekstansiyon",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/exercise-ball-back-extension-with-hands-behind-head.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-back-extension-with-hands-behind-head.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-back-extension-with-hands-behind-head.thumb.webp"
+    },
+    {
+      "id": "spine/exercise-ball-back-extension-with-knees-off-ground",
+      "slug": "exercise-ball-back-extension-with-knees-off-ground",
+      "name": "Pilates Topunda Sırt Diz Off Ground Ekstansiyon",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/exercise-ball-back-extension-with-knees-off-ground.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-back-extension-with-knees-off-ground.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-back-extension-with-knees-off-ground.thumb.webp"
+    },
+    {
+      "id": "spine/exercise-ball-back-extension-with-rotation",
+      "slug": "exercise-ball-back-extension-with-rotation",
+      "name": "Pilates Topunda Sırt Rotation Ekstansiyon",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/exercise-ball-back-extension-with-rotation.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-back-extension-with-rotation.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-back-extension-with-rotation.thumb.webp"
+    },
+    {
+      "id": "spine/exercise-ball-hug",
+      "slug": "exercise-ball-hug",
+      "name": "Pilates Topunda Hug",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/exercise-ball-hug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-hug.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-hug.thumb.webp"
+    },
+    {
+      "id": "spine/exercise-ball-prone-leg-raise",
+      "slug": "exercise-ball-prone-leg-raise",
+      "name": "Pilates Topunda Yüzüstü Bacak Kaldırma",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/exercise-ball-prone-leg-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-prone-leg-raise.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/exercise-ball-prone-leg-raise.thumb.webp"
+    },
+    {
+      "id": "spine/hyperextension-on-bench",
+      "slug": "hyperextension-on-bench",
+      "name": "Hyperextension Bankta",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/hyperextension-on-bench.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/hyperextension-on-bench.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/hyperextension-on-bench.thumb.webp"
+    },
+    {
+      "id": "spine/hyperextension",
+      "slug": "hyperextension",
+      "name": "Hyperextension",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/hyperextension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/hyperextension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/hyperextension.thumb.webp"
+    },
+    {
+      "id": "spine/lever-back-extension",
+      "slug": "lever-back-extension",
+      "name": "Makinede Sırt Ekstansiyon",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/lever-back-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/lever-back-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/lever-back-extension.thumb.webp"
+    },
+    {
+      "id": "spine/lower-back-curl",
+      "slug": "lower-back-curl",
+      "name": "Alt Sırt Büküş",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/lower-back-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/lower-back-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/lower-back-curl.thumb.webp"
+    },
+    {
+      "id": "spine/roller-back-stretch",
+      "slug": "roller-back-stretch",
+      "name": "Roller Sırt Esneme",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Bel bölgesini gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "spine/roller-back-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/roller-back-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/roller-back-stretch.thumb.webp"
+    },
+    {
+      "id": "spine/sphinx",
+      "slug": "sphinx",
+      "name": "Sphinx",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/sphinx.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/sphinx.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/sphinx.thumb.webp"
+    },
+    {
+      "id": "spine/spine-stretch",
+      "slug": "spine-stretch",
+      "name": "Omurga Esneme",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Bel bölgesini gerecek pozisyona geçin.",
+        "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+        "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+      ],
+      "file": "spine/spine-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/spine-stretch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/spine-stretch.thumb.webp"
+    },
+    {
+      "id": "spine/standing-pelvic-tilt",
+      "slug": "standing-pelvic-tilt",
+      "name": "Ayakta Pelvik Tilt",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/standing-pelvic-tilt.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/standing-pelvic-tilt.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/standing-pelvic-tilt.thumb.webp"
+    },
+    {
+      "id": "spine/two-toe-touch-male",
+      "slug": "two-toe-touch-male",
+      "name": "Two Ayak Ucuna Dokunma",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/two-toe-touch-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/two-toe-touch-male.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/two-toe-touch-male.thumb.webp"
+    },
+    {
+      "id": "spine/upward-facing-dog",
+      "slug": "upward-facing-dog",
+      "name": "Yukarı Facing Dog",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/upward-facing-dog.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/upward-facing-dog.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/upward-facing-dog.thumb.webp"
+    },
+    {
+      "id": "spine/weighted-hyperextension-on-stability-ball",
+      "slug": "weighted-hyperextension-on-stability-ball",
+      "name": "Pilates Topunda Ağırlıklı Hyperextension",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/weighted-hyperextension-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/weighted-hyperextension-on-stability-ball.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/weighted-hyperextension-on-stability-ball.thumb.webp"
+    }
+  ]
+}

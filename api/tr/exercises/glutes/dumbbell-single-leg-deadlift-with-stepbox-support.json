@@ -1,0 +1,26 @@
+{
+  "id": "glutes/dumbbell-single-leg-deadlift-with-stepbox-support",
+  "slug": "dumbbell-single-leg-deadlift-with-stepbox-support",
+  "name": "Dambılla Tek Bacakla Stepbox Support Ölü Kaldırma",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lats",
+    "traps",
+    "forearms",
+    "spine"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/dumbbell-single-leg-deadlift-with-stepbox-support.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-single-leg-deadlift-with-stepbox-support.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-single-leg-deadlift-with-stepbox-support.thumb.webp"
+}

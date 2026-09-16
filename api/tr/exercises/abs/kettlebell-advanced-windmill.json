@@ -1,0 +1,20 @@
+{
+  "id": "abs/kettlebell-advanced-windmill",
+  "slug": "kettlebell-advanced-windmill",
+  "name": "Kettlebell'le Advanced Windmill",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/kettlebell-advanced-windmill.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-advanced-windmill.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/kettlebell-advanced-windmill.thumb.webp"
+}

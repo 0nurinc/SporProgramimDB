@@ -1,0 +1,22 @@
+{
+  "id": "delts/barbell-seated-behind-head-military-press",
+  "slug": "barbell-seated-behind-head-military-press",
+  "name": "Oturarak Halterle Arkada Baş Asker Baskısı",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/barbell-seated-behind-head-military-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/barbell-seated-behind-head-military-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/barbell-seated-behind-head-military-press.thumb.webp"
+}

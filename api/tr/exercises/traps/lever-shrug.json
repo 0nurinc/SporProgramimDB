@@ -1,0 +1,23 @@
+{
+  "id": "traps/lever-shrug",
+  "slug": "lever-shrug",
+  "name": "Makinede Omuz Silkme",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce trapez kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "traps/lever-shrug.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/lever-shrug.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/lever-shrug.thumb.webp"
+}

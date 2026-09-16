@@ -1,0 +1,149 @@
+{
+  "equipment": "machine",
+  "count": 7,
+  "exercises": [
+    {
+      "id": "cardio/cycle-cross-trainer",
+      "slug": "cycle-cross-trainer",
+      "name": "Cycle Çapraz Trainer",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/cycle-cross-trainer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/cycle-cross-trainer.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/cycle-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/walk-elliptical-cross-trainer",
+      "slug": "walk-elliptical-cross-trainer",
+      "name": "Yürüyüş Eliptik Çapraz Trainer",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/walk-elliptical-cross-trainer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walk-elliptical-cross-trainer.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walk-elliptical-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-incline-treadmill",
+      "slug": "walking-on-incline-treadmill",
+      "name": "Eğimli Yürüyerek Koşu Bandı",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/walking-on-incline-treadmill.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-on-incline-treadmill.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-on-incline-treadmill.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-stepmill",
+      "slug": "walking-on-stepmill",
+      "name": "Yürüyerek Stepmill",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Seviyenize uygun sabit bir tempo koruyun.",
+        "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+        "Planlanan süre veya tekrar sayısı kadar devam edin."
+      ],
+      "file": "cardio/walking-on-stepmill.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-on-stepmill.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-on-stepmill.thumb.webp"
+    },
+    {
+      "id": "hamstrings/single-leg-platform-slide",
+      "slug": "single-leg-platform-slide",
+      "name": "Tek Bacakla Platform Slide",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/single-leg-platform-slide.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/single-leg-platform-slide.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/single-leg-platform-slide.thumb.webp"
+    },
+    {
+      "id": "lats/reverse-grip-machine-lat-pulldown",
+      "slug": "reverse-grip-machine-lat-pulldown",
+      "name": "Ters Tutuşla Makinede Lat Çekişi",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce sırt kanatlarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "lats/reverse-grip-machine-lat-pulldown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/reverse-grip-machine-lat-pulldown.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/reverse-grip-machine-lat-pulldown.thumb.webp"
+    },
+    {
+      "id": "pectorals/machine-inner-chest-press",
+      "slug": "machine-inner-chest-press",
+      "name": "Makinede İç Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/machine-inner-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/machine-inner-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/machine-inner-chest-press.thumb.webp"
+    }
+  ]
+}

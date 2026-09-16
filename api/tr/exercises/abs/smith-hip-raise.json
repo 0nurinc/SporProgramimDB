@@ -1,0 +1,20 @@
+{
+  "id": "abs/smith-hip-raise",
+  "slug": "smith-hip-raise",
+  "name": "Smith Makinesinde Kalça Kaldırma",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Barı Smith makinesinde uygun yüksekliğe getirin.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/smith-hip-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/smith-hip-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/smith-hip-raise.thumb.webp"
+}

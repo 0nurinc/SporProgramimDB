@@ -1,0 +1,306 @@
+{
+  "category": "plyometrics",
+  "count": 14,
+  "exercises": [
+    {
+      "id": "calves/box-jump-down-with-one-leg-stabilization",
+      "slug": "box-jump-down-with-one-leg-stabilization",
+      "name": "Tek Bacakla Down Stabilization Kutuya Sıçrama",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "calves/box-jump-down-with-one-leg-stabilization.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/box-jump-down-with-one-leg-stabilization.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/box-jump-down-with-one-leg-stabilization.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-jump-squat",
+      "slug": "barbell-jump-squat",
+      "name": "Halterle Sıçramalı Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/barbell-jump-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-jump-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/bodyweight-drop-jump-squat",
+      "slug": "bodyweight-drop-jump-squat",
+      "name": "Vücut Ağırlığıyla Drop Sıçramalı Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/bodyweight-drop-jump-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/bodyweight-drop-jump-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/bodyweight-drop-jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-plyo-squat",
+      "slug": "dumbbell-plyo-squat",
+      "name": "Dambılla Plyo Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/dumbbell-plyo-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-plyo-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/dumbbell-plyo-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/jump-squat-v-2",
+      "slug": "jump-squat-v-2",
+      "name": "Sıçramalı Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/jump-squat-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/jump-squat-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/jump-squat-v-2.thumb.webp"
+    },
+    {
+      "id": "glutes/jump-squat",
+      "slug": "jump-squat",
+      "name": "Sıçramalı Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/jump-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/jump-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kneeling-jump-squat",
+      "slug": "kneeling-jump-squat",
+      "name": "Diz Çökerek Sıçramalı Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/kneeling-jump-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kneeling-jump-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/kneeling-jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/lunge-with-jump",
+      "slug": "lunge-with-jump",
+      "name": "Jump Hamle",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "glutes/lunge-with-jump.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lunge-with-jump.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lunge-with-jump.thumb.webp"
+    },
+    {
+      "id": "pectorals/incline-push-up-depth-jump",
+      "slug": "incline-push-up-depth-jump",
+      "name": "Depth Jump Eğimli Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "pectorals/incline-push-up-depth-jump.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/incline-push-up-depth-jump.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/incline-push-up-depth-jump.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-plyo-push-up",
+      "slug": "kettlebell-plyo-push-up",
+      "name": "Kettlebell'le Pliometrik Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "pectorals/kettlebell-plyo-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-plyo-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/kettlebell-plyo-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/plyo-push-up",
+      "slug": "plyo-push-up",
+      "name": "Pliometrik Şınav",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "pectorals/plyo-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/plyo-push-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/plyo-push-up.thumb.webp"
+    },
+    {
+      "id": "quads/backward-jump",
+      "slug": "backward-jump",
+      "name": "Geri Sıçrama",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "quads/backward-jump.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/backward-jump.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/backward-jump.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-squat-jump-step-rear-lunge",
+      "slug": "barbell-squat-jump-step-rear-lunge",
+      "name": "Halterle Arka Jump Step Lunge Çömelme",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "quads/barbell-squat-jump-step-rear-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/barbell-squat-jump-step-rear-lunge.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/barbell-squat-jump-step-rear-lunge.thumb.webp"
+    },
+    {
+      "id": "quads/forward-jump",
+      "slug": "forward-jump",
+      "name": "İleri Sıçrama",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+        "Gerginlik biriktirmek için kısa bir çömelme yapın.",
+        "Hareketi patlayıcı şekilde yapın ve kontrollü inin.",
+        "Bacak ve core ile yumuşak inin, ardından bir sonraki tekrara geçin."
+      ],
+      "file": "quads/forward-jump.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/forward-jump.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/forward-jump.thumb.webp"
+    }
+  ]
+}

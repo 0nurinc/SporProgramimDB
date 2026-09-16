@@ -1,0 +1,22 @@
+{
+  "id": "biceps/ez-barbell-close-grip-curl",
+  "slug": "ez-barbell-close-grip-curl",
+  "name": "Dar Tutuşla EZ Barla Büküş",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "ez-bar",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "EZ barı uygun ağırlıkla yükleyin ve sıkıca kavrayın.",
+    "Harekete başlamadan önce biceps kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "biceps/ez-barbell-close-grip-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/ez-barbell-close-grip-curl.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/ez-barbell-close-grip-curl.thumb.webp"
+}

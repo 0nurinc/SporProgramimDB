@@ -1,0 +1,23 @@
+{
+  "id": "glutes/barbell-front-chest-squat",
+  "slug": "barbell-front-chest-squat",
+  "name": "Halterle Ön Göğüs Çömelme",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce kalça kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "glutes/barbell-front-chest-squat.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-front-chest-squat.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/barbell-front-chest-squat.thumb.webp"
+}

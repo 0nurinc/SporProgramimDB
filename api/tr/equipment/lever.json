@@ -1,0 +1,1771 @@
+{
+  "equipment": "lever",
+  "count": 78,
+  "exercises": [
+    {
+      "id": "abductors/lever-seated-hip-abduction",
+      "slug": "lever-seated-hip-abduction",
+      "name": "Oturarak Makinede Kalça Abdüksiyonu",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce abduktörleri kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abductors/lever-seated-hip-abduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/lever-seated-hip-abduction.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abductors/lever-seated-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abs/front-lever",
+      "slug": "front-lever",
+      "name": "Front Lever",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce karın kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abs/front-lever.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/front-lever.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/front-lever.thumb.webp"
+    },
+    {
+      "id": "abs/lever-kneeling-twist",
+      "slug": "lever-kneeling-twist",
+      "name": "Diz Çökerek Makinede Bükülme",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce karın kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abs/lever-kneeling-twist.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-kneeling-twist.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-kneeling-twist.thumb.webp"
+    },
+    {
+      "id": "abs/lever-seated-crunch-chest-pad",
+      "slug": "lever-seated-crunch-chest-pad",
+      "name": "Oturarak Makinede Göğüs Pad Mekik",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce karın kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abs/lever-seated-crunch-chest-pad.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-seated-crunch-chest-pad.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-seated-crunch-chest-pad.thumb.webp"
+    },
+    {
+      "id": "abs/lever-seated-crunch-v-2",
+      "slug": "lever-seated-crunch-v-2",
+      "name": "Oturarak Makinede Mekik",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce karın kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abs/lever-seated-crunch-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-seated-crunch-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-seated-crunch-v-2.thumb.webp"
+    },
+    {
+      "id": "abs/lever-seated-crunch",
+      "slug": "lever-seated-crunch",
+      "name": "Oturarak Makinede Mekik",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce karın kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abs/lever-seated-crunch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-seated-crunch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-seated-crunch.thumb.webp"
+    },
+    {
+      "id": "abs/lever-seated-leg-raise-crunch",
+      "slug": "lever-seated-leg-raise-crunch",
+      "name": "Oturarak Makinede Crunch Bacak Kaldırma",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce karın kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "abs/lever-seated-leg-raise-crunch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-seated-leg-raise-crunch.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/lever-seated-leg-raise-crunch.thumb.webp"
+    },
+    {
+      "id": "adductors/lever-seated-hip-adduction",
+      "slug": "lever-seated-hip-adduction",
+      "name": "Oturarak Makinede Kalça Addüksiyonu",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce adduktörleri kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "adductors/lever-seated-hip-adduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/adductors/lever-seated-hip-adduction.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/adductors/lever-seated-hip-adduction.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-bicep-curl",
+      "slug": "lever-bicep-curl",
+      "name": "Makinede Biceps Büküşü",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce biceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "biceps/lever-bicep-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/lever-bicep-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/lever-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-hammer-grip-preacher-curl",
+      "slug": "lever-hammer-grip-preacher-curl",
+      "name": "Çekiç Tutuşla Makinede Preacher Büküş",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce biceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "biceps/lever-hammer-grip-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/lever-hammer-grip-preacher-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/lever-hammer-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-preacher-curl-v-2",
+      "slug": "lever-preacher-curl-v-2",
+      "name": "Makinede Preacher Büküş",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce biceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "biceps/lever-preacher-curl-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/lever-preacher-curl-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/lever-preacher-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-preacher-curl",
+      "slug": "lever-preacher-curl",
+      "name": "Makinede Preacher Büküş",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce biceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "biceps/lever-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/lever-preacher-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/lever-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-reverse-grip-preacher-curl",
+      "slug": "lever-reverse-grip-preacher-curl",
+      "name": "Ters Tutuşla Makinede Preacher Büküş",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce biceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "biceps/lever-reverse-grip-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/lever-reverse-grip-preacher-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/biceps/lever-reverse-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "calves/hack-calf-raise",
+      "slug": "hack-calf-raise",
+      "name": "Hack Baldır Kaldırma",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/hack-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/hack-calf-raise.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/hack-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/hack-one-leg-calf-raise",
+      "slug": "hack-one-leg-calf-raise",
+      "name": "Tek Bacakla Hack Baldır Kaldırma",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/hack-one-leg-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/hack-one-leg-calf-raise.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/hack-one-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/lever-calf-press",
+      "slug": "lever-calf-press",
+      "name": "Makinede Baldır Baskı",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/lever-calf-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-calf-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/lever-donkey-calf-raise",
+      "slug": "lever-donkey-calf-raise",
+      "name": "Makinede Donkey Baldır Kaldırma",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/lever-donkey-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-donkey-calf-raise.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-donkey-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/lever-rotary-calf",
+      "slug": "lever-rotary-calf",
+      "name": "Makinede Rotary Baldır",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/lever-rotary-calf.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-rotary-calf.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-rotary-calf.thumb.webp"
+    },
+    {
+      "id": "calves/lever-seated-calf-press",
+      "slug": "lever-seated-calf-press",
+      "name": "Oturarak Makinede Baldır Baskı",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/lever-seated-calf-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-seated-calf-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-seated-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/lever-seated-calf-raise",
+      "slug": "lever-seated-calf-raise",
+      "name": "Oturarak Makinede Baldır Kaldırma",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/lever-seated-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-seated-calf-raise.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-seated-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/lever-seated-squat-calf-raise-on-leg-press-machine",
+      "slug": "lever-seated-squat-calf-raise-on-leg-press-machine",
+      "name": "Oturarak Makinede Çömelme Calf-raise Bacak Presi",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/lever-seated-squat-calf-raise-on-leg-press-machine.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-seated-squat-calf-raise-on-leg-press-machine.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-seated-squat-calf-raise-on-leg-press-machine.thumb.webp"
+    },
+    {
+      "id": "calves/lever-standing-calf-raise",
+      "slug": "lever-standing-calf-raise",
+      "name": "Ayakta Makinede Baldır Kaldırma",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce baldırları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "calves/lever-standing-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-standing-calf-raise.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/lever-standing-calf-raise.thumb.webp"
+    },
+    {
+      "id": "delts/lever-lateral-raise",
+      "slug": "lever-lateral-raise",
+      "name": "Makinede Yana Kaldırma",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/lever-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-lateral-raise.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-lateral-raise.thumb.webp"
+    },
+    {
+      "id": "delts/lever-military-press",
+      "slug": "lever-military-press",
+      "name": "Makinede Asker Baskısı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/lever-military-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-military-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-military-press.thumb.webp"
+    },
+    {
+      "id": "delts/lever-one-arm-shoulder-press",
+      "slug": "lever-one-arm-shoulder-press",
+      "name": "Makinede Tek Kolla Omuz Baskısı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/lever-one-arm-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-one-arm-shoulder-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-one-arm-shoulder-press.thumb.webp"
+    },
+    {
+      "id": "delts/lever-seated-reverse-fly-parallel-grip",
+      "slug": "lever-seated-reverse-fly-parallel-grip",
+      "name": "Oturarak Makinede Parallel Ters Açma",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/lever-seated-reverse-fly-parallel-grip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-seated-reverse-fly-parallel-grip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-seated-reverse-fly-parallel-grip.thumb.webp"
+    },
+    {
+      "id": "delts/lever-seated-reverse-fly",
+      "slug": "lever-seated-reverse-fly",
+      "name": "Oturarak Makinede Ters Açma",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/lever-seated-reverse-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-seated-reverse-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-seated-reverse-fly.thumb.webp"
+    },
+    {
+      "id": "delts/lever-shoulder-press-v-2",
+      "slug": "lever-shoulder-press-v-2",
+      "name": "Makinede Omuz Baskısı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/lever-shoulder-press-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-shoulder-press-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-shoulder-press-v-2.thumb.webp"
+    },
+    {
+      "id": "delts/lever-shoulder-press-v-3",
+      "slug": "lever-shoulder-press-v-3",
+      "name": "Makinede Omuz Baskısı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/lever-shoulder-press-v-3.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-shoulder-press-v-3.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-shoulder-press-v-3.thumb.webp"
+    },
+    {
+      "id": "delts/lever-shoulder-press",
+      "slug": "lever-shoulder-press",
+      "name": "Makinede Omuz Baskısı",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce omuzları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "delts/lever-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-shoulder-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-shoulder-press.thumb.webp"
+    },
+    {
+      "id": "forearms/lever-gripper-hands",
+      "slug": "lever-gripper-hands",
+      "name": "Makinede Gripper Eller",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce önkolları kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "forearms/lever-gripper-hands.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/lever-gripper-hands.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/lever-gripper-hands.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-deadlift",
+      "slug": "lever-deadlift",
+      "name": "Makinede Ölü Kaldırma",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/lever-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-deadlift.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-hip-extension-v-2",
+      "slug": "lever-hip-extension-v-2",
+      "name": "Makinede Kalça Ekstansiyon",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/lever-hip-extension-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-hip-extension-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-hip-extension-v-2.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-horizontal-one-leg-press",
+      "slug": "lever-horizontal-one-leg-press",
+      "name": "Makinede Yatay Tek Bacakla Baskı",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/lever-horizontal-one-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-horizontal-one-leg-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-horizontal-one-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-reverse-hyperextension",
+      "slug": "lever-reverse-hyperextension",
+      "name": "Makinede Ters Hyperextension",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/lever-reverse-hyperextension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-reverse-hyperextension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-reverse-hyperextension.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-seated-good-morning",
+      "slug": "lever-seated-good-morning",
+      "name": "Oturarak Makinede Good Morning",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/lever-seated-good-morning.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-seated-good-morning.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/lever-seated-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-closer-hack-squat",
+      "slug": "sled-closer-hack-squat",
+      "name": "Kızakta Closer Hack Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-closer-hack-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-closer-hack-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-closer-hack-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-hack-squat",
+      "slug": "sled-hack-squat",
+      "name": "Kızakta Hack Çömelme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce kalça kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "glutes/sled-hack-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-hack-squat.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/glutes/sled-hack-squat.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-kneeling-leg-curl",
+      "slug": "lever-kneeling-leg-curl",
+      "name": "Diz Çökerek Makinede Bacak Büküşü",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/lever-kneeling-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-kneeling-leg-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-kneeling-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-lying-leg-curl",
+      "slug": "lever-lying-leg-curl",
+      "name": "Yatarak Makinede Bacak Büküşü",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/lever-lying-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-lying-leg-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-lying-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-lying-two-one-leg-curl",
+      "slug": "lever-lying-two-one-leg-curl",
+      "name": "Yatarak Makinede Tek Bacakla Two Büküş",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/lever-lying-two-one-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-lying-two-one-leg-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-lying-two-one-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-seated-leg-curl",
+      "slug": "lever-seated-leg-curl",
+      "name": "Oturarak Makinede Bacak Büküşü",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce arka bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "hamstrings/lever-seated-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-seated-leg-curl.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/hamstrings/lever-seated-leg-curl.thumb.webp"
+    },
+    {
+      "id": "lats/lever-assisted-chin-up",
+      "slug": "lever-assisted-chin-up",
+      "name": "Makinede Destekli Ters Barfiks",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce sırt kanatlarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "lats/lever-assisted-chin-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/lever-assisted-chin-up.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/lever-assisted-chin-up.thumb.webp"
+    },
+    {
+      "id": "lats/lever-front-pulldown",
+      "slug": "lever-front-pulldown",
+      "name": "Makinede Ön Çekiş (Pulldown)",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce sırt kanatlarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "lats/lever-front-pulldown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/lever-front-pulldown.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/lever-front-pulldown.thumb.webp"
+    },
+    {
+      "id": "lats/lever-one-arm-lateral-wide-pulldown",
+      "slug": "lever-one-arm-lateral-wide-pulldown",
+      "name": "Makinede Tek Kolla Geniş Lateral Çekiş (Pulldown)",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce sırt kanatlarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "lats/lever-one-arm-lateral-wide-pulldown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/lever-one-arm-lateral-wide-pulldown.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/lever-one-arm-lateral-wide-pulldown.thumb.webp"
+    },
+    {
+      "id": "lats/lever-pullover",
+      "slug": "lever-pullover",
+      "name": "Makinede Pullover",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce sırt kanatlarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "lats/lever-pullover.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/lever-pullover.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/lever-pullover.thumb.webp"
+    },
+    {
+      "id": "lats/lever-reverse-grip-lateral-pulldown",
+      "slug": "lever-reverse-grip-lateral-pulldown",
+      "name": "Ters Tutuşla Makinede Lateral Çekiş (Pulldown)",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce sırt kanatlarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "lats/lever-reverse-grip-lateral-pulldown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/lever-reverse-grip-lateral-pulldown.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/lever-reverse-grip-lateral-pulldown.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-chest-press-0577",
+      "slug": "lever-chest-press-0577",
+      "name": "Makinede Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-chest-press-0577.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-chest-press-0577.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-chest-press-0577.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-chest-press",
+      "slug": "lever-chest-press",
+      "name": "Makinede Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-decline-chest-press",
+      "slug": "lever-decline-chest-press",
+      "name": "Makinede Ters Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-decline-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-decline-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-decline-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-incline-chest-press-v-2",
+      "slug": "lever-incline-chest-press-v-2",
+      "name": "Makinede Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-incline-chest-press-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-incline-chest-press-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-incline-chest-press-v-2.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-incline-chest-press",
+      "slug": "lever-incline-chest-press",
+      "name": "Makinede Eğimli Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-incline-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-incline-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-incline-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-seated-fly",
+      "slug": "lever-seated-fly",
+      "name": "Oturarak Makinede Açma",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-seated-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-seated-fly.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-seated-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-standing-chest-press",
+      "slug": "lever-standing-chest-press",
+      "name": "Ayakta Makinede Göğüs Baskısı",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce göğüs kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "pectorals/lever-standing-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-standing-chest-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/lever-standing-chest-press.thumb.webp"
+    },
+    {
+      "id": "quads/lever-alternate-leg-press",
+      "slug": "lever-alternate-leg-press",
+      "name": "Makinede Sırayla Bacak Presi",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce ön bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "quads/lever-alternate-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/lever-alternate-leg-press.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/lever-alternate-leg-press.thumb.webp"
+    },
+    {
+      "id": "quads/lever-leg-extension",
+      "slug": "lever-leg-extension",
+      "name": "Makinede Bacak Ekstansiyonu",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce ön bacak kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "quads/lever-leg-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/lever-leg-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/quads/lever-leg-extension.thumb.webp"
+    },
+    {
+      "id": "spine/lever-back-extension",
+      "slug": "lever-back-extension",
+      "name": "Makinede Sırt Ekstansiyon",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce bel bölgesini kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "spine/lever-back-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/lever-back-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/spine/lever-back-extension.thumb.webp"
+    },
+    {
+      "id": "traps/lever-gripless-shrug-v-2",
+      "slug": "lever-gripless-shrug-v-2",
+      "name": "Makinede Gripless Omuz Silkme",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce trapez kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "traps/lever-gripless-shrug-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/lever-gripless-shrug-v-2.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/lever-gripless-shrug-v-2.thumb.webp"
+    },
+    {
+      "id": "traps/lever-gripless-shrug",
+      "slug": "lever-gripless-shrug",
+      "name": "Makinede Gripless Omuz Silkme",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce trapez kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "traps/lever-gripless-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/lever-gripless-shrug.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/lever-gripless-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/lever-shrug",
+      "slug": "lever-shrug",
+      "name": "Makinede Omuz Silkme",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce trapez kaslarını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "traps/lever-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/lever-shrug.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/lever-shrug.thumb.webp"
+    },
+    {
+      "id": "triceps/lever-overhand-triceps-dip",
+      "slug": "lever-overhand-triceps-dip",
+      "name": "Makinede Overhand Triceps Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/lever-overhand-triceps-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-overhand-triceps-dip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-overhand-triceps-dip.thumb.webp"
+    },
+    {
+      "id": "triceps/lever-seated-dip",
+      "slug": "lever-seated-dip",
+      "name": "Oturarak Makinede Paralelde İniş-Çıkış",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/lever-seated-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-seated-dip.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-seated-dip.thumb.webp"
+    },
+    {
+      "id": "triceps/lever-triceps-extension",
+      "slug": "lever-triceps-extension",
+      "name": "Makinede Triceps Ekstansiyonu",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce triceps kasını kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "triceps/lever-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-triceps-extension.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/triceps/lever-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "upper-back/back-lever",
+      "slug": "back-lever",
+      "name": "Back Lever",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/back-lever.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/back-lever.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/back-lever.thumb.webp"
+    },
+    {
+      "id": "upper-back/front-lever-reps",
+      "slug": "front-lever-reps",
+      "name": "Reps Front Lever",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/front-lever-reps.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/front-lever-reps.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/front-lever-reps.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-alternating-narrow-grip-seated-row",
+      "slug": "lever-alternating-narrow-grip-seated-row",
+      "name": "Dar Tutuşla Makinede Sırayla Oturarak Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/lever-alternating-narrow-grip-seated-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-alternating-narrow-grip-seated-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-alternating-narrow-grip-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row-with-v-bar",
+      "slug": "lever-bent-over-row-with-v-bar",
+      "name": "Makinede V Barla Eğilerek Kürek Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/lever-bent-over-row-with-v-bar.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-bent-over-row-with-v-bar.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-bent-over-row-with-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row",
+      "slug": "lever-bent-over-row",
+      "name": "Makinede Eğilerek Kürek Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/lever-bent-over-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-bent-over-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-high-row",
+      "slug": "lever-high-row",
+      "name": "Makinede Yüksek Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/lever-high-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-high-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-narrow-grip-seated-row",
+      "slug": "lever-narrow-grip-seated-row",
+      "name": "Dar Tutuşla Makinede Oturarak Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/lever-narrow-grip-seated-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-narrow-grip-seated-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-narrow-grip-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-one-arm-bent-over-row",
+      "slug": "lever-one-arm-bent-over-row",
+      "name": "Makinede Tek Kolla Eğilerek Kürek Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/lever-one-arm-bent-over-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-one-arm-lateral-high-row",
+      "slug": "lever-one-arm-lateral-high-row",
+      "name": "Makinede Tek Kolla Lateral Yüksek Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/lever-one-arm-lateral-high-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-one-arm-lateral-high-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-one-arm-lateral-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-reverse-grip-vertical-row",
+      "slug": "lever-reverse-grip-vertical-row",
+      "name": "Ters Tutuşla Makinede Dikey Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/lever-reverse-grip-vertical-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-reverse-grip-vertical-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-reverse-grip-vertical-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-reverse-t-bar-row",
+      "slug": "lever-reverse-t-bar-row",
+      "name": "Makinede Ters T-Bar Kürek",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/lever-reverse-t-bar-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-reverse-t-bar-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-reverse-t-bar-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-seated-row",
+      "slug": "lever-seated-row",
+      "name": "Makinede Oturarak Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/lever-seated-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-seated-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-t-bar-reverse-grip-row",
+      "slug": "lever-t-bar-reverse-grip-row",
+      "name": "Ters Tutuşla Makinede T Bar Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/lever-t-bar-reverse-grip-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-t-bar-reverse-grip-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-t-bar-reverse-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-t-bar-row",
+      "slug": "lever-t-bar-row",
+      "name": "Makinede T-Bar Kürek",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/lever-t-bar-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-t-bar-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-t-bar-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-unilateral-row",
+      "slug": "lever-unilateral-row",
+      "name": "Makinede Tek Taraflı Çekme",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+        "Harekete başlamadan önce üst sırtı kasın.",
+        "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+        "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+        "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+      ],
+      "file": "upper-back/lever-unilateral-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-unilateral-row.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/lever-unilateral-row.thumb.webp"
+    }
+  ]
+}

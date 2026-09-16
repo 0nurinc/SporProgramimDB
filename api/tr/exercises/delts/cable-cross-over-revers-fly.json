@@ -1,0 +1,23 @@
+{
+  "id": "delts/cable-cross-over-revers-fly",
+  "slug": "cable-cross-over-revers-fly",
+  "name": "Makarada Çapraz Üzerinde Revers Açma",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps",
+    "upper-back"
+  ],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/cable-cross-over-revers-fly.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/cable-cross-over-revers-fly.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/cable-cross-over-revers-fly.thumb.webp"
+}

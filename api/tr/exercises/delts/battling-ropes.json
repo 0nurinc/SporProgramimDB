@@ -1,0 +1,24 @@
+{
+  "id": "delts/battling-ropes",
+  "slug": "battling-ropes",
+  "name": "Savaş Halatıyla",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "abs",
+    "forearms",
+    "traps"
+  ],
+  "instructions": [
+    "Lastik bandı sabitleyin ve başlangıç gerginliğini koruyun.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/battling-ropes.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/battling-ropes.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/battling-ropes.thumb.webp"
+}

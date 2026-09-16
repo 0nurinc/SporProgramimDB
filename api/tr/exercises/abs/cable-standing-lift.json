@@ -1,0 +1,20 @@
+{
+  "id": "abs/cable-standing-lift",
+  "slug": "cable-standing-lift",
+  "name": "Ayakta Makarada Lift",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce karın kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "abs/cable-standing-lift.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/cable-standing-lift.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/abs/cable-standing-lift.thumb.webp"
+}

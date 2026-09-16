@@ -1,0 +1,22 @@
+{
+  "id": "forearms/smith-standing-back-wrist-curl",
+  "slug": "smith-standing-back-wrist-curl",
+  "name": "Ayakta Smith Makinesinde Sırt Bilek Büküşü",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Barı Smith makinesinde uygun yüksekliğe getirin.",
+    "Harekete başlamadan önce önkolları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "forearms/smith-standing-back-wrist-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/smith-standing-back-wrist-curl.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/forearms/smith-standing-back-wrist-curl.thumb.webp"
+}

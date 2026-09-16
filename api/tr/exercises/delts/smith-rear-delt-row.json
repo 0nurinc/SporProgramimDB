@@ -1,0 +1,23 @@
+{
+  "id": "delts/smith-rear-delt-row",
+  "slug": "smith-rear-delt-row",
+  "name": "Smith Makinesinde Arka Omuz Çekme",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "instructions": [
+    "Barı Smith makinesinde uygun yüksekliğe getirin.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/smith-rear-delt-row.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/smith-rear-delt-row.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/smith-rear-delt-row.thumb.webp"
+}

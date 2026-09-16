@@ -1,0 +1,19 @@
+{
+  "id": "calves/calf-push-stretch-with-hands-against-wall",
+  "slug": "calf-push-stretch-with-hands-against-wall",
+  "name": "Baldır Push Eller Karşı Duvarda Esneme",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Doğru vücut hizasıyla başlangıç duruşunu alın.",
+    "Baldırları gerecek pozisyona geçin.",
+    "20-40 saniye derin nefes alarak pozisyonu koruyun.",
+    "Yavaşça başlangıç pozisyonuna dönün ve isterseniz tekrarlayın."
+  ],
+  "file": "calves/calf-push-stretch-with-hands-against-wall.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/calf-push-stretch-with-hands-against-wall.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/calves/calf-push-stretch-with-hands-against-wall.thumb.webp"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cardio/walking-on-incline-treadmill",
+  "slug": "walking-on-incline-treadmill",
+  "name": "Eğimli Yürüyerek Koşu Bandı",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "machine",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Seviyenize uygun sabit bir tempo koruyun.",
+    "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+    "Planlanan süre veya tekrar sayısı kadar devam edin."
+  ],
+  "file": "cardio/walking-on-incline-treadmill.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-on-incline-treadmill.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/walking-on-incline-treadmill.thumb.webp"
+}

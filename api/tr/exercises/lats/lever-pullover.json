@@ -1,0 +1,24 @@
+{
+  "id": "lats/lever-pullover",
+  "slug": "lever-pullover",
+  "name": "Makinede Pullover",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "abs"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce sırt kanatlarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "lats/lever-pullover.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/lever-pullover.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/lats/lever-pullover.thumb.webp"
+}

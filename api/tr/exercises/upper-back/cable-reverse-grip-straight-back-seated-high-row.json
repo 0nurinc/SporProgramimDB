@@ -1,0 +1,25 @@
+{
+  "id": "upper-back/cable-reverse-grip-straight-back-seated-high-row",
+  "slug": "cable-reverse-grip-straight-back-seated-high-row",
+  "name": "Oturarak Ters Tutuşla Makarada Sırt Düz Yüksek Çekme",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts",
+    "lats"
+  ],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce üst sırtı kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "upper-back/cable-reverse-grip-straight-back-seated-high-row.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/cable-reverse-grip-straight-back-seated-high-row.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/cable-reverse-grip-straight-back-seated-high-row.thumb.webp"
+}

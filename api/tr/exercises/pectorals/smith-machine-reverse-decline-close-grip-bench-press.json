@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/smith-machine-reverse-decline-close-grip-bench-press",
+  "slug": "smith-machine-reverse-decline-close-grip-bench-press",
+  "name": "Dar Tutuşla Smith Makinesinde Ters Ters Eğimli Göğüs Baskısı",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Barı Smith makinesinde uygun yüksekliğe getirin.",
+    "Harekete başlamadan önce göğüs kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "pectorals/smith-machine-reverse-decline-close-grip-bench-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-machine-reverse-decline-close-grip-bench-press.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/pectorals/smith-machine-reverse-decline-close-grip-bench-press.thumb.webp"
+}

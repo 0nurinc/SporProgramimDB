@@ -1,0 +1,20 @@
+{
+  "id": "serratus-anterior/barbell-incline-shoulder-raise",
+  "slug": "barbell-incline-shoulder-raise",
+  "name": "Halterle Eğimli Omuz Kaldırma",
+  "muscle": "serratus-anterior",
+  "bodyPart": "chest",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Halteri uygun ağırlıkla yükle ve başlangıç duruşunu al.",
+    "Harekete başlamadan önce serratus anterior kasını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "serratus-anterior/barbell-incline-shoulder-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/barbell-incline-shoulder-raise.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/serratus-anterior/barbell-incline-shoulder-raise.thumb.webp"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "traps/kettlebell-sumo-high-pull",
+  "slug": "kettlebell-sumo-high-pull",
+  "name": "Kettlebell'le Sumo Yüksek Çekiş",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Uygun ağırlıkta bir kettlebell alın ve duruşunuzu ayarlayın.",
+    "Harekete başlamadan önce trapez kaslarını kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "traps/kettlebell-sumo-high-pull.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/kettlebell-sumo-high-pull.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/traps/kettlebell-sumo-high-pull.thumb.webp"
+}

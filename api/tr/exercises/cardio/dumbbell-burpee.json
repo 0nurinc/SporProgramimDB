@@ -1,0 +1,25 @@
+{
+  "id": "cardio/dumbbell-burpee",
+  "slug": "dumbbell-burpee",
+  "name": "Dambılla Burpee",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "dumbbell",
+  "category": "cardio",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "quads",
+    "glutes",
+    "abs"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Seviyenize uygun sabit bir tempo koruyun.",
+    "Core'unuzu sıkın ve hareket boyunca dik bir duruş koruyun.",
+    "Planlanan süre veya tekrar sayısı kadar devam edin."
+  ],
+  "file": "cardio/dumbbell-burpee.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/dumbbell-burpee.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/cardio/dumbbell-burpee.thumb.webp"
+}

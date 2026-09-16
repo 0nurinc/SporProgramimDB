@@ -1,0 +1,22 @@
+{
+  "id": "delts/lever-shoulder-press-v-3",
+  "slug": "lever-shoulder-press-v-3",
+  "name": "Makinede Omuz Baskısı",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Makineyi vücudunuza göre ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/lever-shoulder-press-v-3.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-shoulder-press-v-3.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/lever-shoulder-press-v-3.thumb.webp"
+}

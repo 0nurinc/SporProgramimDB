@@ -1,0 +1,25 @@
+{
+  "id": "upper-back/dumbbell-side-plank-with-rear-fly",
+  "slug": "dumbbell-side-plank-with-rear-fly",
+  "name": "Dambılla Arka Side-plank Açma",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "abs",
+    "delts",
+    "glutes",
+    "traps"
+  ],
+  "instructions": [
+    "Uygun ağırlıkta bir dambılı her iki elinize (veya belirtilen ele) alın.",
+    "Harekete başlamadan önce üst sırtı kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "upper-back/dumbbell-side-plank-with-rear-fly.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/dumbbell-side-plank-with-rear-fly.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/upper-back/dumbbell-side-plank-with-rear-fly.thumb.webp"
+}

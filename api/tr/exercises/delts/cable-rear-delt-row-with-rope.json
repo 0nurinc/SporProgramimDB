@@ -1,0 +1,23 @@
+{
+  "id": "delts/cable-rear-delt-row-with-rope",
+  "slug": "cable-rear-delt-row-with-rope",
+  "name": "Makarada Halatla Arka Omuz Çekme",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "instructions": [
+    "Makarayı gerekli yüksekliğe ayarlayın ve ağırlığı seçin.",
+    "Harekete başlamadan önce omuzları kasın.",
+    "Hareketi kontrollü şekilde, tekniği bozmadan yapın.",
+    "Eksantrik fazı kontrol ederek başlangıç pozisyonuna dönün.",
+    "Nefesinizi kontrol edin: zorlanırken verin, dönerken alın."
+  ],
+  "file": "delts/cable-rear-delt-row-with-rope.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/cable-rear-delt-row-with-rope.gif",
+  "thumbUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@f95934d531e3/delts/cable-rear-delt-row-with-rope.thumb.webp"
+}
